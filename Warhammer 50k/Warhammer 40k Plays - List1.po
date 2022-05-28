@@ -1,0 +1,1284 @@
+#. 
+#: 
+msgctxt Open Play
+msgid Annihilation
+msgstr 
+
+#. 
+#: 
+msgctxt Open Play
+msgid Hold At All Costs
+msgstr 
+
+#. 
+#: 
+msgctxt Open Play
+msgid Death or Glory
+msgstr 
+
+#. 
+#: 
+msgctxt Open Play
+msgid Deployment Map
+msgstr 
+
+#. 
+#: 
+msgctxt Open Play
+msgid Slay the Warlord
+msgstr 
+
+#. 
+#: 
+msgctxt Open Play
+msgid Purge the Enemy
+msgstr 
+
+#. 
+#: 
+msgctxt Open Play
+msgid Dug-In Positions
+msgstr 
+
+#. 
+#: 
+msgctxt Open Play
+msgid No Matter the Cost
+msgstr 
+
+#. 
+#: 
+msgctxt Open Play
+msgid Mission Rules
+msgstr 
+
+#. 
+#: 
+msgctxt Open Play
+msgid Mission Objectives
+msgstr 
+
+#. 
+#: 
+msgctxt Open Play
+msgid No Retreat
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Incisive Attack
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Outriders
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Encircle
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Divide and Conquer
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Crossfire
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Centre Ground
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Forward Push
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Ransack
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Shifting Front
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Retrieval Mission
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Front-Line Warfare
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid The Four Pillars
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid No Man's Land
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Scorched Earth
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Vital Intelligence
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Lines of Battle
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid All-Out War
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Pathway to Glory
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid End Game
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Progressive
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Secondary Objective
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Purge the Enemy
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Assassinate
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Bring It Down
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Titan Slayers
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Slay the Warlord
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid No Mercy, No Respite
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Thin Their Ranks
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Attrition
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid While We Stand, We Fight
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid First Strike
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Battlefield Supremacy
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Engage On All Fronts
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Linebreaker
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Domination
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Shadow Operations
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Investigate Sites
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Repair Teleport Homer
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Raise the Banners High
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Warpcraft
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Mental Interrogation
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Psychic Ritual
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Abhor the Witch
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Investigate Site
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Raise Banners
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Sweep and Clear
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Take and Hold
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Surgical Assault
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Survey
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Deployment Zone
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Battlefield Edge
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Lines of Demarcation
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Outflank
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Quick March
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Supply Lines
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Test Their Line
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Minimise Losses
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Eternal War
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Vital Ground
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid The Pillars
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Siphon Power
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Secure No Man's Land
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Raze Objective
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Raze
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Data Terminals
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Data Intercept
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Unified Advance
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Hold the Centre
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Surround Them
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Secure the Search Area
+msgstr 
+
+#. 
+#: 
+msgctxt Matched Play
+msgid Search for the Portal
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Crusade Forces
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Crusade Faction
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Imperium
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Chaos
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Aeldari
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Tyranids
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Orks
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Necrons
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid T'Au Empire
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Order of Battle
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Crusade Card
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Supply Limit
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Battle Tally
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Requisition Points (RP)
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Experience
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Battle Experience
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Dealers of Death
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Marked for Greatness
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Battle Honour
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Battle Scar
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Out of Action
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Combat Tally
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Agenda
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Upgrade
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Requisitions
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Increase Supply Limit
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Fresh Recruits
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Rearm and Resupply
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Repair and Recuperate
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Psychic Meditations
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Specialist Reinforcements
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Warlord Trait
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Relic
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Battle-Ready
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Blooded
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Battle-Hardened
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Heroic
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Legendary
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Weapon Enhancement
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Battle Trait
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Psychic Fortitude
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Crusade Relic
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Swift and Agile
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Heroic Constitution
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Resilient
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Deadly Charge
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Inspiring Hero
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Tactical Experience
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Unstoppable
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Apex Predator
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Thickened Hide
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Frenzied
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Regenerates
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Terrifying
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Enhanced Engines
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Elite Crew
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Improved Shielding
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Armourbane
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Repair Systems
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Blessed Hull
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Fleet of Foot
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Veteran Warriors
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Grizzled
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Headhunters
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Cool-Headed
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Battle-Tested
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Auto-Loader
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Armour Piercing
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid High Calibre
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Improved Sights
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Accelerator
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Master-Worked
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Heirloom
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Razor-Edged
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Brutal
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Finely Balanced
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Shredder
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Fleshbane
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Psychic Might
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Adamantium Will
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Master of Lore
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Artificer Relic
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Artificer Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Master-Crafted Armour
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Laurels of Victory
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Conversion Field
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Artisan Bionics
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Frezon Injector
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Antiquity Relic
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Xenotech Digital Lasers
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Blackstone SHard Amulet
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Archeotech Nano-Med
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Dark Age Displacer Belt
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Legendary Relic
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Vortex Grenade
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Null-Field Disruptor
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Devastating Blow
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Battle Scar
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Lost Leg
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Blind in one Eye
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Deep Scars
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Chest Wound
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Deep Concussion
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Loss of Reputation
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Engine Fault
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Targeters Cracked
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Weakened Armour
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Weapon Damaged
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Angered Machine Spirit
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Vox Comms Destroyed
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Crippling Injury
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Crippled Limb
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Critical Wound
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Tissue Damage
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Fractured Skull
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Enraged and Unreasoning
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Walking Wounded
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Fetigued
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Battle-Weary
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Shell-Shock
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Disgraced
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Mark of Shame
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Crusade Points
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Crusade Army
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Crussade Blessings
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Split Unit
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Combat Squad
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Summoned Unit
+msgstr 
+
+#. 
+#: 
+msgctxt Narrative Play
+msgid Combined Unit
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Open Play
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Narrative Play
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Matched Play
+msgstr 
+

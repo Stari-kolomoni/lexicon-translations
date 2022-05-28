@@ -1,0 +1,150 @@
+#. 
+#: 
+msgctxt 
+msgid Unit Name
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Battlefield Role
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Profile
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Composition
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Wargear
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Understrength Unit
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid No.
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Move (M)
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Weapon Skill (WS)
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Ballistic Skill (BS)
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Strength (S)
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Toughness (T)
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Wounds (W)
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Attacks (A)
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Leadership (Ld)
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Save (Sv)
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Ability
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Aura Ability
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Effect
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Range
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Type
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Armour Penetration (AP)
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Damage (D)
+msgstr 
+
+#. 
+#: 
+msgctxt 
+msgid Characteristic
+msgstr 
+

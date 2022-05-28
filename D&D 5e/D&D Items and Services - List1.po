@@ -1,0 +1,1434 @@
+#. 
+#: 
+msgctxt Currency
+msgid Copper Pieces (CP)
+msgstr 
+
+#. 
+#: 
+msgctxt Currency
+msgid Electrum Pieces (EP)
+msgstr 
+
+#. 
+#: 
+msgctxt Currency
+msgid Gold Pieces (GP)
+msgstr 
+
+#. 
+#: 
+msgctxt Currency
+msgid Platinum Pieces (PP)
+msgstr 
+
+#. 
+#: 
+msgctxt Currency
+msgid Silver Pieces (SP)
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Arcane Focus
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Belaying Pin
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Belt Pouch
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Bottle of Black Ink
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Burglar's Pack
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Component Pouch
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Crowbar
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Deck of Cards
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Deck of Marked Cards
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Diplomat's Pack
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Disguise Kit
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Druidic Focus
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Dungeoneer's Pack
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Entertainer's Pack
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Explorer's Pack
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Favor of an Admirer
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Forgery Kit
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Gaming Set
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Herbalism Kit
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Holy Symbol
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Hunting Trap
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Incense
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Insignia of Rank
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Iron Pot
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Kit (Equipment)
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Lucky Charm (Rabbit Foot, Trinket)
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Lute
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Navigator's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Prayer Book
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Prayer Wheel
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Priest's Pack
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Quill
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Scholar's Pack
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Scroll of Pedigree
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Set of Bone Dice
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Set of Common Clothes
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Set of Traveler's Clothes
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Set of Weighted Dice
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Shovel
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Signet Ring
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Signet Ring of an Imaginary Duke
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Silk Rope
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Small Knife
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Staff
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Ten Stoppered Bottles
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Thieves' Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Token
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Tools of the Con
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Trophy from an Animal
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Trophy Taken from a Fallen Enemy
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Vestments
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Winter Blanket
+msgstr 
+
+#. 
+#: 
+msgctxt Food, Drink, Lodgings
+msgid Ale
+msgstr 
+
+#. 
+#: 
+msgctxt Food, Drink, Lodgings
+msgid Banquet
+msgstr 
+
+#. 
+#: 
+msgctxt Food, Drink, Lodgings
+msgid Common (pitcher) Wine
+msgstr 
+
+#. 
+#: 
+msgctxt Food, Drink, Lodgings
+msgid Fine (Bottle) Wine
+msgstr 
+
+#. 
+#: 
+msgctxt Food, Drink, Lodgings
+msgid Gallon
+msgstr 
+
+#. 
+#: 
+msgctxt Food, Drink, Lodgings
+msgid Hunk
+msgstr 
+
+#. 
+#: 
+msgctxt Food, Drink, Lodgings
+msgid Inn Stay
+msgstr 
+
+#. 
+#: 
+msgctxt Food, Drink, Lodgings
+msgid Loaf
+msgstr 
+
+#. 
+#: 
+msgctxt Food, Drink, Lodgings
+msgid Meals
+msgstr 
+
+#. 
+#: 
+msgctxt Food, Drink, Lodgings
+msgid Mug
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Abacus
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Acid
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Aclhemist's fire
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Amulet
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Antitoxin
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Backpack
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Ball bearings
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Barrel
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Basket
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Bedroll
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Bell
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Blanket
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Block and Tackle
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Blowgun Needles
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Book
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Bottle, Glass
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Bucket
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Caltrops
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Candle
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Case, Crossbow Bolt
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Case, Map or Scroll
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Chain
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Chalk
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Chest
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Climber's Kit
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Clothes, Common
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Clothes, Costume
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Clothes, Fine
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Clothes, Traveler's
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Crystal
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Emblem
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Fishing Tackle
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Flask or Tankard
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Grappling Hook
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Hammer
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Hammer, Sledge
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Healer's Kit
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Holy Water
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Hourglass
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Hunting Trap
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Ink
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Ink Pen
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Jug or Pitcher
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Ladder
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Lamp
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Lantern, Bullseye
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Lantern, Hooded
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Lock
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Magnifying Glass
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Manacles
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Mess Kit
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Mirror, Steel
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Oil
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Orb
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Paper
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Parchment
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Parfume
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Pick, Miner's
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Piton
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Poison
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Pole
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Pot, Iron
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Potion of Healing
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Pouch
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Ram, Portable
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Rations (1 day)
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Reliquary
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Robes
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Rod
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Rope, Hempen
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Rope, Silk
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Sack
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Scale, Merchant's
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Sealing Wax
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Shovel
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Signal Whistle
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Sling Bullets
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Soap
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Spikes, Iron
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Sprig of Mistletoe
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Spyglass
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Staff
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Tent, Two-person
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Tinderbox
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Torch
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Totem
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Vial
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Wand
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Waterskin
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Whetstone
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Wooden Staff
+msgstr 
+
+#. 
+#: 
+msgctxt Gear
+msgid Yew Wand
+msgstr 
+
+#. 
+#: 
+msgctxt Lifestyle
+msgid Aristocratic Lifestyle
+msgstr 
+
+#. 
+#: 
+msgctxt Lifestyle
+msgid Comfortable Lifestyle
+msgstr 
+
+#. 
+#: 
+msgctxt Lifestyle
+msgid Modest Lifestyle
+msgstr 
+
+#. 
+#: 
+msgctxt Lifestyle
+msgid Poor Lifestyle
+msgstr 
+
+#. 
+#: 
+msgctxt Lifestyle
+msgid Squalid Lifestyle
+msgstr 
+
+#. 
+#: 
+msgctxt Lifestyle
+msgid Wealthy Lifestyle
+msgstr 
+
+#. 
+#: 
+msgctxt Lifestyle
+msgid Wretched Lifestyle
+msgstr 
+
+#. Animal armor.
+#: 
+msgctxt Mounts & Vehicles
+msgid Barding
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Bit and Bridle
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Carriage
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Cart
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Chariot
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Exotic Saddle
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Feed
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Galley
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Keelboat
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Longship
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Mastiff
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Military Saddle
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Pack Saddle
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Riding Saddle
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Rowboat
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Rowed Vessel
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Saddle
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Saddlebags
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Sailing Ship
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Sled
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Stabling
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Wagon
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Warhorse
+msgstr 
+
+#. 
+#: 
+msgctxt Mounts & Vehicles
+msgid Warship
+msgstr 
+
+#. 
+#: 
+msgctxt Service
+msgid Coach Cab
+msgstr 
+
+#. 
+#: 
+msgctxt Service
+msgid Gate Toll
+msgstr 
+
+#. 
+#: 
+msgctxt Service
+msgid Hireling
+msgstr 
+
+#. 
+#: 
+msgctxt Service
+msgid Messenger
+msgstr 
+
+#. 
+#: 
+msgctxt Service
+msgid Road Toll
+msgstr 
+
+#. 
+#: 
+msgctxt Service
+msgid Ship's Passage
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Alchemist's Supplies
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Artisan's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Bagpipes
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Brewer's Supplies
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Calligrapher's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Carpenter's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Cartographer's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Cobbler's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Cook's Utensils
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Dice Set
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Disguise Kit
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Dragonchess Set
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Drum
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Dulcimer
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Flute
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Forgery Kit
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Gaming Set
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Glassblower's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Horn
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Jeweler's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Leatherworker's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Lute
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Lyre
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Mason's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Navigator's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Painter's Supplies
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Pan Flute
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Playing Card Set
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Poisoner's Kit
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Potter's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Shawm
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Smith's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Three-Dragon Ante Set
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Tinker's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Vehicles (land or water)
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Viol
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Weaver's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Tools
+msgid Woodcarver's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Trade Goods
+msgid Linen
+msgstr 
+
+#. 
+#: 
+msgctxt Trade Goods
+msgid Ox
+msgstr 
+
+#. 
+#: 
+msgctxt Trade Goods
+msgid Saffron
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid (Equipment) Pack
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Mounts and Vehicles
+msgstr 
+

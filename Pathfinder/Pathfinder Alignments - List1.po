@@ -1,0 +1,36 @@
+#. 
+#: 
+msgctxt Alignment
+msgid Good
+msgstr 
+
+#. 
+#: 
+msgctxt Alignment
+msgid Neutral
+msgstr 
+
+#. 
+#: 
+msgctxt Alignment
+msgid Evil
+msgstr 
+
+#. 
+#: 
+msgctxt Alignment
+msgid Lawful
+msgstr 
+
+#. 
+#: 
+msgctxt Alignment
+msgid Neutral
+msgstr 
+
+#. 
+#: 
+msgctxt Alignment
+msgid Chaotic
+msgstr 
+

@@ -1,0 +1,1740 @@
+#. 
+#: 
+msgctxt Item
+msgid Acid
+msgstr 
+
+#. 
+#: 
+msgctxt Item
+msgid Alchemist's Fire
+msgstr 
+
+#. 
+#: 
+msgctxt Item
+msgid Smokestick
+msgstr 
+
+#. 
+#: 
+msgctxt Item
+msgid Tindertwig
+msgstr 
+
+#. 
+#: 
+msgctxt Item
+msgid Antitoxin
+msgstr 
+
+#. 
+#: 
+msgctxt Item
+msgid Sunrod
+msgstr 
+
+#. 
+#: 
+msgctxt Item
+msgid Ranglefoot Bag
+msgstr 
+
+#. 
+#: 
+msgctxt Item
+msgid Thunderstone
+msgstr 
+
+#. 
+#: 
+msgctxt Item
+msgid Amor
+msgstr 
+
+#. 
+#: 
+msgctxt Item
+msgid Shield
+msgstr 
+
+#. 
+#: 
+msgctxt Weapon
+msgid Longbow
+msgstr 
+
+#. 
+#: 
+msgctxt Weapon
+msgid Shortbow
+msgstr 
+
+#. 
+#: 
+msgctxt Item
+msgid Arrows
+msgstr 
+
+#. 
+#: 
+msgctxt Weapon
+msgid Composite Longbow
+msgstr 
+
+#. 
+#: 
+msgctxt Weapon
+msgid Composite Shortbow
+msgstr 
+
+#. 
+#: 
+msgctxt Item
+msgid Mechanical Trap
+msgstr 
+
+#. 
+#: 
+msgctxt Weapon
+msgid Crossbow
+msgstr 
+
+#. 
+#: 
+msgctxt Item
+msgid Bolts
+msgstr 
+
+#. 
+#: 
+msgctxt Currency
+msgid Copper Piece
+msgstr 
+
+#. 
+#: 
+msgctxt Currency
+msgid Silver Piece
+msgstr 
+
+#. 
+#: 
+msgctxt Currency
+msgid Gold Piece
+msgstr 
+
+#. 
+#: 
+msgctxt Currency
+msgid Platinum Piece
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Simple Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Martial Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Exotic Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Melee Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Ranged Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Reach Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Double Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Thrown Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Projectile Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Ammunition
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Light Melee Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid One-Handed Melee Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Two-Handed Melee Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Inappropriately Sized Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Equipment
+msgid Improvised Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Weapon type
+msgid Brace
+msgstr 
+
+#. 
+#: 
+msgctxt Weapon type
+msgid Disarm
+msgstr 
+
+#. 
+#: 
+msgctxt Weapon type
+msgid Double
+msgstr 
+
+#. 
+#: 
+msgctxt Weapon type
+msgid Nonlethal
+msgstr 
+
+#. 
+#: 
+msgctxt Weapon type
+msgid Reach
+msgstr 
+
+#. 
+#: 
+msgctxt Weapon type
+msgid Trip
+msgstr 
+
+#. 
+#: 
+msgctxt Special material
+msgid Adamantine
+msgstr 
+
+#. 
+#: 
+msgctxt Special material
+msgid Darkwood
+msgstr 
+
+#. 
+#: 
+msgctxt Special material
+msgid Dragonhide
+msgstr 
+
+#. 
+#: 
+msgctxt Special material
+msgid Cold Iron
+msgstr 
+
+#. 
+#: 
+msgctxt Special material
+msgid Mithral
+msgstr 
+
+#. 
+#: 
+msgctxt Special material
+msgid Alchemical Silver
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Backpack
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Barrel
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Basket
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Bedroll
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Bell
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Winter Blanket
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Block and Tackle
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Glass Bottle
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Bucket
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Caltrops
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Candle
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Canvas
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Map/Scroll Case
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Chain
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Chalk
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Chest
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Crowbar
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Firewood
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Fishhook
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Fishing Net
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Flask
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Flint and Steel
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Grappling Hook
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Hammer
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Hourglass
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Ink
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Inkpen
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Clay Jug
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Ladder
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Common Lamp
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Bullseye Lantern
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Hooded Lantern
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Simple Lock
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Average Lock
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Good Lock
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Superior Lock
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Manacles
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Masterwork Manacles
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Small Steel Mirror
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Clay Mug/Tankard
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Oil
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Paper
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Parchment
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Miner's Pick
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Clay Pitcher
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Piton
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Pole
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Iron Pot
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Belt Pouch
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Portable Ram
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Trail Rations
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Hemp Rope
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Silk Rope
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Sack
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Sealing Wax
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Sewing Needle
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Shovel or Spade
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Signal Whistle
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Signet Ring
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Sledge
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Soap
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Spyglass
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Tent
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Torch
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Vial, Ink or Potion
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Water Clock
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Waterskin
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Whelstone
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Acid
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Alchemist's Fire
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Antitoxin
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Everburning Torch
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Holy Water
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Smokestick
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Sunrod
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Tanglefoot Bag
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Thunderstone
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Tindertwig
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Alchemist's Lab
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Artisan's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Masterwork Artisan's Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Climber's Kit
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Disguise Kit
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Healer's Kit
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Holly and Mistletoe
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Wooden Holy Symbol
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Silver Holy Symbol
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Magnifying Glass
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Common Musical Instrument
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Masterwork Musical Instrument
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Merchant's Scale
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Spell Component Pouch
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Wizard's Spellbook
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Thieves' Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Masterwork Thieves' Tools
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Masterwork Tool
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Artisan's Outfit
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Cleric's Vestments
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Cold-Weather Outfit
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Courtier's Outfit
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Entertainer's Outfit
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Explorer's Outfit
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Monk's Outfit
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Noble's Outfit
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Peasant's Outfit
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Royal Outfit
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Scholar's Outfit
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Traveler's Outfit
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Gallon
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Mug
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Banquet
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Loaf of Bread
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Hunk of Cheese
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Common Wine
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Fine Wine
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Bit and Bridle
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Guard Dog
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Riding Dog
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Donkey or Mule
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Feed
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Military Saddle
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Pack Saddle
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Riding Saddle
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Saddlebags
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Stabling
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Carriage
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Cart
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Galley
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Keelboat
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Longship
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Rowboat
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Oar
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Sailing Ship
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Sled
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Wagon
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Warship
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Coach Cab
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Trained Hireling
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Untrained Hireling
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Messenger
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Road or Gate Toll
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Ship's Passage
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Spellcasting
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Good Meal
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Common Meal
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Poor Meal
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Good Stay
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Common Stay
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Poor Stay
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Medium Barding
+msgstr 
+
+#. 
+#: 
+msgctxt Goods or service
+msgid Heavy Barding
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Spell Completion
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Spell Trigger
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Command Word
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Use Activated
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Armor
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Potion
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Ring
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Scroll
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Stave
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Wand
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Wondrous Item
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Thorp
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Hamlet
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Village
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Small Town
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Large Town
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Small City
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Large City
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Metropolis
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Aura
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Slot
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Animated Shield
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Arrow Catching
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Arrow Deflection
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Bashing
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Blinding
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Energy Resistance
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Etherealness
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Fortification
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Ghost Touch
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Glamered
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Invulnerability
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Improved Energy Resistance
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Greater Energy Resistance
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Reflecting
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Shadow
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Improved Shadow
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Greater Shadow
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Slick
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Improved Slick
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Greater Slick
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Spell Resistance
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Undead Controlling
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Wild
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Breakage
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Light Generation
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Anarchic Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Axiomatic Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Bane Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Brilliant Energy
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Dancing Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Defending Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Disruption Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Distance Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Flaming Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Flaming Burst Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Frost Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Ghost Touch Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Holy Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Icy Burst Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Keen Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Ki Focus
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Merciful Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Mighty Cleaving Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Returning Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Seeking Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Shock Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Shocking Burst Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Speed Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Spell Storing Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Thundering Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Throwing Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Unholy Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Vicious Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Vorpal Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Wounding Weapon
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Empathy
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Telepathy
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Read Magic
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Item Ego
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Curse
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Delusion
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Opposite Effect or Target
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Intermittent Functioning
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Requirement
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Drawback
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Completely Different Effect
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Unreliable
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Dependent
+msgstr 
+
+#. 
+#: 
+msgctxt Magic item
+msgid Uncontrolled
+msgstr 
+

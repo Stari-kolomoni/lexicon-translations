@@ -1,0 +1,42 @@
+#. Implies freedom, adaptability, and flexibility; recklessness, resentment toward legitimate authority, arbitrary actions, and irresponsibility.
+#: Chaotic Good, Chaotic Evil, Chaotic Neutral
+msgctxt Alignment
+msgid Chaotic
+msgstr 
+
+#. Implies harming, oppressing, and killing others.
+#: Lawful Evil, Neutral Evil, Chaotic Evil
+msgctxt Alignment
+msgid Evil
+msgstr 
+
+#. Implies altruism, respect for life, and a concern for the dignity of sentient beings.
+#: Lawful Good, Neutral Good, Chaotic Good
+msgctxt Alignment
+msgid Good
+msgstr 
+
+#. Implies honor, trustworthiness, obedience to authority, and reliability; closed-mindedness, reactionary adherence to tradition, judgmentalness, and a lack of adaptability.
+#: Lawful Good, Lawful Neutral, Lawful Evil
+msgctxt Alignment
+msgid Lawful
+msgstr 
+
+#. 
+#: Lawful Neutral, Chaotic Neutral
+msgctxt Alignment
+msgid Neutral
+msgstr 
+
+#. Character tends not to feel strongly towards any alignment, or actively seeks their balance.
+#: 
+msgctxt Alignment
+msgid True Neutral
+msgstr 
+
+#. For creatures that are not sapient enough to make decisions based on moral choices, but operating purely on instinct.
+#: 
+msgctxt Alignment
+msgid Unaligned
+msgstr 
+
