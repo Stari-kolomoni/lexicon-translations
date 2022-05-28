@@ -1,0 +1,785 @@
+msgid ""
+msgstr ""
+"Language: English
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+
+# Creature’s physical or mental characteristic.
+#: 
+msgctxt Ability
+msgid Ability
+msgstr 
+
+# 
+#: 
+msgctxt Ability
+msgid Ability Check
+msgstr 
+
+# A number that defines the magnitude of that ability.
+#: 
+msgctxt Ability
+msgid Ability Score
+msgstr 
+
+# 
+#: 
+msgctxt Ability
+msgid Ability Score Increase
+msgstr 
+
+# The language of demons.
+#: 
+msgctxt Language
+msgid Abyssal
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Acolyte
+msgstr 
+
+# Character's control over their balance and attempts to stay on their feet in a tricky situation.
+#: 
+msgctxt Skill
+msgid Acrobatics
+msgstr 
+
+# Categorization of the ethical and moral perspective of character.
+#: 
+msgctxt Alignment
+msgid Alignment
+msgstr 
+
+# Calming down a domesticated animal, keeping a mount from getting spooked, intuiting an animal's intentions...
+#: 
+msgctxt Skill
+msgid Animal Handling
+msgstr 
+
+# Ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes.
+#: 
+msgctxt Skill
+msgid Arcana
+msgstr 
+
+# Determined by armor and shield that the character wears.
+#: 
+msgctxt Game Mechanic
+msgid Armor Class (AC)
+msgstr 
+
+# Covers difficult situations, encountered while climbing, jumping, or swimming.
+#: 
+msgctxt Skill
+msgid Athletics
+msgstr 
+
+# Bonus on the roll which determines if the attack succeeded.
+#: 
+msgctxt Game Mechanic
+msgid Attack Bonus
+msgstr 
+
+# Story cues about character's identity, their experiences and origin.
+#: 
+msgctxt Game Mechanic
+msgid Background
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Bad Reputation
+msgstr 
+
+# A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius.
+#: 
+msgctxt Game Mechanic
+msgid Blindsight
+msgstr 
+
+# Things, people, or places that character cares deeply about and would fight to protect.
+#: 
+msgctxt Game Mechanic
+msgid Bond
+msgstr 
+
+# The weight that character can carry.
+#: 
+msgctxt Game Mechanic
+msgid Carrying Capacity
+msgstr 
+
+# The language of celestials.
+#: 
+msgctxt Language
+msgid Celestial
+msgstr 
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Character Sheet
+msgstr 
+
+# Measures character's ability to interact effectively with others.
+#: 
+msgctxt Ability
+msgid Charisma
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Charlatan
+msgstr 
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Class
+msgstr 
+
+# Character's class gives them a variety of special features.
+#: 
+msgctxt Game Mechanic
+msgid Class Feature
+msgstr 
+
+# Lingua franca of the Forgotten Realms and of most D&D settings.
+#: 
+msgctxt Language
+msgid Common
+msgstr 
+
+# Represents character's health, stamina, and vital force.
+#: 
+msgctxt Ability
+msgid Constitution
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Criminal
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Criminal Contact
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Criminal Specialty
+msgstr 
+
+# Current "lives" left.
+#: 
+msgctxt Game Mechanic
+msgid Current Hit Points
+msgstr 
+
+# Roll to see if character dies.
+#: 
+msgctxt Game Mechanic
+msgid Death Saving Throw
+msgstr 
+
+# Determines whether character can convincingly hide the truth, either verbally or through their actions.
+#: 
+msgctxt Skill
+msgid Deception
+msgstr 
+
+# The language of aberrations, an alien form of communication originating in the Far Realm.
+#: 
+msgctxt Language
+msgid Deep Speech
+msgstr 
+
+# 
+#: 
+msgctxt Background (Folk Hero)
+msgid Defining Event
+msgstr 
+
+# Encompasses a number of physical attributes including hand-eye coordination, agility, reflexes, fine motor skills, balance and speed of movement.
+#: 
+msgctxt Ability
+msgid Dexterity
+msgstr 
+
+# The difficulty of any given skill check.
+#: 
+msgctxt Game Mechanic
+msgid Difficulty Class (DC)
+msgstr 
+
+# 
+#: 
+msgctxt Background (Hermit)
+msgid Discovery
+msgstr 
+
+# Time between adventures, and periods during adventurers where nothing “important” is happening.
+#: 
+msgctxt Game Mechanic
+msgid Downtime
+msgstr 
+
+# Language which has been spoken by dragons since prehistoric times.
+#: 
+msgctxt Language
+msgid Draconic
+msgstr 
+
+# This is the stat that you put your lowest score in, or else don't spend any points on at all.
+#: 
+msgctxt Game Slang
+msgid Dump Stat
+msgstr 
+
+# A family of languages used by dwarves.
+#: 
+msgctxt Language
+msgid Dwarvish
+msgstr 
+
+# The language of the Tel'Quessir.
+#: 
+msgctxt Language
+msgid Elvish
+msgstr 
+
+# If character carries weight in excess, they are encumbered, which means their speed drops by 10 feet.
+#: 
+msgctxt Game Mechanic
+msgid Encumbrance
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Entertainer
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Entertainer Routine
+msgstr 
+
+# As character goes on adventures and overcomes challenges, they gain experience, represented by experience points.
+#: 
+msgctxt Game Mechanic
+msgid Experience Points (XP)
+msgstr 
+
+# Class ability that allows a character to double their proficiency bonus on a skill.
+#: 
+msgctxt Game Mechanic
+msgid Expertise
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid False Identity
+msgstr 
+
+# Represents a talent or an area of expertise that gives character special capabilities.
+#: 
+msgctxt Game Mechanic
+msgid Feat
+msgstr 
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Feature
+msgstr 
+
+# Sort of like a "negative feat", in that it provides a penalty or otherwise hindrance to the character who has it.
+#: 
+msgctxt Game Mechanic
+msgid Flaws
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Folk Hero
+msgstr 
+
+# 
+#: 
+msgctxt Language
+msgid Giant Language
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Gladiator
+msgstr 
+
+# 
+#: 
+msgctxt Language
+msgid Gnomish
+msgstr 
+
+# 
+#: 
+msgctxt Language
+msgid Goblin
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Guild Artisan
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Guild Membership
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Guild Merchant
+msgstr 
+
+# 
+#: 
+msgctxt Language
+msgid Halfling
+msgstr 
+
+# If character carries weight in excess of 10 times their Strength score, up to their maximum carrying capacity, they are heavily encumbered, which means their speed drops by 20 feet.
+#: 
+msgctxt Game Mechanic
+msgid Heavy Encumbrance
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Hermit
+msgstr 
+
+# Measures character's ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes...
+#: 
+msgctxt Skill
+msgid History
+msgstr 
+
+# Represents both the dice rolled to determine a character or creature's hit points, and a short-rest hit point recovery mechanic.
+#: 
+msgctxt Game Mechanic
+msgid Hit Point Dice
+msgstr 
+
+# The amount of hit points character has at full health.
+#: 
+msgctxt Game Mechanic
+msgid Hit Point Maximum
+msgstr 
+
+# A number measuring the amount of damage a creature, character, or object can take before being killed, disabled or destroyed.
+#: 
+msgctxt Game Mechanic
+msgid Hit Points
+msgstr 
+
+# Beliefs that drive a character.
+#: 
+msgctxt Game Mechanic
+msgid Ideals
+msgstr 
+
+# 
+#: 
+msgctxt Language
+msgid Infernal
+msgstr 
+
+# Initiative determines the order of turns during combat.
+#: 
+msgctxt Game Mechanic
+msgid Initiative
+msgstr 
+
+# Decides whether character can determine the true intentions of a creature, such as when searching out a lie or predicting someone's next move.
+#: 
+msgctxt Skill
+msgid Insight
+msgstr 
+
+# Inspiration is a way for DM to reward quick thinking, heroism, or a moment of great roleplaying.
+#: 
+msgctxt Game Mechanic
+msgid Inspiration
+msgstr 
+
+# Measures mental acuity, accuracy of recall, and the ability to reason.
+#: 
+msgctxt Ability
+msgid Intelligence
+msgstr 
+
+# Decides whether character can influence someone through overt threats, hostile actions, and physical violence.
+#: 
+msgctxt Skill
+msgid Intimidation
+msgstr 
+
+# Represents character's ability to pay close attention to detail when searching a location, figuring out the clues, making deductions.
+#: 
+msgctxt Skill
+msgid Investigation
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Knight
+msgstr 
+
+# Advancement in character's capabilities.
+#: 
+msgctxt Game Mechanic
+msgid Level
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Life of Seclusion
+msgstr 
+
+# Lets character try to stabilize a dying companion or diagnose an illness.
+#: 
+msgctxt Skill
+msgid Medicine
+msgstr 
+
+# 
+#: 
+msgctxt Character
+msgid Mental Ability
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Military Rank
+msgstr 
+
+# Allows character to gain levels in multiple classes.
+#: 
+msgctxt Game Mechanic
+msgid Multiclassing
+msgstr 
+
+# Measures character's ability to recall lore about terrain, plants and animals, the weather, and natural cycles.
+#: 
+msgctxt Skill
+msgid Nature
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Noble
+msgstr 
+
+# 
+#: 
+msgctxt Language
+msgid Orc
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Origin
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Outlander
+msgstr 
+
+# What character is generally aware of while being around in the world.
+#: 
+msgctxt Game Mechanic
+msgid Passive Perception (Passive Wisdom)
+msgstr 
+
+# For noticing clues, detecting secret doors, spotting imminent dangers, finding traps, following tracks, listening for sounds behind a closed door, or locateing hidden objects.
+#: 
+msgctxt Skill
+msgid Perception
+msgstr 
+
+# Determines how well character can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
+#: 
+msgctxt Skill
+msgid Performance
+msgstr 
+
+# Used when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette.
+#: 
+msgctxt Skill
+msgid Persuasion
+msgstr 
+
+# 
+#: 
+msgctxt Character
+msgid Physical Ability
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Pirate
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Position of Privilege
+msgstr 
+
+# 
+#: 
+msgctxt Language
+msgid Primordial
+msgstr 
+
+# A character can be proficient in a skill.
+#: 
+msgctxt Game Mechanic
+msgid Proficiency
+msgstr 
+
+# A bonus added to skill checks, saving throws, or attacks for skills that a character is proficient in.
+#: 
+msgctxt Game Mechanic
+msgid Proficiency Bonus
+msgstr 
+
+# 
+#: 
+msgctxt Character
+msgid Race
+msgstr 
+
+# Used to gather knowledge about religious knowledge or to recognize a religion-related clue.
+#: 
+msgctxt Skill
+msgid Religion
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Researcher
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Retainers
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Rustic Hospitality
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Sage
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Sailor
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Scam
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Scheme
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Shelter of the Faithful
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Ship's Passage
+msgstr 
+
+# Skill represents a specific aspect of an ability score, and an individual's proficiency in a skill demonstrates a focus on that aspect.
+#: 
+msgctxt Skill
+msgid Skill
+msgstr 
+
+# The skill for pickpockets, shoplifters, and stage magicians.
+#: 
+msgctxt Skill
+msgid Sleight of Hand
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Specialty
+msgstr 
+
+# The distance in feet that the character or monster can walk in 1 round.
+#: 
+msgctxt Game Mechanic
+msgid Speed
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Spy
+msgstr 
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Starting Equipment
+msgstr 
+
+# Synonim for Ability.
+#: 
+msgctxt Game Mechanic
+msgid Stat
+msgstr 
+
+# Used to conceal oneself from enemies, slink past guards, slip away without being noticed, and sneak up on others.
+#: 
+msgctxt Skill
+msgid Stealth
+msgstr 
+
+# Measures a characters ability to exert physical force.
+#: 
+msgctxt Ability
+msgid Strength
+msgstr 
+
+# 
+#: 
+msgctxt Character
+msgid Subrace
+msgstr 
+
+# Used to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs..
+#: 
+msgctxt Skill
+msgid Survival
+msgstr 
+
+# 
+#: 
+msgctxt Language
+msgid Sylvan
+msgstr 
+
+# 
+#: 
+msgctxt Language
+msgid Telepathy
+msgstr 
+
+# A buffer against damage, a pool of hit points that protect one from injury.
+#: 
+msgctxt Game Mechanic
+msgid Temporary Hit Points
+msgstr 
+
+# Character traits.
+#: 
+msgctxt Character
+msgid Traits
+msgstr 
+
+# 
+#: 
+msgctxt Character
+msgid Tremorsense
+msgstr 
+
+# Innate ability of creatures that allows them to sense vibrations within a specified radius.
+#: 
+msgctxt Character
+msgid Truesight
+msgstr 
+
+# A trade language spoken by the majority of intelligent races native to the Underdark.
+#: 
+msgctxt Language
+msgid Undercommon
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Urchin
+msgstr 
+
+# 
+#: 
+msgctxt Background
+msgid Wanderer
+msgstr 
+
+# Measures a character's practical intelligence, their cleverness, their perceptiveness, and how in tune they are with the world around them.
+#: 
+msgctxt Ability
+msgid Wisdom
+msgstr 
+
+# 
+#: 
+msgctxt Character
+msgid Vehicle Proficiency
+msgstr 
+

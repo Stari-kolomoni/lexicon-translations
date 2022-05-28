@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Language: English
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Advantage
+msgstr 
+
+# 
+#: 
+msgctxt Adventure
+msgid Adventure
+msgstr 
+
+# 
+#: 
+msgctxt Adventure
+msgid Adventure Seed
+msgstr 
+
+# 
+#: 
+msgctxt Adventure
+msgid Adventurer
+msgstr 
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Bonus
+msgstr 
+
+# Bright light lets most Creatures see normally.
+#: 
+msgctxt Vision and Light
+msgid Bright Light
+msgstr 
+
+# 
+#: 
+msgctxt Adventure
+msgid Campaign
+msgstr 
+
+# The numerical system used to determine a party of four players' difficulty in defeating an enemy.
+#: 
+msgctxt Game Mechanic
+msgid Challenge Rating (CR)
+msgstr 
+
+# An ability check tests a character's or monster's innate talent and training in an effort to overcome a challenge.
+#: 
+msgctxt Game Mechanic
+msgid Check
+msgstr 
+
+# Darkness creates a heavily obscured area.
+#: 
+msgctxt Vision and Light
+msgid Darkness
+msgstr 
+
+# Dim light, also called shadows, creates a lightly obscured area.
+#: 
+msgctxt Vision and Light
+msgid Dim Light
+msgstr 
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Disadvantage
+msgstr 
+
+# The downtime system allows characters to pursue long-term activities between game sessions.
+#: 
+msgctxt Game Mechanic
+msgid Downtime
+msgstr 
+
+# 
+#: 
+msgctxt Type of adventure
+msgid Dungeon Crawl
+msgstr 
+
+# 
+#: 
+msgctxt Adventure
+msgid Dungeon Master (DM)
+msgstr 
+
+# 
+#: 
+msgctxt Adventure
+msgid Encounter
+msgstr 
+
+# 
+#: 
+msgctxt Adventure
+msgid Exploration
+msgstr 
+
+# 
+#: 
+msgctxt Adventure
+msgid Game Master (GM)
+msgstr 
+
+# A heavily obscured area blocks vision entirely.
+#: 
+msgctxt Vision and Light
+msgid Heavily Obscured
+msgstr 
+
+# 
+#: 
+msgctxt Adventure
+msgid Homebrew
+msgstr 
+
+# 
+#: 
+msgctxt Adventure
+msgid Interaction
+msgstr 
+
+# In a lightly obscured area creatures have disadvantage on Perception checks that rely on sight.
+#: 
+msgctxt Vision and Light
+msgid Lightly Obscured
+msgstr 
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Modifier
+msgstr 
+
+# 
+#: 
+msgctxt Adventure
+msgid Narrative
+msgstr 
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Natural 1
+msgstr 
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Natural 20
+msgstr 
+
+# 
+#: 
+msgctxt Adventure
+msgid Non-Playable Character (NPC)
+msgstr 
+
+# Group of adventurers.
+#: 
+msgctxt Adventure
+msgid Party
+msgstr 
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Passive Check
+msgstr 
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Penalty
+msgstr 
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Points
+msgstr 
+
+# 
+#: 
+msgctxt Adventure
+msgid Role-Playing
+msgstr 
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Roll
+msgstr 
+
+# 
+#: 
+msgctxt Game Mechanic
+msgid Saving Throw (Save)
+msgstr 
+
+# A meeting where D&D is played.
+#: 
+msgctxt Adventure
+msgid Session
+msgstr 
+
+# Adventure setting.
+#: 
+msgctxt Adventure
+msgid Setting
+msgstr 
+

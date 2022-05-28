@@ -1,0 +1,527 @@
+msgid ""
+msgstr ""
+"Language: English
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+
+# 
+#: 
+msgctxt 
+msgid Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Cast a Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Arcane Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Divine Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Concentration
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Vigorous Motion
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Violent Motion
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Defensive Casting
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Counterspell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Spellcraft
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Metamagic Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Dispel Magic
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Caster Level
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Negative Level
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Stacking
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Spell Effect
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Instantaneous Effect
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid School of Magic
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Subschool of Magic
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Abjuration
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Conjuration
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Calling Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Creation Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Healing Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Summoning Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Teleportation Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Divination
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Scrying Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Enchantment
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Charm Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Compulsion Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Evocation
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Illusion
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Figment Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Glamer Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Pattern Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Phantasm Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Shadow Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Disbelief
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Necromancy
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Transmutation
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Polymorph Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Spell Level
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Spell's Component
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Verbal Component
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Somatic Component
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Material Component
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Focus Component
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Divine Focus
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Casting Time
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Spell's Range
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Personal
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Touch
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Close
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Medium
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Long
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Unlimited
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Target
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Ray Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Spread Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Area
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Burst Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Emanation Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Shaped Effect
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Line of Effect
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Permanent Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Concentration Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Holding the Charge
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Discharge
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Dismissible Spell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid (object)
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid (harmless)
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Rest
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Recent Casting Limit
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Rest Interruption
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Prepare Spells
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Arcane Magic Writing
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Spellbook
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Borrowed Spellbook
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Scroll
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Spontaneous Casting
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Spell-Like Ability
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Supernatural Ability
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Extraordinary Ability
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Natural Ability
+msgstr 
+

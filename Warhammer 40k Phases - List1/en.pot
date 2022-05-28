@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Language: English
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+
+# 
+#: 
+msgctxt Command Phase
+msgid Bonus
+msgstr 
+
+# 
+#: 
+msgctxt Command Phase
+msgid Battle-Forged
+msgstr 
+
+# 
+#: 
+msgctxt Command Phase
+msgid Battle-Forged CP Bonus
+msgstr 
+
+# 
+#: 
+msgctxt Command Phase
+msgid Command Points (CP)
+msgstr 
+
+# 
+#: 
+msgctxt Movement Phase
+msgid Normal Move
+msgstr 
+
+# 
+#: 
+msgctxt Movement Phase
+msgid Advance
+msgstr 
+
+# 
+#: 
+msgctxt Movement Phase
+msgid Remain Stationary
+msgstr 
+
+# 
+#: 
+msgctxt Movement Phase
+msgid Fall Back
+msgstr 
+
+# 
+#: 
+msgctxt Movement Phase
+msgid Reinforcements
+msgstr 
+
+# 
+#: 
+msgctxt Movement Phase
+msgid Fly
+msgstr 
+
+# 
+#: 
+msgctxt Movement Phase
+msgid Transport
+msgstr 
+
+# 
+#: 
+msgctxt Movement Phase
+msgid Transport Capacity
+msgstr 
+
+# 
+#: 
+msgctxt Movement Phase
+msgid Embark
+msgstr 
+
+# 
+#: 
+msgctxt Movement Phase
+msgid Disembark
+msgstr 
+
+# 
+#: 
+msgctxt Movement Phase
+msgid Aircraft
+msgstr 
+
+# 
+#: 
+msgctxt Movement Phase
+msgid Minimum Move
+msgstr 
+
+# 
+#: 
+msgctxt Movement Phase
+msgid Maximum Move
+msgstr 
+
+# 
+#: 
+msgctxt Psychic Phase
+msgid Smite
+msgstr 
+
+# 
+#: 
+msgctxt Psychic Phase
+msgid Warp Charge
+msgstr 
+
+# 
+#: 
+msgctxt Psychic Phase
+msgid Psyker
+msgstr 
+
+# 
+#: 
+msgctxt Psychic Phase
+msgid to manifest
+msgstr 
+
+# 
+#: 
+msgctxt Psychic Phase
+msgid Psychic Power
+msgstr 
+
+# 
+#: 
+msgctxt Psychic Phase
+msgid Deny the Witch Test
+msgstr 
+
+# 
+#: 
+msgctxt Psychic Phase
+msgid Psychic Test
+msgstr 
+
+# 
+#: 
+msgctxt Psychic Phase
+msgid Perils of the Warp
+msgstr 
+
+# 
+#: 
+msgctxt Psychic Phase
+msgid Mortal Wounds
+msgstr 
+
+# 
+#: 
+msgctxt Shooting Phase
+msgid Ranged Weapon
+msgstr 
+
+# 
+#: 
+msgctxt Shooting Phase
+msgid Assault Weapon
+msgstr 
+
+# 
+#: 
+msgctxt Shooting Phase
+msgid Heavy Weapon
+msgstr 
+
+# 
+#: 
+msgctxt Shooting Phase
+msgid Rapid Fire
+msgstr 
+
+# 
+#: 
+msgctxt Shooting Phase
+msgid Grenade
+msgstr 
+
+# 
+#: 
+msgctxt Shooting Phase
+msgid Pistol
+msgstr 
+
+# 
+#: 
+msgctxt Shooting Phase
+msgid Blast Weapon
+msgstr 
+
+# 
+#: 
+msgctxt Shooting Phase
+msgid Hit Roll
+msgstr 
+
+# 
+#: 
+msgctxt Shooting Phase
+msgid Wound Roll
+msgstr 
+
+# 
+#: 
+msgctxt Shooting Phase
+msgid Allocate Attack
+msgstr 
+
+# 
+#: 
+msgctxt Shooting Phase
+msgid Saving Throw
+msgstr 
+
+# 
+#: 
+msgctxt Shooting Phase
+msgid Attack
+msgstr 
+
+# 
+#: 
+msgctxt Shooting Phase
+msgid Inflict Damage
+msgstr 
+
+# 
+#: 
+msgctxt Shooting Phase
+msgid Invulnerable Save
+msgstr 
+
+# 
+#: 
+msgctxt Charge Phase
+msgid Charge
+msgstr 
+
+# 
+#: 
+msgctxt Charge Phase
+msgid Heroic Intervention
+msgstr 
+
+# 
+#: 
+msgctxt Charge Phase
+msgid Overwatch
+msgstr 
+
+# 
+#: 
+msgctxt Fight Phase
+msgid Close Combat Attack
+msgstr 
+
+# 
+#: 
+msgctxt Fight Phase
+msgid Pile In
+msgstr 
+
+# 
+#: 
+msgctxt Fight Phase
+msgid Melee Weapon
+msgstr 
+
+# 
+#: 
+msgctxt Fight Phase
+msgid Consolidation
+msgstr 
+
+# 
+#: 
+msgctxt Morale Phase
+msgid Morale Test
+msgstr 
+
+# 
+#: 
+msgctxt Morale Phase
+msgid Combat Attrition Test
+msgstr 
+
+# 
+#: 
+msgctxt Morale Phase
+msgid Unit Coherency Check
+msgstr 
+
