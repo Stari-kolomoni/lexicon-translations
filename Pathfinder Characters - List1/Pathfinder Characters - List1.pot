@@ -11,1279 +11,1279 @@ msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ability Score
+msgctxt ""
+msgid "Ability Score"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Alignment
+msgctxt ""
+msgid "Alignment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Armor Class (AC)
+msgctxt ""
+msgid "Armor Class (AC)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Caster Level (CL)
+msgctxt ""
+msgid "Caster Level (CL)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Class
+msgctxt ""
+msgid "Class"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Experience Points (XP)
+msgctxt ""
+msgid "Experience Points (XP)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Feat
+msgctxt ""
+msgid "Feat"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hit Dice (HD)
+msgctxt ""
+msgid "Hit Dice (HD)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hit Points (HP)
+msgctxt ""
+msgid "Hit Points (HP)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Initiative
+msgctxt ""
+msgid "Initiative"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Exceptional Ability
+msgctxt ""
+msgid "Exceptional Ability"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spell-like Ability
+msgctxt ""
+msgid "Spell-like Ability"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spell Resistance (SR)
+msgctxt ""
+msgid "Spell Resistance (SR)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Level
+msgctxt ""
+msgid "Level"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Speed
+msgctxt ""
+msgid "Speed"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Race
+msgctxt ""
+msgid "Race"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Equipment
+msgctxt ""
+msgid "Equipment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Modifier
+msgctxt ""
+msgid "Modifier"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Supernatural Ability
+msgctxt ""
+msgid "Supernatural Ability"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Multiclassing
+msgctxt ""
+msgid "Multiclassing"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Caster Level Check
+msgctxt ""
+msgid "Caster Level Check"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ability Check
+msgctxt ""
+msgid "Ability Check"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Acrobatics
+msgctxt "Skill"
+msgid "Acrobatics"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Appraise
+msgctxt "Skill"
+msgid "Appraise"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Bluff
+msgctxt "Skill"
+msgid "Bluff"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Climb
+msgctxt "Skill"
+msgid "Climb"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Craft
+msgctxt "Skill"
+msgid "Craft"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Diplomacy
+msgctxt "Skill"
+msgid "Diplomacy"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Disable Device
+msgctxt "Skill"
+msgid "Disable Device"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Disguise
+msgctxt "Skill"
+msgid "Disguise"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Escape Artist
+msgctxt "Skill"
+msgid "Escape Artist"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Fly
+msgctxt "Skill"
+msgid "Fly"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Handle Animal
+msgctxt "Skill"
+msgid "Handle Animal"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Heal
+msgctxt "Skill"
+msgid "Heal"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Intimidate
+msgctxt "Skill"
+msgid "Intimidate"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Knowledge (Arcana)
+msgctxt "Skill"
+msgid "Knowledge (Arcana)"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Knowledge (Dungeoneering)
+msgctxt "Skill"
+msgid "Knowledge (Dungeoneering)"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Knowledge (Engineering)
+msgctxt "Skill"
+msgid "Knowledge (Engineering)"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Knowledge (Geography)
+msgctxt "Skill"
+msgid "Knowledge (Geography)"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Knowledge (History)
+msgctxt "Skill"
+msgid "Knowledge (History)"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Knowledge (Local)
+msgctxt "Skill"
+msgid "Knowledge (Local)"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Knowledge (Nature)
+msgctxt "Skill"
+msgid "Knowledge (Nature)"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Knowledge (Nobility)
+msgctxt "Skill"
+msgid "Knowledge (Nobility)"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Knowledge (Planes)
+msgctxt "Skill"
+msgid "Knowledge (Planes)"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Knowledge (Religion)
+msgctxt "Skill"
+msgid "Knowledge (Religion)"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Linguistics
+msgctxt "Skill"
+msgid "Linguistics"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Perception
+msgctxt "Skill"
+msgid "Perception"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Perform
+msgctxt "Skill"
+msgid "Perform"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Profession
+msgctxt "Skill"
+msgid "Profession"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Ride
+msgctxt "Skill"
+msgid "Ride"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Sense Motive
+msgctxt "Skill"
+msgid "Sense Motive"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Sleight of Hand
+msgctxt "Skill"
+msgid "Sleight of Hand"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Spellcraft
+msgctxt "Skill"
+msgid "Spellcraft"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Stealth
+msgctxt "Skill"
+msgid "Stealth"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Survival
+msgctxt "Skill"
+msgid "Survival"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Swim
+msgctxt "Skill"
+msgid "Swim"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill
-msgid Use Magic Device
+msgctxt "Skill"
+msgid "Use Magic Device"
 msgstr ""
 
 # 
 #: 
-msgctxt Ability
-msgid Strength
+msgctxt "Ability"
+msgid "Strength"
 msgstr ""
 
 # 
 #: 
-msgctxt Ability
-msgid Dexterity
+msgctxt "Ability"
+msgid "Dexterity"
 msgstr ""
 
 # 
 #: 
-msgctxt Ability
-msgid Constitution
+msgctxt "Ability"
+msgid "Constitution"
 msgstr ""
 
 # 
 #: 
-msgctxt Ability
-msgid Intelligence
+msgctxt "Ability"
+msgid "Intelligence"
 msgstr ""
 
 # 
 #: 
-msgctxt Ability
-msgid Wisdom
+msgctxt "Ability"
+msgid "Wisdom"
 msgstr ""
 
 # 
 #: 
-msgctxt Ability
-msgid Charisma
+msgctxt "Ability"
+msgid "Charisma"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Common
+msgctxt "Language"
+msgid "Common"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Abyssal
+msgctxt "Language"
+msgid "Abyssal"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Aklo
+msgctxt "Language"
+msgid "Aklo"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Aquan
+msgctxt "Language"
+msgid "Aquan"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Auran
+msgctxt "Language"
+msgid "Auran"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Celestial
+msgctxt "Language"
+msgid "Celestial"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Draconic
+msgctxt "Language"
+msgid "Draconic"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Druidic
+msgctxt "Language"
+msgid "Druidic"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Dwarven
+msgctxt "Language"
+msgid "Dwarven"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Elven
+msgctxt "Language"
+msgid "Elven"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Giant
+msgctxt "Language"
+msgid "Giant"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Gnome
+msgctxt "Language"
+msgid "Gnome"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Goblin
+msgctxt "Language"
+msgid "Goblin"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Gnoll
+msgctxt "Language"
+msgid "Gnoll"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Halfling
+msgctxt "Language"
+msgid "Halfling"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Ignan
+msgctxt "Language"
+msgid "Ignan"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Infernal
+msgctxt "Language"
+msgid "Infernal"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Orc
+msgctxt "Language"
+msgid "Orc"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Sylvan
+msgctxt "Language"
+msgid "Sylvan"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Terran
+msgctxt "Language"
+msgid "Terran"
 msgstr ""
 
 # 
 #: 
-msgctxt Language
-msgid Undercommon
+msgctxt "Language"
+msgid "Undercommon"
 msgstr ""
 
 # 
 #: 
-msgctxt Size
-msgid Medium
+msgctxt "Size"
+msgid "Medium"
 msgstr ""
 
 # 
 #: 
-msgctxt Size
-msgid Small
+msgctxt "Size"
+msgid "Small"
 msgstr ""
 
 # 
 #: 
-msgctxt Size
-msgid Fine
+msgctxt "Size"
+msgid "Fine"
 msgstr ""
 
 # 
 #: 
-msgctxt Size
-msgid Diminutive
+msgctxt "Size"
+msgid "Diminutive"
 msgstr ""
 
 # 
 #: 
-msgctxt Size
-msgid Tiny
+msgctxt "Size"
+msgid "Tiny"
 msgstr ""
 
 # 
 #: 
-msgctxt Size
-msgid Large (tall)
+msgctxt "Size"
+msgid "Large (tall)"
 msgstr ""
 
 # 
 #: 
-msgctxt Size
-msgid Large (long)
+msgctxt "Size"
+msgid "Large (long)"
 msgstr ""
 
 # 
 #: 
-msgctxt Size
-msgid Huge (tall)
+msgctxt "Size"
+msgid "Huge (tall)"
 msgstr ""
 
 # 
 #: 
-msgctxt Size
-msgid Huge (long)
+msgctxt "Size"
+msgid "Huge (long)"
 msgstr ""
 
 # 
 #: 
-msgctxt Size
-msgid Gargantuan (tall)
+msgctxt "Size"
+msgid "Gargantuan (tall)"
 msgstr ""
 
 # 
 #: 
-msgctxt Size
-msgid Gargantuan (long)
+msgctxt "Size"
+msgid "Gargantuan (long)"
 msgstr ""
 
 # 
 #: 
-msgctxt Size
-msgid Colossal (tall)
+msgctxt "Size"
+msgid "Colossal (tall)"
 msgstr ""
 
 # 
 #: 
-msgctxt Size
-msgid Colossal (long)
+msgctxt "Size"
+msgid "Colossal (long)"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Darkvision
+msgctxt "Trait"
+msgid "Darkvision"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Defensive Training
+msgctxt "Trait"
+msgid "Defensive Training"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Greed
+msgctxt "Trait"
+msgid "Greed"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Hatred
+msgctxt "Trait"
+msgid "Hatred"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Hardy
+msgctxt "Trait"
+msgid "Hardy"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Stability
+msgctxt "Trait"
+msgid "Stability"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Stonecunning
+msgctxt "Trait"
+msgid "Stonecunning"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Weapon Familiarity
+msgctxt "Trait"
+msgid "Weapon Familiarity"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Low-Light Vision
+msgctxt "Trait"
+msgid "Low-Light Vision"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Elven Immunities
+msgctxt "Trait"
+msgid "Elven Immunities"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Elven Magic
+msgctxt "Trait"
+msgid "Elven Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Keen Senses
+msgctxt "Trait"
+msgid "Keen Senses"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Gnome Magic
+msgctxt "Trait"
+msgid "Gnome Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Illusion Resistance
+msgctxt "Trait"
+msgid "Illusion Resistance"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Obsessive
+msgctxt "Trait"
+msgid "Obsessive"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Adaptability
+msgctxt "Trait"
+msgid "Adaptability"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Elf Blood
+msgctxt "Trait"
+msgid "Elf Blood"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Multitalented
+msgctxt "Trait"
+msgid "Multitalented"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Fly
+msgctxt "Trait"
+msgid "Fly"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Intimidating
+msgctxt "Trait"
+msgid "Intimidating"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Orc Blood
+msgctxt "Trait"
+msgid "Orc Blood"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Orc Ferocity
+msgctxt "Trait"
+msgid "Orc Ferocity"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Fearless
+msgctxt "Trait"
+msgid "Fearless"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Halfling Luck
+msgctxt "Trait"
+msgid "Halfling Luck"
 msgstr ""
 
 # 
 #: 
-msgctxt Trait
-msgid Sure-Footed
+msgctxt "Trait"
+msgid "Sure-Footed"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Character Advancement
+msgctxt ""
+msgid "Character Advancement"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Favored Class
+msgctxt ""
+msgid "Favored Class"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Taking 10/20
+msgctxt "Skill mechanic"
+msgid "Taking 10/20"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Key Ability
+msgctxt "Skill mechanic"
+msgid "Key Ability"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Trained Only
+msgctxt "Skill mechanic"
+msgid "Trained Only"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Armor Check Penalty
+msgctxt "Skill mechanic"
+msgid "Armor Check Penalty"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Check
+msgctxt "Skill mechanic"
+msgid "Check"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Action
+msgctxt "Skill mechanic"
+msgid "Action"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Try Again
+msgctxt "Skill mechanic"
+msgid "Try Again"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Special
+msgctxt "Skill mechanic"
+msgid "Special"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Restriction
+msgctxt "Skill mechanic"
+msgid "Restriction"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Untrained
+msgctxt "Skill mechanic"
+msgid "Untrained"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Class Skill
+msgctxt "Skill mechanic"
+msgid "Class Skill"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Obstructed Terrain
+msgctxt "Skill mechanic"
+msgid "Obstructed Terrain"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Slippery Terrain
+msgctxt "Skill mechanic"
+msgid "Slippery Terrain"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Sloped Terrain
+msgctxt "Skill mechanic"
+msgid "Sloped Terrain"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Unsteady Terrain
+msgctxt "Skill mechanic"
+msgid "Unsteady Terrain"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Feint
+msgctxt "Skill mechanic"
+msgid "Feint"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Secret Messages
+msgctxt "Skill mechanic"
+msgid "Secret Messages"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Accelerated Climbing
+msgctxt "Skill mechanic"
+msgid "Accelerated Climbing"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Make Your Own Handholds and Footholds
+msgctxt "Skill mechanic"
+msgid "Make Your Own Handholds and Footholds"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Catch Yourself When Falling
+msgctxt "Skill mechanic"
+msgid "Catch Yourself When Falling"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Catch a Falling Character While Climbing
+msgctxt "Skill mechanic"
+msgid "Catch a Falling Character While Climbing"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Progress by the Day
+msgctxt "Skill mechanic"
+msgid "Progress by the Day"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Create Masterwork Items
+msgctxt "Skill mechanic"
+msgid "Create Masterwork Items"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Repair Items
+msgctxt "Skill mechanic"
+msgid "Repair Items"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Gather Information
+msgctxt "Skill mechanic"
+msgid "Gather Information"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Open Locks
+msgctxt "Skill mechanic"
+msgid "Open Locks"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Ropes
+msgctxt "Skill mechanic"
+msgid "Ropes"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Manacles and Masterwork Manacles
+msgctxt "Skill mechanic"
+msgid "Manacles and Masterwork Manacles"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Tight Space
+msgctxt "Skill mechanic"
+msgid "Tight Space"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Grappler
+msgctxt "Skill mechanic"
+msgid "Grappler"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Attacked While Flying
+msgctxt "Skill mechanic"
+msgid "Attacked While Flying"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Collision While Flying
+msgctxt "Skill mechanic"
+msgid "Collision While Flying"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Avoid Falling Damage
+msgctxt "Skill mechanic"
+msgid "Avoid Falling Damage"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid High Wind Speeds
+msgctxt "Skill mechanic"
+msgid "High Wind Speeds"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Handle an Animal
+msgctxt "Skill mechanic"
+msgid "Handle an Animal"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid "Push" an Animal
+msgctxt "Skill mechanic"
+msgid ""Push" an Animal"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Teach an Animal a Trick
+msgctxt "Skill mechanic"
+msgid "Teach an Animal a Trick"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Train an Animal for a General Purpose
+msgctxt "Skill mechanic"
+msgid "Train an Animal for a General Purpose"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Combat Training
+msgctxt "Skill mechanic"
+msgid "Combat Training"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Fighting
+msgctxt "Skill mechanic"
+msgid "Fighting"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Guarding
+msgctxt "Skill mechanic"
+msgid "Guarding"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Heavy Labor
+msgctxt "Skill mechanic"
+msgid "Heavy Labor"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Hunting
+msgctxt "Skill mechanic"
+msgid "Hunting"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Performance
+msgctxt "Skill mechanic"
+msgid "Performance"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Riding
+msgctxt "Skill mechanic"
+msgid "Riding"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Rear a Wild Animal
+msgctxt "Skill mechanic"
+msgid "Rear a Wild Animal"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid First Aid
+msgctxt "Skill mechanic"
+msgid "First Aid"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Long-Term Care
+msgctxt "Skill mechanic"
+msgid "Long-Term Care"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Caltrop
+msgctxt "Skill mechanic"
+msgid "Caltrop"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Spike Growth
+msgctxt "Skill mechanic"
+msgid "Spike Growth"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Spike Stones
+msgctxt "Skill mechanic"
+msgid "Spike Stones"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Treat Deadly Wounds
+msgctxt "Skill mechanic"
+msgid "Treat Deadly Wounds"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Treat Poison
+msgctxt "Skill mechanic"
+msgid "Treat Poison"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Treat Disease
+msgctxt "Skill mechanic"
+msgid "Treat Disease"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Demoralize
+msgctxt "Skill mechanic"
+msgid "Demoralize"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Create or Detect Forgeries
+msgctxt "Skill mechanic"
+msgid "Create or Detect Forgeries"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Learn a Language
+msgctxt "Skill mechanic"
+msgid "Learn a Language"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Guide with Knees
+msgctxt "Skill mechanic"
+msgid "Guide with Knees"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Stay in Saddle
+msgctxt "Skill mechanic"
+msgid "Stay in Saddle"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Fight with a Combat-Trained Mount
+msgctxt "Skill mechanic"
+msgid "Fight with a Combat-Trained Mount"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Cover
+msgctxt "Skill mechanic"
+msgid "Cover"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Soft Fall
+msgctxt "Skill mechanic"
+msgid "Soft Fall"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Leap
+msgctxt "Skill mechanic"
+msgid "Leap"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Spur Mount
+msgctxt "Skill mechanic"
+msgid "Spur Mount"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Control Mount in Battle
+msgctxt "Skill mechanic"
+msgid "Control Mount in Battle"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Fast Mount or Dismount
+msgctxt "Skill mechanic"
+msgid "Fast Mount or Dismount"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Hunch
+msgctxt "Skill mechanic"
+msgid "Hunch"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Sense Enchantment
+msgctxt "Skill mechanic"
+msgid "Sense Enchantment"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Discern Secret Message
+msgctxt "Skill mechanic"
+msgid "Discern Secret Message"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Sniping
+msgctxt "Skill mechanic"
+msgid "Sniping"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Creating a Diversion to Hide
+msgctxt "Skill mechanic"
+msgid "Creating a Diversion to Hide"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Follow Tracks
+msgctxt "Skill mechanic"
+msgid "Follow Tracks"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Very Soft Ground
+msgctxt "Skill mechanic"
+msgid "Very Soft Ground"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Soft Ground
+msgctxt "Skill mechanic"
+msgid "Soft Ground"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Firm Ground
+msgctxt "Skill mechanic"
+msgid "Firm Ground"
 msgstr ""
 
 # 
 #: 
-msgctxt Skill mechanic
-msgid Hard Ground
+msgctxt "Skill mechanic"
+msgid "Hard Ground"
 msgstr ""
 
 # 
 #: 
-msgctxt Character aging
-msgid Middle Age
+msgctxt "Character aging"
+msgid "Middle Age"
 msgstr ""
 
 # 
 #: 
-msgctxt Character aging
-msgid Old
+msgctxt "Character aging"
+msgid "Old"
 msgstr ""
 
 # 
 #: 
-msgctxt Character aging
-msgid Venerable
+msgctxt "Character aging"
+msgid "Venerable"
 msgstr ""
 
 # 
 #: 
-msgctxt Character aging
-msgid Maximum Age
+msgctxt "Character aging"
+msgid "Maximum Age"
 msgstr ""
 
 # 
 #: 
-msgctxt Carrying capacity
-msgid Light Load
+msgctxt "Carrying capacity"
+msgid "Light Load"
 msgstr ""
 
 # 
 #: 
-msgctxt Carrying capacity
-msgid Medium Load
+msgctxt "Carrying capacity"
+msgid "Medium Load"
 msgstr ""
 
 # 
 #: 
-msgctxt Carrying capacity
-msgid Heavy Load
+msgctxt "Carrying capacity"
+msgid "Heavy Load"
 msgstr ""
 
 # 
 #: 
-msgctxt Carrying capacity
-msgid Encumbrance
+msgctxt "Carrying capacity"
+msgid "Encumbrance"
 msgstr ""
 
 # 
 #: 
-msgctxt Carrying capacity
-msgid Carrying Capacity
+msgctxt "Carrying capacity"
+msgid "Carrying Capacity"
 msgstr ""
 
 # 
 #: 
-msgctxt Carrying capacity
-msgid Tremendous Strength
+msgctxt "Carrying capacity"
+msgid "Tremendous Strength"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Character Level
+msgctxt ""
+msgid "Character Level"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Class Level
+msgctxt ""
+msgid "Class Level"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hit Dice
+msgctxt ""
+msgid "Hit Dice"
 msgstr ""
 

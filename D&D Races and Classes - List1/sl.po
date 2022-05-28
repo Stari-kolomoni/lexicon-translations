@@ -1,492 +1,492 @@
 # 
 #: 
-msgctxt Race
-msgid Dragonborn
+msgctxt "Race"
+msgid "Dragonborn"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Dwarf
+msgctxt "Race"
+msgid "Dwarf"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Elf
+msgctxt "Race"
+msgid "Elf"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Drow
+msgctxt "Race"
+msgid "Drow"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Gnome
+msgctxt "Race"
+msgid "Gnome"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Half-Elf
+msgctxt "Race"
+msgid "Half-Elf"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Halfling
+msgctxt "Race"
+msgid "Halfling"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Half-Orc
+msgctxt "Race"
+msgid "Half-Orc"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Human
+msgctxt "Race"
+msgid "Human"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Tiefling
+msgctxt "Race"
+msgid "Tiefling"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Orc
+msgctxt "Race"
+msgid "Orc"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Leonin
+msgctxt "Race"
+msgid "Leonin"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Satyr
+msgctxt "Race"
+msgid "Satyr"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Aarakocra
+msgctxt "Race"
+msgid "Aarakocra"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Genasi
+msgctxt "Race"
+msgid "Genasi"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Air Genasi
+msgctxt "Race"
+msgid "Air Genasi"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Earth Genasi
+msgctxt "Race"
+msgid "Earth Genasi"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Fire Genasi
+msgctxt "Race"
+msgid "Fire Genasi"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Water Genasi
+msgctxt "Race"
+msgid "Water Genasi"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Goliath
+msgctxt "Race"
+msgid "Goliath"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Aasimar
+msgctxt "Race"
+msgid "Aasimar"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Bugbear
+msgctxt "Race"
+msgid "Bugbear"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Firbolg
+msgctxt "Race"
+msgid "Firbolg"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Goblin
+msgctxt "Race"
+msgid "Goblin"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Hobgoblin
+msgctxt "Race"
+msgid "Hobgoblin"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Kenku
+msgctxt "Race"
+msgid "Kenku"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Kobold
+msgctxt "Race"
+msgid "Kobold"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Lizardfolk
+msgctxt "Race"
+msgid "Lizardfolk"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Tabaxi
+msgctxt "Race"
+msgid "Tabaxi"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Triton
+msgctxt "Race"
+msgid "Triton"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Yuan-ti Pureblood
+msgctxt "Race"
+msgid "Yuan-ti Pureblood"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Feral Tiefling
+msgctxt "Race"
+msgid "Feral Tiefling"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Tortle
+msgctxt "Race"
+msgid "Tortle"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Changeling
+msgctxt "Race"
+msgid "Changeling"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Kalashtar
+msgctxt "Race"
+msgid "Kalashtar"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Shifter
+msgctxt "Race"
+msgid "Shifter"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Warforged
+msgctxt "Race"
+msgid "Warforged"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Centaur
+msgctxt "Race"
+msgid "Centaur"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Loxodon
+msgctxt "Race"
+msgid "Loxodon"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Minotaur
+msgctxt "Race"
+msgid "Minotaur"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Simic Hybrid
+msgctxt "Race"
+msgid "Simic Hybrid"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Vedalken
+msgctxt "Race"
+msgid "Vedalken"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Verdan
+msgctxt "Race"
+msgid "Verdan"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Locathah
+msgctxt "Race"
+msgid "Locathah"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Grung
+msgctxt "Race"
+msgid "Grung"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Fairy
+msgctxt "Race"
+msgid "Fairy"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Owlfolk
+msgctxt "Race"
+msgid "Owlfolk"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Fey
+msgctxt "Race"
+msgid "Fey"
 msgstr ""
 
 # 
 #: 
-msgctxt Race
-msgid Rabbitfolk
+msgctxt "Race"
+msgid "Rabbitfolk"
 msgstr ""
 
 # 
 #: 
-msgctxt Class
-msgid Barbarian
+msgctxt "Class"
+msgid "Barbarian"
 msgstr ""
 
 # 
 #: 
-msgctxt Class
-msgid Bard
+msgctxt "Class"
+msgid "Bard"
 msgstr ""
 
 # 
 #: 
-msgctxt Class
-msgid Cleric
+msgctxt "Class"
+msgid "Cleric"
 msgstr ""
 
 # 
 #: 
-msgctxt Class
-msgid Druid
+msgctxt "Class"
+msgid "Druid"
 msgstr ""
 
 # 
 #: 
-msgctxt Class
-msgid Fighter
+msgctxt "Class"
+msgid "Fighter"
 msgstr ""
 
 # 
 #: 
-msgctxt Class
-msgid Monk
+msgctxt "Class"
+msgid "Monk"
 msgstr ""
 
 # 
 #: 
-msgctxt Class
-msgid Paladin
+msgctxt "Class"
+msgid "Paladin"
 msgstr ""
 
 # 
 #: 
-msgctxt Class
-msgid Ranger
+msgctxt "Class"
+msgid "Ranger"
 msgstr ""
 
 # 
 #: 
-msgctxt Class
-msgid Rogue
+msgctxt "Class"
+msgid "Rogue"
 msgstr ""
 
 # 
 #: 
-msgctxt Class
-msgid Sorcerer
+msgctxt "Class"
+msgid "Sorcerer"
 msgstr ""
 
 # 
 #: 
-msgctxt Class
-msgid Warlock
+msgctxt "Class"
+msgid "Warlock"
 msgstr ""
 
 # 
 #: 
-msgctxt Class
-msgid Wizard
+msgctxt "Class"
+msgid "Wizard"
 msgstr ""
 
 # 
 #: 
-msgctxt Class
-msgid Artificer
+msgctxt "Class"
+msgid "Artificer"
 msgstr ""
 
 # 
 #: 
-msgctxt Class
-msgid Blood Hunter
+msgctxt "Class"
+msgid "Blood Hunter"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Hill Dwarf
+msgctxt "Subrace"
+msgid "Hill Dwarf"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Mountain Dwarf
+msgctxt "Subrace"
+msgid "Mountain Dwarf"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid High Elf
+msgctxt "Subrace"
+msgid "High Elf"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Wood Elf
+msgctxt "Subrace"
+msgid "Wood Elf"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Dark Elf (Drow)
+msgctxt "Subrace"
+msgid "Dark Elf (Drow)"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Lightfoot
+msgctxt "Subrace"
+msgid "Lightfoot"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Stout
+msgctxt "Subrace"
+msgid "Stout"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Calishite
+msgctxt "Subrace"
+msgid "Calishite"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Chondathan
+msgctxt "Subrace"
+msgid "Chondathan"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Damaran
+msgctxt "Subrace"
+msgid "Damaran"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Illuskan
+msgctxt "Subrace"
+msgid "Illuskan"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Mulan
+msgctxt "Subrace"
+msgid "Mulan"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Rashemi
+msgctxt "Subrace"
+msgid "Rashemi"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Shou
+msgctxt "Subrace"
+msgid "Shou"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Tethyrian
+msgctxt "Subrace"
+msgid "Tethyrian"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Turami
+msgctxt "Subrace"
+msgid "Turami"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Deep Gnome
+msgctxt "Subrace"
+msgid "Deep Gnome"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Forest Gnome
+msgctxt "Subrace"
+msgid "Forest Gnome"
 msgstr ""
 
 # 
 #: 
-msgctxt Subrace
-msgid Rock Gnome
+msgctxt "Subrace"
+msgid "Rock Gnome"
 msgstr ""
 

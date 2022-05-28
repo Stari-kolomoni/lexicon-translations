@@ -1,186 +1,186 @@
 # 
 #: 
-msgctxt Terrain Features
-msgid Hills
+msgctxt "Terrain Features"
+msgid "Hills"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Features
-msgid Obstacles
+msgctxt "Terrain Features"
+msgid "Obstacles"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Features
-msgid Area Terrain
+msgctxt "Terrain Features"
+msgid "Area Terrain"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Features
-msgid Building
+msgctxt "Terrain Features"
+msgid "Building"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Terrain Trait
+msgctxt ""
+msgid "Terrain Trait"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Features
-msgid Footprint
+msgctxt "Terrain Features"
+msgid "Footprint"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Defensible
+msgctxt "Terrain Traits"
+msgid "Defensible"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Hold Steady
+msgctxt "Terrain Traits"
+msgid "Hold Steady"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Set to Defend
+msgctxt "Terrain Traits"
+msgid "Set to Defend"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Defence Line
+msgctxt "Terrain Traits"
+msgid "Defence Line"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Breachable
+msgctxt "Terrain Traits"
+msgid "Breachable"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Difficult Ground
+msgctxt "Terrain Traits"
+msgid "Difficult Ground"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Dense Cover
+msgctxt "Terrain Traits"
+msgid "Dense Cover"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Unstable Position
+msgctxt "Terrain Traits"
+msgid "Unstable Position"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Exposed Position
+msgctxt "Terrain Traits"
+msgid "Exposed Position"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Obscuring
+msgctxt "Terrain Traits"
+msgid "Obscuring"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Light Cover
+msgctxt "Terrain Traits"
+msgid "Light Cover"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Heavy Cover
+msgctxt "Terrain Traits"
+msgid "Heavy Cover"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Scaleable
+msgctxt "Terrain Traits"
+msgid "Scaleable"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Gantry
+msgctxt "Terrain Traits"
+msgid "Gantry"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Traits
-msgid Inspiring
+msgctxt "Terrain Traits"
+msgid "Inspiring"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Features
-msgid Ruin
+msgctxt "Terrain Features"
+msgid "Ruin"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Features
-msgid Crater
+msgctxt "Terrain Features"
+msgid "Crater"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Features
-msgid Armoured Container
+msgctxt "Terrain Features"
+msgid "Armoured Container"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Features
-msgid Barricade
+msgctxt "Terrain Features"
+msgid "Barricade"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Features
-msgid Fuel Pipe
+msgctxt "Terrain Features"
+msgid "Fuel Pipe"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Features
-msgid Woods
+msgctxt "Terrain Features"
+msgid "Woods"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Features
-msgid Battlefield Debris
+msgctxt "Terrain Features"
+msgid "Battlefield Debris"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Features
-msgid Industrial Structure
+msgctxt "Terrain Features"
+msgid "Industrial Structure"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Features
-msgid Imperial Statuary
+msgctxt "Terrain Features"
+msgid "Imperial Statuary"
 msgstr ""
 
 # 
 #: 
-msgctxt Terrain Features
-msgid Ruined Walls
+msgctxt "Terrain Features"
+msgid "Ruined Walls"
 msgstr ""
 

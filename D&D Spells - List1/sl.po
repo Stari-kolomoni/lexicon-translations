@@ -1,2790 +1,2790 @@
 # 
 #: 
-msgctxt 
-msgid Abi-Dalzim's Horrid Wilting
+msgctxt ""
+msgid "Abi-Dalzim's Horrid Wilting"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Absorb Elements
+msgctxt ""
+msgid "Absorb Elements"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Acid Arrow
+msgctxt ""
+msgid "Acid Arrow"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Acid Splash
+msgctxt ""
+msgid "Acid Splash"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Aganazzar's Scorcher
+msgctxt ""
+msgid "Aganazzar's Scorcher"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Aid
+msgctxt ""
+msgid "Aid"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Alarm
+msgctxt ""
+msgid "Alarm"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Alter Self
+msgctxt ""
+msgid "Alter Self"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Animal Friendship
+msgctxt ""
+msgid "Animal Friendship"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Animal Messenger
+msgctxt ""
+msgid "Animal Messenger"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Animal Shapes
+msgctxt ""
+msgid "Animal Shapes"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Animate Dead
+msgctxt ""
+msgid "Animate Dead"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Animate Objects
+msgctxt ""
+msgid "Animate Objects"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Antilife Shell
+msgctxt ""
+msgid "Antilife Shell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Antimagic Field
+msgctxt ""
+msgid "Antimagic Field"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Antipathy/Sympathy
+msgctxt ""
+msgid "Antipathy/Sympathy"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Arcane Eye
+msgctxt ""
+msgid "Arcane Eye"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Arcane Gate
+msgctxt ""
+msgid "Arcane Gate"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Arcane Hand
+msgctxt ""
+msgid "Arcane Hand"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Arcane Lock
+msgctxt ""
+msgid "Arcane Lock"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Arcanist's Magic Aura
+msgctxt ""
+msgid "Arcanist's Magic Aura"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Armor of Agathys
+msgctxt ""
+msgid "Armor of Agathys"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Arms of Hadar
+msgctxt ""
+msgid "Arms of Hadar"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Astral Projection
+msgctxt ""
+msgid "Astral Projection"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Augury
+msgctxt ""
+msgid "Augury"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Aura of Life
+msgctxt ""
+msgid "Aura of Life"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Aura of Purity
+msgctxt ""
+msgid "Aura of Purity"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Aura of Vitality
+msgctxt ""
+msgid "Aura of Vitality"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Awaken
+msgctxt ""
+msgid "Awaken"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Bane
+msgctxt ""
+msgid "Bane"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Banishing Smite
+msgctxt ""
+msgid "Banishing Smite"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Banishment
+msgctxt ""
+msgid "Banishment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Barkskin
+msgctxt ""
+msgid "Barkskin"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Beacon of Hope
+msgctxt ""
+msgid "Beacon of Hope"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Beast Bond
+msgctxt ""
+msgid "Beast Bond"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Beast Sense
+msgctxt ""
+msgid "Beast Sense"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Bestow Curse
+msgctxt ""
+msgid "Bestow Curse"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Bigby's Hand
+msgctxt ""
+msgid "Bigby's Hand"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blade Barrier
+msgctxt ""
+msgid "Blade Barrier"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blade Ward
+msgctxt ""
+msgid "Blade Ward"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Bless
+msgctxt ""
+msgid "Bless"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blight
+msgctxt ""
+msgid "Blight"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blinding Smite
+msgctxt ""
+msgid "Blinding Smite"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blindness/Deafness
+msgctxt ""
+msgid "Blindness/Deafness"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blink
+msgctxt ""
+msgid "Blink"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blur
+msgctxt ""
+msgid "Blur"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Bones of the Earth
+msgctxt ""
+msgid "Bones of the Earth"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Booming Blade
+msgctxt ""
+msgid "Booming Blade"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Branding Smite
+msgctxt ""
+msgid "Branding Smite"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Burning Hands
+msgctxt ""
+msgid "Burning Hands"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Call Lightning
+msgctxt ""
+msgid "Call Lightning"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Calm Emotions
+msgctxt ""
+msgid "Calm Emotions"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Catapult
+msgctxt ""
+msgid "Catapult"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Catnap
+msgctxt ""
+msgid "Catnap"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cause Fear
+msgctxt ""
+msgid "Cause Fear"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ceremony
+msgctxt ""
+msgid "Ceremony"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Chain Lightning
+msgctxt ""
+msgid "Chain Lightning"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Chaos Bolt
+msgctxt ""
+msgid "Chaos Bolt"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Charm Monster
+msgctxt ""
+msgid "Charm Monster"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Charm Person
+msgctxt ""
+msgid "Charm Person"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Chill Touch
+msgctxt ""
+msgid "Chill Touch"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Chromatic Orb
+msgctxt ""
+msgid "Chromatic Orb"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Circle of Death
+msgctxt ""
+msgid "Circle of Death"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Circle of Power
+msgctxt ""
+msgid "Circle of Power"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Clairvoyance
+msgctxt ""
+msgid "Clairvoyance"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Clone
+msgctxt ""
+msgid "Clone"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cloud of Daggers
+msgctxt ""
+msgid "Cloud of Daggers"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cloudkill
+msgctxt ""
+msgid "Cloudkill"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Color Spray
+msgctxt ""
+msgid "Color Spray"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Command
+msgctxt ""
+msgid "Command"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Commune
+msgctxt ""
+msgid "Commune"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Commune with Nature
+msgctxt ""
+msgid "Commune with Nature"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Compelled Duel
+msgctxt ""
+msgid "Compelled Duel"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Comprehend Languages
+msgctxt ""
+msgid "Comprehend Languages"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Compulsion
+msgctxt ""
+msgid "Compulsion"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cone of Cold
+msgctxt ""
+msgid "Cone of Cold"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Confusion
+msgctxt ""
+msgid "Confusion"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Conjure Animals
+msgctxt ""
+msgid "Conjure Animals"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Conjure Barrage
+msgctxt ""
+msgid "Conjure Barrage"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Conjure Celestial
+msgctxt ""
+msgid "Conjure Celestial"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Conjure Elemental
+msgctxt ""
+msgid "Conjure Elemental"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Conjure Fey
+msgctxt ""
+msgid "Conjure Fey"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Conjure Minor Elementals
+msgctxt ""
+msgid "Conjure Minor Elementals"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Conjure Volley
+msgctxt ""
+msgid "Conjure Volley"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Conjure Woodland Beings
+msgctxt ""
+msgid "Conjure Woodland Beings"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Contact Other Plane
+msgctxt ""
+msgid "Contact Other Plane"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Contagion
+msgctxt ""
+msgid "Contagion"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Contingency
+msgctxt ""
+msgid "Contingency"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Continual Flame
+msgctxt ""
+msgid "Continual Flame"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Control Flames
+msgctxt ""
+msgid "Control Flames"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Control Water
+msgctxt ""
+msgid "Control Water"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Control Weather
+msgctxt ""
+msgid "Control Weather"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Control Winds
+msgctxt ""
+msgid "Control Winds"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cordon of Arrows
+msgctxt ""
+msgid "Cordon of Arrows"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Counterspell
+msgctxt ""
+msgid "Counterspell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Create Bonfire
+msgctxt ""
+msgid "Create Bonfire"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Create Food and Water
+msgctxt ""
+msgid "Create Food and Water"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Create Homunculus
+msgctxt ""
+msgid "Create Homunculus"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Create Undead
+msgctxt ""
+msgid "Create Undead"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Create or Destroy Water
+msgctxt ""
+msgid "Create or Destroy Water"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Creation
+msgctxt ""
+msgid "Creation"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Crown of Madness
+msgctxt ""
+msgid "Crown of Madness"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Crown of Stars
+msgctxt ""
+msgid "Crown of Stars"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Crusader's Mantle
+msgctxt ""
+msgid "Crusader's Mantle"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cure Wounds
+msgctxt ""
+msgid "Cure Wounds"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dancing Lights
+msgctxt ""
+msgid "Dancing Lights"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Danse Macabre
+msgctxt ""
+msgid "Danse Macabre"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Darkness
+msgctxt ""
+msgid "Darkness"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Darkvision
+msgctxt ""
+msgid "Darkvision"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dawn
+msgctxt ""
+msgid "Dawn"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Daylight
+msgctxt ""
+msgid "Daylight"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Death Ward
+msgctxt ""
+msgid "Death Ward"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Delayed Blast Fireball
+msgctxt ""
+msgid "Delayed Blast Fireball"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Demiplane
+msgctxt ""
+msgid "Demiplane"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Destructive Wave
+msgctxt ""
+msgid "Destructive Wave"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Detect Evil and Good
+msgctxt ""
+msgid "Detect Evil and Good"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Detect Magic
+msgctxt ""
+msgid "Detect Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Detect Poison and Disease
+msgctxt ""
+msgid "Detect Poison and Disease"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Detect Thoughts
+msgctxt ""
+msgid "Detect Thoughts"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dimension Door
+msgctxt ""
+msgid "Dimension Door"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Disguise Self
+msgctxt ""
+msgid "Disguise Self"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Disintegrate
+msgctxt ""
+msgid "Disintegrate"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dispel Evil and Good
+msgctxt ""
+msgid "Dispel Evil and Good"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dispel Magic
+msgctxt ""
+msgid "Dispel Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dissonant Whispers
+msgctxt ""
+msgid "Dissonant Whispers"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Divination
+msgctxt ""
+msgid "Divination"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Divine Favor
+msgctxt ""
+msgid "Divine Favor"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Divine Word
+msgctxt ""
+msgid "Divine Word"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dominate Beast
+msgctxt ""
+msgid "Dominate Beast"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dominate Monster
+msgctxt ""
+msgid "Dominate Monster"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dominate Person
+msgctxt ""
+msgid "Dominate Person"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dragon' Breath
+msgctxt ""
+msgid "Dragon' Breath"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Drawmij's Instant Summons
+msgctxt ""
+msgid "Drawmij's Instant Summons"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dream
+msgctxt ""
+msgid "Dream"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Druid Grove
+msgctxt ""
+msgid "Druid Grove"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Druidcraft
+msgctxt ""
+msgid "Druidcraft"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dust Devil
+msgctxt ""
+msgid "Dust Devil"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Earth Tremor
+msgctxt ""
+msgid "Earth Tremor"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Earthbind
+msgctxt ""
+msgid "Earthbind"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Earthquake
+msgctxt ""
+msgid "Earthquake"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Eldritch Blast
+msgctxt ""
+msgid "Eldritch Blast"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Elemental Bane
+msgctxt ""
+msgid "Elemental Bane"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Elemental Weapon
+msgctxt ""
+msgid "Elemental Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Enemies abound
+msgctxt ""
+msgid "Enemies abound"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Enervation
+msgctxt ""
+msgid "Enervation"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Enhance Ability
+msgctxt ""
+msgid "Enhance Ability"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Enlarge/Reduce
+msgctxt ""
+msgid "Enlarge/Reduce"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ensnaring Strike
+msgctxt ""
+msgid "Ensnaring Strike"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Entangle
+msgctxt ""
+msgid "Entangle"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Enthrall
+msgctxt ""
+msgid "Enthrall"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Erupting Earth
+msgctxt ""
+msgid "Erupting Earth"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Etherealness
+msgctxt ""
+msgid "Etherealness"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Evard's Black Tentacles
+msgctxt ""
+msgid "Evard's Black Tentacles"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Expeditious Retreat
+msgctxt ""
+msgid "Expeditious Retreat"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Eyebite
+msgctxt ""
+msgid "Eyebite"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fabricate
+msgctxt ""
+msgid "Fabricate"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Faerie Fire
+msgctxt ""
+msgid "Faerie Fire"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid False Life
+msgctxt ""
+msgid "False Life"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Far Step
+msgctxt ""
+msgid "Far Step"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fear
+msgctxt ""
+msgid "Fear"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Feather Fall
+msgctxt ""
+msgid "Feather Fall"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Feeblemind
+msgctxt ""
+msgid "Feeblemind"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Feign Death
+msgctxt ""
+msgid "Feign Death"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Find Familiar
+msgctxt ""
+msgid "Find Familiar"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Find Greater Steed
+msgctxt ""
+msgid "Find Greater Steed"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Find Steed
+msgctxt ""
+msgid "Find Steed"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Find Traps
+msgctxt ""
+msgid "Find Traps"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Find the Path
+msgctxt ""
+msgid "Find the Path"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Finger of Death
+msgctxt ""
+msgid "Finger of Death"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fire Bolt
+msgctxt ""
+msgid "Fire Bolt"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fire Shield
+msgctxt ""
+msgid "Fire Shield"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fire Storm
+msgctxt ""
+msgid "Fire Storm"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fireball
+msgctxt ""
+msgid "Fireball"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Flame Arrows
+msgctxt ""
+msgid "Flame Arrows"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Flame Blade
+msgctxt ""
+msgid "Flame Blade"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Flame Strike
+msgctxt ""
+msgid "Flame Strike"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Flaming Sphere
+msgctxt ""
+msgid "Flaming Sphere"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Flesh to Stone
+msgctxt ""
+msgid "Flesh to Stone"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fly
+msgctxt ""
+msgid "Fly"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fog Cloud
+msgctxt ""
+msgid "Fog Cloud"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Forbiddance
+msgctxt ""
+msgid "Forbiddance"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Forcecage
+msgctxt ""
+msgid "Forcecage"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Foresight
+msgctxt ""
+msgid "Foresight"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Freedom of Movement
+msgctxt ""
+msgid "Freedom of Movement"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Friends
+msgctxt ""
+msgid "Friends"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Frostbite
+msgctxt ""
+msgid "Frostbite"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Gaseous Form
+msgctxt ""
+msgid "Gaseous Form"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Gate
+msgctxt ""
+msgid "Gate"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Geas
+msgctxt ""
+msgid "Geas"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Gentle Repose
+msgctxt ""
+msgid "Gentle Repose"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Giant Insect
+msgctxt ""
+msgid "Giant Insect"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Glibness
+msgctxt ""
+msgid "Glibness"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Globe of Invulnerability
+msgctxt ""
+msgid "Globe of Invulnerability"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Glyph of Warding
+msgctxt ""
+msgid "Glyph of Warding"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Goodberry
+msgctxt ""
+msgid "Goodberry"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Grasping Vine
+msgctxt ""
+msgid "Grasping Vine"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Grease
+msgctxt ""
+msgid "Grease"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Greater Invisibility
+msgctxt ""
+msgid "Greater Invisibility"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Greater Restoration
+msgctxt ""
+msgid "Greater Restoration"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Green-Flame Blade
+msgctxt ""
+msgid "Green-Flame Blade"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Guardian of Faith
+msgctxt ""
+msgid "Guardian of Faith"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Guardian of Nature
+msgctxt ""
+msgid "Guardian of Nature"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Guards and Wards
+msgctxt ""
+msgid "Guards and Wards"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Guidance
+msgctxt ""
+msgid "Guidance"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Guiding Bolt
+msgctxt ""
+msgid "Guiding Bolt"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Gust
+msgctxt ""
+msgid "Gust"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Gust of Wind
+msgctxt ""
+msgid "Gust of Wind"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hail of Thorns
+msgctxt ""
+msgid "Hail of Thorns"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hallow
+msgctxt ""
+msgid "Hallow"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hallucinatory Terrain
+msgctxt ""
+msgid "Hallucinatory Terrain"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Harm
+msgctxt ""
+msgid "Harm"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Haste
+msgctxt ""
+msgid "Haste"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Heal
+msgctxt ""
+msgid "Heal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Healing Spirit
+msgctxt ""
+msgid "Healing Spirit"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Healing Word
+msgctxt ""
+msgid "Healing Word"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Heat Metal
+msgctxt ""
+msgid "Heat Metal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hellish Rebuke
+msgctxt ""
+msgid "Hellish Rebuke"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Heroes' Feast
+msgctxt ""
+msgid "Heroes' Feast"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Heroism
+msgctxt ""
+msgid "Heroism"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hex
+msgctxt ""
+msgid "Hex"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hold Monster
+msgctxt ""
+msgid "Hold Monster"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hold Person
+msgctxt ""
+msgid "Hold Person"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Holy Aura
+msgctxt ""
+msgid "Holy Aura"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Holy Weapon
+msgctxt ""
+msgid "Holy Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hunger of Hadar
+msgctxt ""
+msgid "Hunger of Hadar"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hunter's Mark
+msgctxt ""
+msgid "Hunter's Mark"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hypnotic Pattern
+msgctxt ""
+msgid "Hypnotic Pattern"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ice Knife
+msgctxt ""
+msgid "Ice Knife"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ice Storm
+msgctxt ""
+msgid "Ice Storm"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Identify
+msgctxt ""
+msgid "Identify"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Illusory Dragon
+msgctxt ""
+msgid "Illusory Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Illusory Script
+msgctxt ""
+msgid "Illusory Script"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Immolation
+msgctxt ""
+msgid "Immolation"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Imprisonment
+msgctxt ""
+msgid "Imprisonment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Incendiary Cloud
+msgctxt ""
+msgid "Incendiary Cloud"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Infernal Calling
+msgctxt ""
+msgid "Infernal Calling"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Infestation
+msgctxt ""
+msgid "Infestation"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Inflict Wounds
+msgctxt ""
+msgid "Inflict Wounds"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Insect Plague
+msgctxt ""
+msgid "Insect Plague"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Investiture of Flame
+msgctxt ""
+msgid "Investiture of Flame"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Investiture of Ice
+msgctxt ""
+msgid "Investiture of Ice"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Investiture of Stone
+msgctxt ""
+msgid "Investiture of Stone"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Investiture of Wind
+msgctxt ""
+msgid "Investiture of Wind"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Invisibility
+msgctxt ""
+msgid "Invisibility"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Invulnerability
+msgctxt ""
+msgid "Invulnerability"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Jump
+msgctxt ""
+msgid "Jump"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Knock
+msgctxt ""
+msgid "Knock"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Legend Lore
+msgctxt ""
+msgid "Legend Lore"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Leomund's Secret Chest
+msgctxt ""
+msgid "Leomund's Secret Chest"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Leomund's Tiny Hut
+msgctxt ""
+msgid "Leomund's Tiny Hut"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lesser Restoration
+msgctxt ""
+msgid "Lesser Restoration"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Levitate
+msgctxt ""
+msgid "Levitate"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Life Transference
+msgctxt ""
+msgid "Life Transference"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Light
+msgctxt ""
+msgid "Light"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lightning Arrow
+msgctxt ""
+msgid "Lightning Arrow"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lightning Bolt
+msgctxt ""
+msgid "Lightning Bolt"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lightning Lure
+msgctxt ""
+msgid "Lightning Lure"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Locate Animals or Plants
+msgctxt ""
+msgid "Locate Animals or Plants"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Locate Creature
+msgctxt ""
+msgid "Locate Creature"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Locate Object
+msgctxt ""
+msgid "Locate Object"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Longstrider
+msgctxt ""
+msgid "Longstrider"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Maddening Darkness
+msgctxt ""
+msgid "Maddening Darkness"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Maelstrom
+msgctxt ""
+msgid "Maelstrom"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mage Armor
+msgctxt ""
+msgid "Mage Armor"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mage Hand
+msgctxt ""
+msgid "Mage Hand"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Magic Circle
+msgctxt ""
+msgid "Magic Circle"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Magic Jar
+msgctxt ""
+msgid "Magic Jar"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Magic Missile
+msgctxt ""
+msgid "Magic Missile"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Magic Mouth
+msgctxt ""
+msgid "Magic Mouth"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Magic Stone
+msgctxt ""
+msgid "Magic Stone"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Magic Weapon
+msgctxt ""
+msgid "Magic Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Major Image
+msgctxt ""
+msgid "Major Image"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mass Cure Wounds
+msgctxt ""
+msgid "Mass Cure Wounds"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mass Heal
+msgctxt ""
+msgid "Mass Heal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mass Healing Word
+msgctxt ""
+msgid "Mass Healing Word"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mass Polymorph
+msgctxt ""
+msgid "Mass Polymorph"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mass Suggestion
+msgctxt ""
+msgid "Mass Suggestion"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Maximilian's Earthen Grasp
+msgctxt ""
+msgid "Maximilian's Earthen Grasp"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Maze
+msgctxt ""
+msgid "Maze"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Meld into Stone
+msgctxt ""
+msgid "Meld into Stone"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Melf's Acid Arrow
+msgctxt ""
+msgid "Melf's Acid Arrow"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Melf's Minute Meteors
+msgctxt ""
+msgid "Melf's Minute Meteors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mending
+msgctxt ""
+msgid "Mending"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mental Prison
+msgctxt ""
+msgid "Mental Prison"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Message
+msgctxt ""
+msgid "Message"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Meteor Swarm
+msgctxt ""
+msgid "Meteor Swarm"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mighty Fortress
+msgctxt ""
+msgid "Mighty Fortress"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mind Blank
+msgctxt ""
+msgid "Mind Blank"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mind Spike
+msgctxt ""
+msgid "Mind Spike"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Minor Illusion
+msgctxt ""
+msgid "Minor Illusion"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mirage Arcane
+msgctxt ""
+msgid "Mirage Arcane"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mirror Image
+msgctxt ""
+msgid "Mirror Image"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mislead
+msgctxt ""
+msgid "Mislead"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Misty Step
+msgctxt ""
+msgid "Misty Step"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Modify Memory
+msgctxt ""
+msgid "Modify Memory"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mold earth
+msgctxt ""
+msgid "Mold earth"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Moonbeam
+msgctxt ""
+msgid "Moonbeam"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mordenkainen's Faithful Hound
+msgctxt ""
+msgid "Mordenkainen's Faithful Hound"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mordenkainen's Magnificent Mansion
+msgctxt ""
+msgid "Mordenkainen's Magnificent Mansion"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mordenkainen's Private Sanctum
+msgctxt ""
+msgid "Mordenkainen's Private Sanctum"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mordenkainen's Sword
+msgctxt ""
+msgid "Mordenkainen's Sword"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Move Earth
+msgctxt ""
+msgid "Move Earth"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Negative Energy Flood
+msgctxt ""
+msgid "Negative Energy Flood"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Nondetection
+msgctxt ""
+msgid "Nondetection"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Nystul's Magic Aura
+msgctxt ""
+msgid "Nystul's Magic Aura"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Otiluke's Freezing Sphere
+msgctxt ""
+msgid "Otiluke's Freezing Sphere"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Otiluke's Resilient Sphere
+msgctxt ""
+msgid "Otiluke's Resilient Sphere"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Otto's Irresistible Dance
+msgctxt ""
+msgid "Otto's Irresistible Dance"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Pass Without Trace
+msgctxt ""
+msgid "Pass Without Trace"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Passwall
+msgctxt ""
+msgid "Passwall"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Phantasmal Force
+msgctxt ""
+msgid "Phantasmal Force"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Phantasmal Killer
+msgctxt ""
+msgid "Phantasmal Killer"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Phantom Steed
+msgctxt ""
+msgid "Phantom Steed"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Planar Ally
+msgctxt ""
+msgid "Planar Ally"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Planar Binding
+msgctxt ""
+msgid "Planar Binding"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Plane Shift
+msgctxt ""
+msgid "Plane Shift"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Plant Growth
+msgctxt ""
+msgid "Plant Growth"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Poison Spray
+msgctxt ""
+msgid "Poison Spray"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Polymorph
+msgctxt ""
+msgid "Polymorph"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Power Word Heal
+msgctxt ""
+msgid "Power Word Heal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Power Word Kill
+msgctxt ""
+msgid "Power Word Kill"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Power Word Pain
+msgctxt ""
+msgid "Power Word Pain"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Power Word Stun
+msgctxt ""
+msgid "Power Word Stun"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Prayer of Healing
+msgctxt ""
+msgid "Prayer of Healing"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Prestidigitation
+msgctxt ""
+msgid "Prestidigitation"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Primal Savagery
+msgctxt ""
+msgid "Primal Savagery"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Primordial Ward
+msgctxt ""
+msgid "Primordial Ward"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Primordial Ward
+msgctxt ""
+msgid "Primordial Ward"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Prismatic Spray
+msgctxt ""
+msgid "Prismatic Spray"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Prismatic Wall
+msgctxt ""
+msgid "Prismatic Wall"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Produce Flame
+msgctxt ""
+msgid "Produce Flame"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Programmed Illusion
+msgctxt ""
+msgid "Programmed Illusion"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Project Image
+msgctxt ""
+msgid "Project Image"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Protection from Energy
+msgctxt ""
+msgid "Protection from Energy"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Protection from Evil and Good
+msgctxt ""
+msgid "Protection from Evil and Good"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Protection from Poison
+msgctxt ""
+msgid "Protection from Poison"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Psychic Scream
+msgctxt ""
+msgid "Psychic Scream"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Purify Food and Drink
+msgctxt ""
+msgid "Purify Food and Drink"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Pyrotechnics
+msgctxt ""
+msgid "Pyrotechnics"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Raise Dead
+msgctxt ""
+msgid "Raise Dead"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Rary's Telepathic Bond
+msgctxt ""
+msgid "Rary's Telepathic Bond"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ray of Enfeeblement
+msgctxt ""
+msgid "Ray of Enfeeblement"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ray of Frost
+msgctxt ""
+msgid "Ray of Frost"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ray of Sickness
+msgctxt ""
+msgid "Ray of Sickness"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Regenerate
+msgctxt ""
+msgid "Regenerate"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Reincarnate
+msgctxt ""
+msgid "Reincarnate"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Remove Curse
+msgctxt ""
+msgid "Remove Curse"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Resistance
+msgctxt ""
+msgid "Resistance"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Resurrection
+msgctxt ""
+msgid "Resurrection"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Reverse Gravity
+msgctxt ""
+msgid "Reverse Gravity"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Revivify
+msgctxt ""
+msgid "Revivify"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Rope Trick
+msgctxt ""
+msgid "Rope Trick"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sacred Flame
+msgctxt ""
+msgid "Sacred Flame"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sanctuary
+msgctxt ""
+msgid "Sanctuary"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Scatter
+msgctxt ""
+msgid "Scatter"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Scorching Ray
+msgctxt ""
+msgid "Scorching Ray"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Scrying
+msgctxt ""
+msgid "Scrying"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Searing Smite
+msgctxt ""
+msgid "Searing Smite"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid See invisibility
+msgctxt ""
+msgid "See invisibility"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Seeming
+msgctxt ""
+msgid "Seeming"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sending
+msgctxt ""
+msgid "Sending"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sequester
+msgctxt ""
+msgid "Sequester"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shadow Blade
+msgctxt ""
+msgid "Shadow Blade"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shadow of Moil
+msgctxt ""
+msgid "Shadow of Moil"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shape Water
+msgctxt ""
+msgid "Shape Water"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shapechange
+msgctxt ""
+msgid "Shapechange"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shatter
+msgctxt ""
+msgid "Shatter"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shield
+msgctxt ""
+msgid "Shield"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shield of Faith
+msgctxt ""
+msgid "Shield of Faith"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shillelagh
+msgctxt ""
+msgid "Shillelagh"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shocking Grasp
+msgctxt ""
+msgid "Shocking Grasp"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sickening Radiance
+msgctxt ""
+msgid "Sickening Radiance"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Silence
+msgctxt ""
+msgid "Silence"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Silent Image
+msgctxt ""
+msgid "Silent Image"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Simulacrum
+msgctxt ""
+msgid "Simulacrum"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Skill Empowerment
+msgctxt ""
+msgid "Skill Empowerment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Skywrite
+msgctxt ""
+msgid "Skywrite"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sleep
+msgctxt ""
+msgid "Sleep"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sleet Storm
+msgctxt ""
+msgid "Sleet Storm"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Slow
+msgctxt ""
+msgid "Slow"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Snare
+msgctxt ""
+msgid "Snare"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Snilloc's Snowball Swarm
+msgctxt ""
+msgid "Snilloc's Snowball Swarm"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Soul Cage
+msgctxt ""
+msgid "Soul Cage"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spare the Dying
+msgctxt ""
+msgid "Spare the Dying"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Speak with Animals
+msgctxt ""
+msgid "Speak with Animals"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Speak with Dead
+msgctxt ""
+msgid "Speak with Dead"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Speak with Plants
+msgctxt ""
+msgid "Speak with Plants"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spider Climb
+msgctxt ""
+msgid "Spider Climb"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spike Growth
+msgctxt ""
+msgid "Spike Growth"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spirit Guardians
+msgctxt ""
+msgid "Spirit Guardians"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spiritual Weapon
+msgctxt ""
+msgid "Spiritual Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Staggering Smite
+msgctxt ""
+msgid "Staggering Smite"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Steel Wind Strike
+msgctxt ""
+msgid "Steel Wind Strike"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Stinking Cloud
+msgctxt ""
+msgid "Stinking Cloud"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Stone Shape
+msgctxt ""
+msgid "Stone Shape"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Stoneskin
+msgctxt ""
+msgid "Stoneskin"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Storm Sphere
+msgctxt ""
+msgid "Storm Sphere"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Storm of Vengeance
+msgctxt ""
+msgid "Storm of Vengeance"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Suggestion
+msgctxt ""
+msgid "Suggestion"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Summon Greater Demon
+msgctxt ""
+msgid "Summon Greater Demon"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Summon Lesser Demons
+msgctxt ""
+msgid "Summon Lesser Demons"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sunbeam
+msgctxt ""
+msgid "Sunbeam"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sunburst
+msgctxt ""
+msgid "Sunburst"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Swift Quiver
+msgctxt ""
+msgid "Swift Quiver"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sword Burst
+msgctxt ""
+msgid "Sword Burst"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Symbol
+msgctxt ""
+msgid "Symbol"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Synaptic Static
+msgctxt ""
+msgid "Synaptic Static"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Tasha's Hideous Laughter
+msgctxt ""
+msgid "Tasha's Hideous Laughter"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Telekinesis
+msgctxt ""
+msgid "Telekinesis"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Telepathy
+msgctxt ""
+msgid "Telepathy"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Teleport
+msgctxt ""
+msgid "Teleport"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Teleportation Circle
+msgctxt ""
+msgid "Teleportation Circle"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Temple of the Gods
+msgctxt ""
+msgid "Temple of the Gods"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Tenser's Floating Disk
+msgctxt ""
+msgid "Tenser's Floating Disk"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Tenser's Transformation
+msgctxt ""
+msgid "Tenser's Transformation"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Thaumaturgy
+msgctxt ""
+msgid "Thaumaturgy"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Thorn Whip
+msgctxt ""
+msgid "Thorn Whip"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Thunder Step
+msgctxt ""
+msgid "Thunder Step"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Thunderclap
+msgctxt ""
+msgid "Thunderclap"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Thunderous Smite
+msgctxt ""
+msgid "Thunderous Smite"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Thunderwave
+msgctxt ""
+msgid "Thunderwave"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Tidal Wave
+msgctxt ""
+msgid "Tidal Wave"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Time Stop
+msgctxt ""
+msgid "Time Stop"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Tiny Servant
+msgctxt ""
+msgid "Tiny Servant"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Toll the Dead
+msgctxt ""
+msgid "Toll the Dead"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Tongues
+msgctxt ""
+msgid "Tongues"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Transmute Rock
+msgctxt ""
+msgid "Transmute Rock"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Transport via Plants
+msgctxt ""
+msgid "Transport via Plants"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Trap the Soul
+msgctxt ""
+msgid "Trap the Soul"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Tree Stride
+msgctxt ""
+msgid "Tree Stride"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid True Polymorph
+msgctxt ""
+msgid "True Polymorph"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid True Resurrection
+msgctxt ""
+msgid "True Resurrection"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid True Seeing
+msgctxt ""
+msgid "True Seeing"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid True Strike
+msgctxt ""
+msgid "True Strike"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Tsunami
+msgctxt ""
+msgid "Tsunami"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Unseen Servant
+msgctxt ""
+msgid "Unseen Servant"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Vampiric Touch
+msgctxt ""
+msgid "Vampiric Touch"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Vicious Mockery
+msgctxt ""
+msgid "Vicious Mockery"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Vitriolic Sphere
+msgctxt ""
+msgid "Vitriolic Sphere"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wall of Fire
+msgctxt ""
+msgid "Wall of Fire"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wall of Force
+msgctxt ""
+msgid "Wall of Force"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wall of Ice
+msgctxt ""
+msgid "Wall of Ice"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wall of Light
+msgctxt ""
+msgid "Wall of Light"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wall of Sand
+msgctxt ""
+msgid "Wall of Sand"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wall of Stone
+msgctxt ""
+msgid "Wall of Stone"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wall of Thorns
+msgctxt ""
+msgid "Wall of Thorns"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wall of Water
+msgctxt ""
+msgid "Wall of Water"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Warding Bond
+msgctxt ""
+msgid "Warding Bond"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Warding Wind
+msgctxt ""
+msgid "Warding Wind"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Water Breathing
+msgctxt ""
+msgid "Water Breathing"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Water Walk
+msgctxt ""
+msgid "Water Walk"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Watery Sphere
+msgctxt ""
+msgid "Watery Sphere"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Web
+msgctxt ""
+msgid "Web"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Weird
+msgctxt ""
+msgid "Weird"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Whirlwind
+msgctxt ""
+msgid "Whirlwind"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wind Walk
+msgctxt ""
+msgid "Wind Walk"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wind Wall
+msgctxt ""
+msgid "Wind Wall"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wish
+msgctxt ""
+msgid "Wish"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Witch Bolt
+msgctxt ""
+msgid "Witch Bolt"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Word of Radiance
+msgctxt ""
+msgid "Word of Radiance"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Word of Recall
+msgctxt ""
+msgid "Word of Recall"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wrath of Nature
+msgctxt ""
+msgid "Wrath of Nature"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wrathful Smite
+msgctxt ""
+msgid "Wrathful Smite"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Zephyr Strike
+msgctxt ""
+msgid "Zephyr Strike"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Zone of Truth
+msgctxt ""
+msgid "Zone of Truth"
 msgstr ""
 

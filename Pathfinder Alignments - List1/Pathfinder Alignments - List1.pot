@@ -11,37 +11,37 @@ msgstr ""
 
 # 
 #: 
-msgctxt Alignment
-msgid Good
+msgctxt "Alignment"
+msgid "Good"
 msgstr ""
 
 # 
 #: 
-msgctxt Alignment
-msgid Neutral
+msgctxt "Alignment"
+msgid "Neutral"
 msgstr ""
 
 # 
 #: 
-msgctxt Alignment
-msgid Evil
+msgctxt "Alignment"
+msgid "Evil"
 msgstr ""
 
 # 
 #: 
-msgctxt Alignment
-msgid Lawful
+msgctxt "Alignment"
+msgid "Lawful"
 msgstr ""
 
 # 
 #: 
-msgctxt Alignment
-msgid Neutral
+msgctxt "Alignment"
+msgid "Neutral"
 msgstr ""
 
 # 
 #: 
-msgctxt Alignment
-msgid Chaotic
+msgctxt "Alignment"
+msgid "Chaotic"
 msgstr ""
 

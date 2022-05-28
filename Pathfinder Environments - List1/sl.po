@@ -1,624 +1,624 @@
 # 
 #: 
-msgctxt 
-msgid Dungeon
+msgctxt ""
+msgid "Dungeon"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ruined Structure
+msgctxt ""
+msgid "Ruined Structure"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Occupied Structure
+msgctxt ""
+msgid "Occupied Structure"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Safe Storage
+msgctxt ""
+msgid "Safe Storage"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Natural Cavern Complex
+msgctxt ""
+msgid "Natural Cavern Complex"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Walls
+msgctxt ""
+msgid "Walls"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Masonry Walls
+msgctxt ""
+msgid "Masonry Walls"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Superior Masonry Walls
+msgctxt ""
+msgid "Superior Masonry Walls"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Reinforced Masonry Walls
+msgctxt ""
+msgid "Reinforced Masonry Walls"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hewn Stone Walls
+msgctxt ""
+msgid "Hewn Stone Walls"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Unworked Stone Walls
+msgctxt ""
+msgid "Unworked Stone Walls"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Iron Walls
+msgctxt ""
+msgid "Iron Walls"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Paper Walls
+msgctxt ""
+msgid "Paper Walls"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wooden Walls
+msgctxt ""
+msgid "Wooden Walls"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Magically Treated Walls
+msgctxt ""
+msgid "Magically Treated Walls"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Walls with Arrow Slits
+msgctxt ""
+msgid "Walls with Arrow Slits"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Flagstone Floors
+msgctxt ""
+msgid "Flagstone Floors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Uneven Flagstone Floors
+msgctxt ""
+msgid "Uneven Flagstone Floors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hewn Stone Floors
+msgctxt ""
+msgid "Hewn Stone Floors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Light Rubble Floors
+msgctxt ""
+msgid "Light Rubble Floors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dense Rubble Floors
+msgctxt ""
+msgid "Dense Rubble Floors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Smooth Stone Floors
+msgctxt ""
+msgid "Smooth Stone Floors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Natural Stone Floors
+msgctxt ""
+msgid "Natural Stone Floors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Slippery Floors
+msgctxt ""
+msgid "Slippery Floors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Grate
+msgctxt ""
+msgid "Grate"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ledge
+msgctxt ""
+msgid "Ledge"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Transparent Floors
+msgctxt ""
+msgid "Transparent Floors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sliding Floors
+msgctxt ""
+msgid "Sliding Floors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Trap Floors
+msgctxt ""
+msgid "Trap Floors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Simple Wooden Doors
+msgctxt ""
+msgid "Simple Wooden Doors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Good Wooden Doors
+msgctxt ""
+msgid "Good Wooden Doors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Strong Wooden Doors
+msgctxt ""
+msgid "Strong Wooden Doors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Stone Doors
+msgctxt ""
+msgid "Stone Doors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Iron Doors
+msgctxt ""
+msgid "Iron Doors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wooden Portcullis
+msgctxt ""
+msgid "Wooden Portcullis"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Iron Portcullis
+msgctxt ""
+msgid "Iron Portcullis"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lock
+msgctxt ""
+msgid "Lock"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hinge
+msgctxt ""
+msgid "Hinge"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Stuck Doors
+msgctxt ""
+msgid "Stuck Doors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Barred Doors
+msgctxt ""
+msgid "Barred Doors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Magic Seals
+msgctxt ""
+msgid "Magic Seals"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Standard Hinges
+msgctxt ""
+msgid "Standard Hinges"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Nested Hinges
+msgctxt ""
+msgid "Nested Hinges"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Pivots
+msgctxt ""
+msgid "Pivots"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Secret Doors
+msgctxt ""
+msgid "Secret Doors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Magic Doors
+msgctxt ""
+msgid "Magic Doors"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Brown Mold
+msgctxt ""
+msgid "Brown Mold"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Green Slime
+msgctxt ""
+msgid "Green Slime"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Phosphorescent Fungus
+msgctxt ""
+msgid "Phosphorescent Fungus"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shrieker
+msgctxt ""
+msgid "Shrieker"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Yellow Mold
+msgctxt ""
+msgid "Yellow Mold"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mechanical Trap
+msgctxt ""
+msgid "Mechanical Trap"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Magic Trap
+msgctxt ""
+msgid "Magic Trap"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sound Trigger
+msgctxt ""
+msgid "Sound Trigger"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Visual Trigger
+msgctxt ""
+msgid "Visual Trigger"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Touch Trigger
+msgctxt ""
+msgid "Touch Trigger"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Timed Trigger
+msgctxt ""
+msgid "Timed Trigger"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spell Trigger
+msgctxt ""
+msgid "Spell Trigger"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lock Bypass
+msgctxt ""
+msgid "Lock Bypass"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hidden Switch
+msgctxt ""
+msgid "Hidden Switch"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hidden Lock
+msgctxt ""
+msgid "Hidden Lock"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ranged Attack Trap
+msgctxt ""
+msgid "Ranged Attack Trap"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Melee Attack Trap
+msgctxt ""
+msgid "Melee Attack Trap"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spell Trap
+msgctxt ""
+msgid "Spell Trap"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Magic Device Trap
+msgctxt ""
+msgid "Magic Device Trap"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Gas Trap
+msgctxt ""
+msgid "Gas Trap"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Onset Delay
+msgctxt ""
+msgid "Onset Delay"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Pit Spikes
+msgctxt ""
+msgid "Pit Spikes"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Touch Attack
+msgctxt ""
+msgid "Touch Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Difficult Terrain
+msgctxt ""
+msgid "Difficult Terrain"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Poor Visibility
+msgctxt ""
+msgid "Poor Visibility"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Forest Canopy
+msgctxt ""
+msgid "Forest Canopy"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Berm
+msgctxt ""
+msgid "Berm"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Watchtower
+msgctxt ""
+msgid "Watchtower"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Siege Engine
+msgctxt ""
+msgid "Siege Engine"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Heavy Catapult
+msgctxt ""
+msgid "Heavy Catapult"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Light Catapult
+msgctxt ""
+msgid "Light Catapult"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ballista
+msgctxt ""
+msgid "Ballista"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ram
+msgctxt ""
+msgid "Ram"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Siege Tower
+msgctxt ""
+msgid "Siege Tower"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Planes
+msgctxt ""
+msgid "Planes"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Material Plane
+msgctxt ""
+msgid "Material Plane"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Transitive Planes
+msgctxt ""
+msgid "Transitive Planes"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Astral Plane
+msgctxt ""
+msgid "Astral Plane"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ethereal Plane
+msgctxt ""
+msgid "Ethereal Plane"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shadow Plane
+msgctxt ""
+msgid "Shadow Plane"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Inner Planes
+msgctxt ""
+msgid "Inner Planes"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Elemental Planes
+msgctxt ""
+msgid "Elemental Planes"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Plane of Air
+msgctxt ""
+msgid "Plane of Air"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Plane of Earth
+msgctxt ""
+msgid "Plane of Earth"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Plane of Fire
+msgctxt ""
+msgid "Plane of Fire"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Plane of Water
+msgctxt ""
+msgid "Plane of Water"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Energy Planes
+msgctxt ""
+msgid "Energy Planes"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Positive Energy Plane
+msgctxt ""
+msgid "Positive Energy Plane"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Negative Energy Plane
+msgctxt ""
+msgid "Negative Energy Plane"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Outer Planes
+msgctxt ""
+msgid "Outer Planes"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Heaven
+msgctxt ""
+msgid "Heaven"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Abyss
+msgctxt ""
+msgid "Abyss"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hell
+msgctxt ""
+msgid "Hell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Elysium
+msgctxt ""
+msgid "Elysium"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Demiplanes
+msgctxt ""
+msgid "Demiplanes"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Plane Layers
+msgctxt ""
+msgid "Plane Layers"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Coterminous Planes
+msgctxt ""
+msgid "Coterminous Planes"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Coexistent Planes
+msgctxt ""
+msgid "Coexistent Planes"
 msgstr ""
 

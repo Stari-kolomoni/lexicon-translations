@@ -11,433 +11,433 @@ msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Bonus
+msgctxt ""
+msgid "Bonus"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Check
+msgctxt ""
+msgid "Check"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Game Master (GM)
+msgctxt ""
+msgid "Game Master (GM)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Concentration Check
+msgctxt ""
+msgid "Concentration Check"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Penalty
+msgctxt ""
+msgid "Penalty"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Stacking
+msgctxt ""
+msgid "Stacking"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Player Character (PC)
+msgctxt ""
+msgid "Player Character (PC)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Nonplayer Character (NPC)
+msgctxt ""
+msgid "Nonplayer Character (NPC)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Monster
+msgctxt ""
+msgid "Monster"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Creature
+msgctxt ""
+msgid "Creature"
 msgstr ""
 
 # 
 #: 
-msgctxt Ability Score generation
-msgid Standard
+msgctxt "Ability Score generation"
+msgid "Standard"
 msgstr ""
 
 # 
 #: 
-msgctxt Ability Score generation
-msgid Classic
+msgctxt "Ability Score generation"
+msgid "Classic"
 msgstr ""
 
 # 
 #: 
-msgctxt Ability Score generation
-msgid Heroic
+msgctxt "Ability Score generation"
+msgid "Heroic"
 msgstr ""
 
 # 
 #: 
-msgctxt Ability Score generation
-msgid Dice Pool
+msgctxt "Ability Score generation"
+msgid "Dice Pool"
 msgstr ""
 
 # 
 #: 
-msgctxt Ability Score generation
-msgid Purchase
+msgctxt "Ability Score generation"
+msgid "Purchase"
 msgstr ""
 
 # 
 #: 
-msgctxt Campaign type
-msgid Low Fantasy
+msgctxt "Campaign type"
+msgid "Low Fantasy"
 msgstr ""
 
 # 
 #: 
-msgctxt Campaign type
-msgid Standard Fantasy
+msgctxt "Campaign type"
+msgid "Standard Fantasy"
 msgstr ""
 
 # 
 #: 
-msgctxt Campaign type
-msgid Hight Fantasy
+msgctxt "Campaign type"
+msgid "Hight Fantasy"
 msgstr ""
 
 # 
 #: 
-msgctxt Campaign type
-msgid Epic Fantasy
+msgctxt "Campaign type"
+msgid "Epic Fantasy"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Will Saving Throw
+msgctxt ""
+msgid "Will Saving Throw"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Survival Check
+msgctxt ""
+msgid "Survival Check"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Fatigued
+msgctxt "State or effect"
+msgid "Fatigued"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Shaken
+msgctxt "State or effect"
+msgid "Shaken"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Sickened
+msgctxt "State or effect"
+msgid "Sickened"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Dazed
+msgctxt "State or effect"
+msgid "Dazed"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Diseased
+msgctxt "State or effect"
+msgid "Diseased"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Staggered
+msgctxt "State or effect"
+msgid "Staggered"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Cursed
+msgctxt "State or effect"
+msgid "Cursed"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Exhausted
+msgctxt "State or effect"
+msgid "Exhausted"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Frightened
+msgctxt "State or effect"
+msgid "Frightened"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Nauseated
+msgctxt "State or effect"
+msgid "Nauseated"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Poisoned
+msgctxt "State or effect"
+msgid "Poisoned"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Blinded
+msgctxt "State or effect"
+msgid "Blinded"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Deafened
+msgctxt "State or effect"
+msgid "Deafened"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Paralyzed
+msgctxt "State or effect"
+msgid "Paralyzed"
 msgstr ""
 
 # 
 #: 
-msgctxt State or effect
-msgid Stunned
+msgctxt "State or effect"
+msgid "Stunned"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hardness
+msgctxt ""
+msgid "Hardness"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Animated Object
+msgctxt ""
+msgid "Animated Object"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Encounter
+msgctxt ""
+msgid "Encounter"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Average Player Level (APL)
+msgctxt ""
+msgid "Average Player Level (APL)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Difficulty
+msgctxt ""
+msgid "Difficulty"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Easy
+msgctxt ""
+msgid "Easy"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Average
+msgctxt ""
+msgid "Average"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Challenging
+msgctxt ""
+msgid "Challenging"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hard
+msgctxt ""
+msgid "Hard"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Epic
+msgctxt ""
+msgid "Epic"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Challenge Rating (CR)
+msgctxt ""
+msgid "Challenge Rating (CR)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Story Awards
+msgctxt ""
+msgid "Story Awards"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Low-Quality Gem
+msgctxt ""
+msgid "Low-Quality Gem"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Semi-Precious Gem
+msgctxt ""
+msgid "Semi-Precious Gem"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Medium Quality Gemstone
+msgctxt ""
+msgid "Medium Quality Gemstone"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid High Quality Gemstone
+msgctxt ""
+msgid "High Quality Gemstone"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Jewels
+msgctxt ""
+msgid "Jewels"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Grand Jewels
+msgctxt ""
+msgid "Grand Jewels"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fine Artwork
+msgctxt ""
+msgid "Fine Artwork"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Minor Jewelry
+msgctxt ""
+msgid "Minor Jewelry"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Normal Jewelry
+msgctxt ""
+msgid "Normal Jewelry"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Precious Jewelry
+msgctxt ""
+msgid "Precious Jewelry"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Masterwork Tools
+msgctxt ""
+msgid "Masterwork Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mundane Gear
+msgctxt ""
+msgid "Mundane Gear"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Treasure Map
+msgctxt ""
+msgid "Treasure Map"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Magic Item
+msgctxt ""
+msgid "Magic Item"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Minor Item
+msgctxt ""
+msgid "Minor Item"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Medium Item
+msgctxt ""
+msgid "Medium Item"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Major Item
+msgctxt ""
+msgid "Major Item"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cost of Living
+msgctxt ""
+msgid "Cost of Living"
 msgstr ""
 
 # 
 #: 
-msgctxt Cost of living
-msgid Destitute
+msgctxt "Cost of living"
+msgid "Destitute"
 msgstr ""
 
 # 
 #: 
-msgctxt Cost of living
-msgid Poor
+msgctxt "Cost of living"
+msgid "Poor"
 msgstr ""
 
 # 
 #: 
-msgctxt Cost of living
-msgid Average
+msgctxt "Cost of living"
+msgid "Average"
 msgstr ""
 
 # 
 #: 
-msgctxt Cost of living
-msgid Wealthy
+msgctxt "Cost of living"
+msgid "Wealthy"
 msgstr ""
 
 # 
 #: 
-msgctxt Cost of living
-msgid Extravagant
+msgctxt "Cost of living"
+msgid "Extravagant"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Multiclassing
+msgctxt ""
+msgid "Multiclassing"
 msgstr ""
 

@@ -11,3691 +11,3691 @@ msgstr ""
 
 # 
 #: 
-msgctxt Class Feature
-msgid Fast Movement
+msgctxt "Class Feature"
+msgid "Fast Movement"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Air Domain
+msgctxt "Cleric domain"
+msgid "Air Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Animal Domain
+msgctxt "Cleric domain"
+msgid "Animal Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Artifice Domain
+msgctxt "Cleric domain"
+msgid "Artifice Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Chaos Domain
+msgctxt "Cleric domain"
+msgid "Chaos Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Charm Domain
+msgctxt "Cleric domain"
+msgid "Charm Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Community Domain
+msgctxt "Cleric domain"
+msgid "Community Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Death Domain
+msgctxt "Cleric domain"
+msgid "Death Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Darkness Domain
+msgctxt "Cleric domain"
+msgid "Darkness Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Destruction Domain
+msgctxt "Cleric domain"
+msgid "Destruction Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Earth Domain
+msgctxt "Cleric domain"
+msgid "Earth Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Evil Domain
+msgctxt "Cleric domain"
+msgid "Evil Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Fire Domain
+msgctxt "Cleric domain"
+msgid "Fire Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Glory Domain
+msgctxt "Cleric domain"
+msgid "Glory Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Good Domain
+msgctxt "Cleric domain"
+msgid "Good Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Healing Domain
+msgctxt "Cleric domain"
+msgid "Healing Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Knowledge Domain
+msgctxt "Cleric domain"
+msgid "Knowledge Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Law Domain
+msgctxt "Cleric domain"
+msgid "Law Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Liberation Domain
+msgctxt "Cleric domain"
+msgid "Liberation Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Luck Domain
+msgctxt "Cleric domain"
+msgid "Luck Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Madness Domain
+msgctxt "Cleric domain"
+msgid "Madness Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Magic Domain
+msgctxt "Cleric domain"
+msgid "Magic Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Nobility Domain
+msgctxt "Cleric domain"
+msgid "Nobility Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Plant Domain
+msgctxt "Cleric domain"
+msgid "Plant Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Protection Domain
+msgctxt "Cleric domain"
+msgid "Protection Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Repose Domain
+msgctxt "Cleric domain"
+msgid "Repose Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Rune Domain
+msgctxt "Cleric domain"
+msgid "Rune Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Strength Domain
+msgctxt "Cleric domain"
+msgid "Strength Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Sun Domain
+msgctxt "Cleric domain"
+msgid "Sun Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Travel Domain
+msgctxt "Cleric domain"
+msgid "Travel Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Trickery Domain
+msgctxt "Cleric domain"
+msgid "Trickery Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid War Domain
+msgctxt "Cleric domain"
+msgid "War Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Water Domain
+msgctxt "Cleric domain"
+msgid "Water Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Cleric domain
-msgid Weather Domain
+msgctxt "Cleric domain"
+msgid "Weather Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Rage
+msgctxt "Feature"
+msgid "Rage"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Rage Powers
+msgctxt "Feature"
+msgid "Rage Powers"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Animal Fury
+msgctxt "Feature"
+msgid "Animal Fury"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Clear Mind
+msgctxt "Feature"
+msgid "Clear Mind"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Fearless Rage
+msgctxt "Feature"
+msgid "Fearless Rage"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Guarded Stance
+msgctxt "Feature"
+msgid "Guarded Stance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Increased Damage Reduction
+msgctxt "Feature"
+msgid "Increased Damage Reduction"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Internal Fortitude
+msgctxt "Feature"
+msgid "Internal Fortitude"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Intimidating Glare
+msgctxt "Feature"
+msgid "Intimidating Glare"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Kockback
+msgctxt "Feature"
+msgid "Kockback"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Low-Light Vision
+msgctxt "Feature"
+msgid "Low-Light Vision"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Mighty Swing
+msgctxt "Feature"
+msgid "Mighty Swing"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Moment of Clarity
+msgctxt "Feature"
+msgid "Moment of Clarity"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Night Vision
+msgctxt "Feature"
+msgid "Night Vision"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid No Escape
+msgctxt "Feature"
+msgid "No Escape"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Powerful Blow
+msgctxt "Feature"
+msgid "Powerful Blow"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Quick Reflexes
+msgctxt "Feature"
+msgid "Quick Reflexes"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Raging Climber
+msgctxt "Feature"
+msgid "Raging Climber"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Raging Leaper
+msgctxt "Feature"
+msgid "Raging Leaper"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Raging Swimmer
+msgctxt "Feature"
+msgid "Raging Swimmer"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Renewed Vigor
+msgctxt "Feature"
+msgid "Renewed Vigor"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Rolling Dodge
+msgctxt "Feature"
+msgid "Rolling Dodge"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Roused Anger
+msgctxt "Feature"
+msgid "Roused Anger"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Scent
+msgctxt "Feature"
+msgid "Scent"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Strength Surge
+msgctxt "Feature"
+msgid "Strength Surge"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Superstition
+msgctxt "Feature"
+msgid "Superstition"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Suprise Accuracy
+msgctxt "Feature"
+msgid "Suprise Accuracy"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Swift Foot
+msgctxt "Feature"
+msgid "Swift Foot"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Terrifying Howl
+msgctxt "Feature"
+msgid "Terrifying Howl"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Unexpected Strike
+msgctxt "Feature"
+msgid "Unexpected Strike"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Uncanny Dodge
+msgctxt "Feature"
+msgid "Uncanny Dodge"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Trap Sense
+msgctxt "Feature"
+msgid "Trap Sense"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Improved Uncanny Dodge
+msgctxt "Feature"
+msgid "Improved Uncanny Dodge"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Damage Reduction
+msgctxt "Feature"
+msgid "Damage Reduction"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Greater Rage
+msgctxt "Feature"
+msgid "Greater Rage"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Indomitable Will
+msgctxt "Feature"
+msgid "Indomitable Will"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Tireless Rage
+msgctxt "Feature"
+msgid "Tireless Rage"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Mighty Rage
+msgctxt "Feature"
+msgid "Mighty Rage"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Bardic Knowledge
+msgctxt "Feature"
+msgid "Bardic Knowledge"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Bardic Performance
+msgctxt "Feature"
+msgid "Bardic Performance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Countersong
+msgctxt "Feature"
+msgid "Countersong"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Distraction
+msgctxt "Feature"
+msgid "Distraction"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Fascinate
+msgctxt "Feature"
+msgid "Fascinate"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Inspire Courage
+msgctxt "Feature"
+msgid "Inspire Courage"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Suggestion
+msgctxt "Feature"
+msgid "Suggestion"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Dirge of Doom
+msgctxt "Feature"
+msgid "Dirge of Doom"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Inspire Greatness
+msgctxt "Feature"
+msgid "Inspire Greatness"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Soothing Performance
+msgctxt "Feature"
+msgid "Soothing Performance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Frightening Tune
+msgctxt "Feature"
+msgid "Frightening Tune"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Inspire Heroics
+msgctxt "Feature"
+msgid "Inspire Heroics"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Mass Suggestion
+msgctxt "Feature"
+msgid "Mass Suggestion"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Deadly Performance
+msgctxt "Feature"
+msgid "Deadly Performance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Cantrip
+msgctxt "Feature"
+msgid "Cantrip"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Versatile Performance
+msgctxt "Feature"
+msgid "Versatile Performance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Well-Versed
+msgctxt "Feature"
+msgid "Well-Versed"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Lore Master
+msgctxt "Feature"
+msgid "Lore Master"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Jack-of-All-Trades
+msgctxt "Feature"
+msgid "Jack-of-All-Trades"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Aura
+msgctxt "Feature"
+msgid "Aura"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Channel Energy
+msgctxt "Feature"
+msgid "Channel Energy"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Domains
+msgctxt "Feature"
+msgid "Domains"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Orisons
+msgctxt "Feature"
+msgid "Orisons"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Spontaneous Casting
+msgctxt "Feature"
+msgid "Spontaneous Casting"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Bonus Languages
+msgctxt "Feature"
+msgid "Bonus Languages"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Domain Spells
+msgctxt "Feature"
+msgid "Domain Spells"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Chaotic, Evil, Good, and Lawful Spells
+msgctxt "Feature"
+msgid "Chaotic, Evil, Good, and Lawful Spells"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Lightning Arc
+msgctxt "Feature"
+msgid "Lightning Arc"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Electricity Resistance
+msgctxt "Feature"
+msgid "Electricity Resistance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Speak With Animals
+msgctxt "Feature"
+msgid "Speak With Animals"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Animal Companion
+msgctxt "Feature"
+msgid "Animal Companion"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Artificer's Touch
+msgctxt "Feature"
+msgid "Artificer's Touch"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Dancing Weapons
+msgctxt "Feature"
+msgid "Dancing Weapons"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Touch of Chaos
+msgctxt "Feature"
+msgid "Touch of Chaos"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Chaos Blade
+msgctxt "Feature"
+msgid "Chaos Blade"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Dazing Touch
+msgctxt "Feature"
+msgid "Dazing Touch"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Charming Smile
+msgctxt "Feature"
+msgid "Charming Smile"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Calming Touch
+msgctxt "Feature"
+msgid "Calming Touch"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Unity
+msgctxt "Feature"
+msgid "Unity"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Touch of Darkness
+msgctxt "Feature"
+msgid "Touch of Darkness"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Eyes of Darkness
+msgctxt "Feature"
+msgid "Eyes of Darkness"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Bleeding Touch
+msgctxt "Feature"
+msgid "Bleeding Touch"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Death's Embrace
+msgctxt "Feature"
+msgid "Death's Embrace"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Destructive Smite
+msgctxt "Feature"
+msgid "Destructive Smite"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Destructive Aura
+msgctxt "Feature"
+msgid "Destructive Aura"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Acid Dart
+msgctxt "Feature"
+msgid "Acid Dart"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Acid Resistance
+msgctxt "Feature"
+msgid "Acid Resistance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Touch of Evil
+msgctxt "Feature"
+msgid "Touch of Evil"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Scythe of Evil
+msgctxt "Feature"
+msgid "Scythe of Evil"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Fire Bolt
+msgctxt "Feature"
+msgid "Fire Bolt"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Fire Resistance
+msgctxt "Feature"
+msgid "Fire Resistance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Touch of Glory
+msgctxt "Feature"
+msgid "Touch of Glory"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Divine Presence
+msgctxt "Feature"
+msgid "Divine Presence"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Touch of Good
+msgctxt "Feature"
+msgid "Touch of Good"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Holy Lance
+msgctxt "Feature"
+msgid "Holy Lance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Rebuke Death
+msgctxt "Feature"
+msgid "Rebuke Death"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Healer's Blessing
+msgctxt "Feature"
+msgid "Healer's Blessing"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Lore Keeper
+msgctxt "Feature"
+msgid "Lore Keeper"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Remote Viewing
+msgctxt "Feature"
+msgid "Remote Viewing"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Touch of Law
+msgctxt "Feature"
+msgid "Touch of Law"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Staff of Order
+msgctxt "Feature"
+msgid "Staff of Order"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Liberation
+msgctxt "Feature"
+msgid "Liberation"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Freedom's Call
+msgctxt "Feature"
+msgid "Freedom's Call"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Bit of Luck
+msgctxt "Feature"
+msgid "Bit of Luck"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Good Fortune
+msgctxt "Feature"
+msgid "Good Fortune"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Vision of Madness
+msgctxt "Feature"
+msgid "Vision of Madness"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Aura of Madness
+msgctxt "Feature"
+msgid "Aura of Madness"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Hand of the Acolyte
+msgctxt "Feature"
+msgid "Hand of the Acolyte"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Dispelling Touch
+msgctxt "Feature"
+msgid "Dispelling Touch"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Inspiring Word
+msgctxt "Feature"
+msgid "Inspiring Word"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Leadership
+msgctxt "Feature"
+msgid "Leadership"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Wooden Gist
+msgctxt "Feature"
+msgid "Wooden Gist"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Bramble Armor
+msgctxt "Feature"
+msgid "Bramble Armor"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Resistant Touch
+msgctxt "Feature"
+msgid "Resistant Touch"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Aura of Protection
+msgctxt "Feature"
+msgid "Aura of Protection"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Gentle Rest
+msgctxt "Feature"
+msgid "Gentle Rest"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Ward Against Death
+msgctxt "Feature"
+msgid "Ward Against Death"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Blast Rune
+msgctxt "Feature"
+msgid "Blast Rune"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Spell Rune
+msgctxt "Feature"
+msgid "Spell Rune"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Might of the Gods
+msgctxt "Feature"
+msgid "Might of the Gods"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Sun's Blessing
+msgctxt "Feature"
+msgid "Sun's Blessing"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Nimbus of Light
+msgctxt "Feature"
+msgid "Nimbus of Light"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Agile Feet
+msgctxt "Feature"
+msgid "Agile Feet"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Dimensional Hop
+msgctxt "Feature"
+msgid "Dimensional Hop"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Copycat
+msgctxt "Feature"
+msgid "Copycat"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Master's Illusion
+msgctxt "Feature"
+msgid "Master's Illusion"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Battle Rage
+msgctxt "Feature"
+msgid "Battle Rage"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Weapon Master
+msgctxt "Feature"
+msgid "Weapon Master"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Icicle
+msgctxt "Feature"
+msgid "Icicle"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Cold Resistance
+msgctxt "Feature"
+msgid "Cold Resistance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Storm Burst
+msgctxt "Feature"
+msgid "Storm Burst"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Lightning Lord
+msgctxt "Feature"
+msgid "Lightning Lord"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Nature Bond
+msgctxt "Feature"
+msgid "Nature Bond"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Nature Sense
+msgctxt "Feature"
+msgid "Nature Sense"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Wild Empathy
+msgctxt "Feature"
+msgid "Wild Empathy"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Woodland Stride
+msgctxt "Feature"
+msgid "Woodland Stride"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Trackless Step
+msgctxt "Feature"
+msgid "Trackless Step"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Resist Nature's Lure
+msgctxt "Feature"
+msgid "Resist Nature's Lure"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Wild Shape
+msgctxt "Feature"
+msgid "Wild Shape"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Venom Immunity
+msgctxt "Feature"
+msgid "Venom Immunity"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid A Thousand Faces
+msgctxt "Feature"
+msgid "A Thousand Faces"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Timeless Body
+msgctxt "Feature"
+msgid "Timeless Body"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Natural Armor
+msgctxt "Feature"
+msgid "Natural Armor"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Bonus Tricks
+msgctxt "Feature"
+msgid "Bonus Tricks"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Special
+msgctxt "Feature"
+msgid "Special"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Link
+msgctxt "Feature"
+msgid "Link"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Share Spells
+msgctxt "Feature"
+msgid "Share Spells"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Evasion
+msgctxt "Feature"
+msgid "Evasion"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Ability Score Increase
+msgctxt "Feature"
+msgid "Ability Score Increase"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Devotion
+msgctxt "Feature"
+msgid "Devotion"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Multiattack
+msgctxt "Feature"
+msgid "Multiattack"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Improvised Evasion
+msgctxt "Feature"
+msgid "Improvised Evasion"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Bravery
+msgctxt "Feature"
+msgid "Bravery"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Armor Training
+msgctxt "Feature"
+msgid "Armor Training"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Weapon Training
+msgctxt "Feature"
+msgid "Weapon Training"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Axes
+msgctxt "Feature"
+msgid "Axes"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Blades, Heavy
+msgctxt "Feature"
+msgid "Blades, Heavy"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Blades, Light
+msgctxt "Feature"
+msgid "Blades, Light"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Bows
+msgctxt "Feature"
+msgid "Bows"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Close Combat
+msgctxt "Feature"
+msgid "Close Combat"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Crossbows
+msgctxt "Feature"
+msgid "Crossbows"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Double Weapon
+msgctxt "Feature"
+msgid "Double Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Flairs
+msgctxt "Feature"
+msgid "Flairs"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Hammers
+msgctxt "Feature"
+msgid "Hammers"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Natural Weapon
+msgctxt "Feature"
+msgid "Natural Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Pole Arms
+msgctxt "Feature"
+msgid "Pole Arms"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Spears
+msgctxt "Feature"
+msgid "Spears"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Thrown
+msgctxt "Feature"
+msgid "Thrown"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Flurry of Blows
+msgctxt "Feature"
+msgid "Flurry of Blows"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Unarmed Strike
+msgctxt "Feature"
+msgid "Unarmed Strike"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Fast Movement
+msgctxt "Feature"
+msgid "Fast Movement"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Maneuver Training
+msgctxt "Feature"
+msgid "Maneuver Training"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Still Mind
+msgctxt "Feature"
+msgid "Still Mind"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Ki Pool
+msgctxt "Feature"
+msgid "Ki Pool"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Slow Fall
+msgctxt "Feature"
+msgid "Slow Fall"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Hight Jump
+msgctxt "Feature"
+msgid "Hight Jump"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Purity of Body
+msgctxt "Feature"
+msgid "Purity of Body"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Wholeness of Body
+msgctxt "Feature"
+msgid "Wholeness of Body"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Diamond Body
+msgctxt "Feature"
+msgid "Diamond Body"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Abundant Step
+msgctxt "Feature"
+msgid "Abundant Step"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Diamon Soul
+msgctxt "Feature"
+msgid "Diamon Soul"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Quivering Palm
+msgctxt "Feature"
+msgid "Quivering Palm"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Tongue of the Sun and Moon
+msgctxt "Feature"
+msgid "Tongue of the Sun and Moon"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Empty Body
+msgctxt "Feature"
+msgid "Empty Body"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Perfect Self
+msgctxt "Feature"
+msgid "Perfect Self"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Aura of Good
+msgctxt "Feature"
+msgid "Aura of Good"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Detect Evil
+msgctxt "Feature"
+msgid "Detect Evil"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Smite Evil
+msgctxt "Feature"
+msgid "Smite Evil"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Divine Grace
+msgctxt "Feature"
+msgid "Divine Grace"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Lay On Hands
+msgctxt "Feature"
+msgid "Lay On Hands"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Aura of Courage
+msgctxt "Feature"
+msgid "Aura of Courage"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Divine Health
+msgctxt "Feature"
+msgid "Divine Health"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Mercy
+msgctxt "Feature"
+msgid "Mercy"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Channel Positive Energy
+msgctxt "Feature"
+msgid "Channel Positive Energy"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Spells
+msgctxt "Feature"
+msgid "Spells"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Divine Bond
+msgctxt "Feature"
+msgid "Divine Bond"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Aura of Resolve
+msgctxt "Feature"
+msgid "Aura of Resolve"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Aura of Justice
+msgctxt "Feature"
+msgid "Aura of Justice"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Aura of Faith
+msgctxt "Feature"
+msgid "Aura of Faith"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Aura of Righteousness
+msgctxt "Feature"
+msgid "Aura of Righteousness"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Holy Champion
+msgctxt "Feature"
+msgid "Holy Champion"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Code of Conduct
+msgctxt "Feature"
+msgid "Code of Conduct"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Favored Enemy
+msgctxt "Feature"
+msgid "Favored Enemy"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Track
+msgctxt "Feature"
+msgid "Track"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Endurance
+msgctxt "Feature"
+msgid "Endurance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Favored Terrain
+msgctxt "Feature"
+msgid "Favored Terrain"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Hunter's Bond
+msgctxt "Feature"
+msgid "Hunter's Bond"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Swift Tracker
+msgctxt "Feature"
+msgid "Swift Tracker"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Quarry
+msgctxt "Feature"
+msgid "Quarry"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Camouflage
+msgctxt "Feature"
+msgid "Camouflage"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Improved Evasion
+msgctxt "Feature"
+msgid "Improved Evasion"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Hide in Plain Sight
+msgctxt "Feature"
+msgid "Hide in Plain Sight"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Improved Quarry
+msgctxt "Feature"
+msgid "Improved Quarry"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Master Hunter
+msgctxt "Feature"
+msgid "Master Hunter"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Sneak Attack
+msgctxt "Feature"
+msgid "Sneak Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Trapfinding
+msgctxt "Feature"
+msgid "Trapfinding"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Rogue Talents
+msgctxt "Feature"
+msgid "Rogue Talents"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Bleeding Attack
+msgctxt "Feature"
+msgid "Bleeding Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Combat Trick
+msgctxt "Feature"
+msgid "Combat Trick"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Fast Stealth
+msgctxt "Feature"
+msgid "Fast Stealth"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Finesse Rogue
+msgctxt "Feature"
+msgid "Finesse Rogue"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Ledge Walker
+msgctxt "Feature"
+msgid "Ledge Walker"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Major Magic
+msgctxt "Feature"
+msgid "Major Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Minor Magic
+msgctxt "Feature"
+msgid "Minor Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Quick Disable
+msgctxt "Feature"
+msgid "Quick Disable"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Resiliency
+msgctxt "Feature"
+msgid "Resiliency"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Rogue Crawl
+msgctxt "Feature"
+msgid "Rogue Crawl"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Slow Reactions
+msgctxt "Feature"
+msgid "Slow Reactions"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Stand Up
+msgctxt "Feature"
+msgid "Stand Up"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Surprise Attack
+msgctxt "Feature"
+msgid "Surprise Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Trap Spotter
+msgctxt "Feature"
+msgid "Trap Spotter"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Advanced Talents
+msgctxt "Feature"
+msgid "Advanced Talents"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Crippling Strike
+msgctxt "Feature"
+msgid "Crippling Strike"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Defensive Roll
+msgctxt "Feature"
+msgid "Defensive Roll"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Dispelling Attack
+msgctxt "Feature"
+msgid "Dispelling Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Opportunist
+msgctxt "Feature"
+msgid "Opportunist"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Skill Mastery
+msgctxt "Feature"
+msgid "Skill Mastery"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Slippery Mind
+msgctxt "Feature"
+msgid "Slippery Mind"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Master Strike
+msgctxt "Feature"
+msgid "Master Strike"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Bloodline
+msgctxt "Feature"
+msgid "Bloodline"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Eschew Materials
+msgctxt "Feature"
+msgid "Eschew Materials"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Bloodline Arcana
+msgctxt "Feature"
+msgid "Bloodline Arcana"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Bloodline Powers
+msgctxt "Feature"
+msgid "Bloodline Powers"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Acidic Ray
+msgctxt "Feature"
+msgid "Acidic Ray"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Long Limbs
+msgctxt "Feature"
+msgid "Long Limbs"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Unusual Anatomy
+msgctxt "Feature"
+msgid "Unusual Anatomy"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Alien Resistance
+msgctxt "Feature"
+msgid "Alien Resistance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Aberrant Form
+msgctxt "Feature"
+msgid "Aberrant Form"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Demon Resistances
+msgctxt "Feature"
+msgid "Demon Resistances"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Strength of the Abyss
+msgctxt "Feature"
+msgid "Strength of the Abyss"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Added Summonings
+msgctxt "Feature"
+msgid "Added Summonings"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Demonic Might
+msgctxt "Feature"
+msgid "Demonic Might"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Claws
+msgctxt "Feature"
+msgid "Claws"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Celestial Resistances
+msgctxt "Feature"
+msgid "Celestial Resistances"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Wings of Heaven
+msgctxt "Feature"
+msgid "Wings of Heaven"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Conviction
+msgctxt "Feature"
+msgid "Conviction"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Ascension
+msgctxt "Feature"
+msgid "Ascension"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Touch of Destiny
+msgctxt "Feature"
+msgid "Touch of Destiny"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Fated
+msgctxt "Feature"
+msgid "Fated"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid It Was Meant To Be
+msgctxt "Feature"
+msgid "It Was Meant To Be"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Within Reach
+msgctxt "Feature"
+msgid "Within Reach"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Destiny Realized
+msgctxt "Feature"
+msgid "Destiny Realized"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Dragon Resistances
+msgctxt "Feature"
+msgid "Dragon Resistances"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Breath Weapon
+msgctxt "Feature"
+msgid "Breath Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Wings
+msgctxt "Feature"
+msgid "Wings"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Power of Wyrms
+msgctxt "Feature"
+msgid "Power of Wyrms"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Elemental Resistance
+msgctxt "Feature"
+msgid "Elemental Resistance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Elemental Blast
+msgctxt "Feature"
+msgid "Elemental Blast"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Elemental Movement
+msgctxt "Feature"
+msgid "Elemental Movement"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Elemental Body
+msgctxt "Feature"
+msgid "Elemental Body"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Laughing Touch
+msgctxt "Feature"
+msgid "Laughing Touch"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Elemental Ray
+msgctxt "Feature"
+msgid "Elemental Ray"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Fleeting Glance
+msgctxt "Feature"
+msgid "Fleeting Glance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Fey Magic
+msgctxt "Feature"
+msgid "Fey Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Soul of the Fey
+msgctxt "Feature"
+msgid "Soul of the Fey"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Corrupting Touch
+msgctxt "Feature"
+msgid "Corrupting Touch"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Infernal Resistances
+msgctxt "Feature"
+msgid "Infernal Resistances"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Hellfire
+msgctxt "Feature"
+msgid "Hellfire"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid On Dark Wings
+msgctxt "Feature"
+msgid "On Dark Wings"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Power of the Pit
+msgctxt "Feature"
+msgid "Power of the Pit"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Grave Touch
+msgctxt "Feature"
+msgid "Grave Touch"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Death's Gift
+msgctxt "Feature"
+msgid "Death's Gift"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Grasp of the Dead
+msgctxt "Feature"
+msgid "Grasp of the Dead"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Incorporeal Form
+msgctxt "Feature"
+msgid "Incorporeal Form"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid One of Us
+msgctxt "Feature"
+msgid "One of Us"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Arcane Bond
+msgctxt "Feature"
+msgid "Arcane Bond"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Arcane School
+msgctxt "Feature"
+msgid "Arcane School"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Protective Ward
+msgctxt "Feature"
+msgid "Protective Ward"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Energy Absorption
+msgctxt "Feature"
+msgid "Energy Absorption"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Summoner's Charm
+msgctxt "Feature"
+msgid "Summoner's Charm"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Acid Dart
+msgctxt "Feature"
+msgid "Acid Dart"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Dimensional Steps
+msgctxt "Feature"
+msgid "Dimensional Steps"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Dazing Touch
+msgctxt "Feature"
+msgid "Dazing Touch"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Aura of Despair
+msgctxt "Feature"
+msgid "Aura of Despair"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Forewarned
+msgctxt "Feature"
+msgid "Forewarned"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Diviner's Fortune
+msgctxt "Feature"
+msgid "Diviner's Fortune"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Scrying Adept
+msgctxt "Feature"
+msgid "Scrying Adept"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Enchantment Smile
+msgctxt "Feature"
+msgid "Enchantment Smile"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Intense Spells
+msgctxt "Feature"
+msgid "Intense Spells"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Force Missile
+msgctxt "Feature"
+msgid "Force Missile"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Elemental Wall
+msgctxt "Feature"
+msgid "Elemental Wall"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Extended Illusions
+msgctxt "Feature"
+msgid "Extended Illusions"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Blinding Ray
+msgctxt "Feature"
+msgid "Blinding Ray"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Invisibility Field
+msgctxt "Feature"
+msgid "Invisibility Field"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Power over Undead
+msgctxt "Feature"
+msgid "Power over Undead"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Life Sight
+msgctxt "Feature"
+msgid "Life Sight"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Physical Enhancement
+msgctxt "Feature"
+msgid "Physical Enhancement"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Telekinetic First
+msgctxt "Feature"
+msgid "Telekinetic First"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Change Shape
+msgctxt "Feature"
+msgid "Change Shape"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Hand of the Apprentice
+msgctxt "Feature"
+msgid "Hand of the Apprentice"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Metamagic Mastery
+msgctxt "Feature"
+msgid "Metamagic Mastery"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Familiars
+msgctxt "Feature"
+msgid "Familiars"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Emphatic Link
+msgctxt "Feature"
+msgid "Emphatic Link"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Deliver Touch Spells
+msgctxt "Feature"
+msgid "Deliver Touch Spells"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Speak with Master
+msgctxt "Feature"
+msgid "Speak with Master"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Speak with Animals of Its Kind
+msgctxt "Feature"
+msgid "Speak with Animals of Its Kind"
 msgstr ""
 
 # 
 #: 
-msgctxt Feature
-msgid Scry on Familiar
+msgctxt "Feature"
+msgid "Scry on Familiar"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Acrobatics
+msgctxt "Feat"
+msgid "Acrobatics"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Agile Maneuvers
+msgctxt "Feat"
+msgid "Agile Maneuvers"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Alertness
+msgctxt "Feat"
+msgid "Alertness"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Alignment Channel
+msgctxt "Feat"
+msgid "Alignment Channel"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Animal Affinity
+msgctxt "Feat"
+msgid "Animal Affinity"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Arcane Armor Training
+msgctxt "Feat"
+msgid "Arcane Armor Training"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Arcane Armor Mastery
+msgctxt "Feat"
+msgid "Arcane Armor Mastery"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Arcane Strike
+msgctxt "Feat"
+msgid "Arcane Strike"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Armor Proficiency
+msgctxt "Feat"
+msgid "Armor Proficiency"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Athletic
+msgctxt "Feat"
+msgid "Athletic"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Augment Summoning
+msgctxt "Feat"
+msgid "Augment Summoning"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Blind-Fight
+msgctxt "Feat"
+msgid "Blind-Fight"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Catch Off-Guard
+msgctxt "Feat"
+msgid "Catch Off-Guard"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Channel Smite
+msgctxt "Feat"
+msgid "Channel Smite"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Combat Casting
+msgctxt "Feat"
+msgid "Combat Casting"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Combat Expertise
+msgctxt "Feat"
+msgid "Combat Expertise"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Combat Reflexes
+msgctxt "Feat"
+msgid "Combat Reflexes"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Diehard
+msgctxt "Feat"
+msgid "Diehard"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Endurance
+msgctxt "Feat"
+msgid "Endurance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Great Fortitude
+msgctxt "Feat"
+msgid "Great Fortitude"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Greater Disarm
+msgctxt "Feat"
+msgid "Greater Disarm"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Greater Feint
+msgctxt "Feat"
+msgid "Greater Feint"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Greater Trip
+msgctxt "Feat"
+msgid "Greater Trip"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Bull Rush
+msgctxt "Feat"
+msgid "Improved Bull Rush"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Disarm
+msgctxt "Feat"
+msgid "Improved Disarm"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Feint
+msgctxt "Feat"
+msgid "Improved Feint"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Initiative
+msgctxt "Feat"
+msgid "Improved Initiative"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Natural Armor
+msgctxt "Feat"
+msgid "Improved Natural Armor"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Natural Attack
+msgctxt "Feat"
+msgid "Improved Natural Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Overrun
+msgctxt "Feat"
+msgid "Improved Overrun"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Trip
+msgctxt "Feat"
+msgid "Improved Trip"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Intimidating Prowess
+msgctxt "Feat"
+msgid "Intimidating Prowess"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Iron Will
+msgctxt "Feat"
+msgid "Iron Will"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Lightning Reflexes
+msgctxt "Feat"
+msgid "Lightning Reflexes"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Power Attack
+msgctxt "Feat"
+msgid "Power Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Run
+msgctxt "Feat"
+msgid "Run"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Skill Focus
+msgctxt "Feat"
+msgid "Skill Focus"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Stealthy
+msgctxt "Feat"
+msgid "Stealthy"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Toughness
+msgctxt "Feat"
+msgid "Toughness"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Weapon Focus
+msgctxt "Feat"
+msgid "Weapon Focus"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Whirlwind Attack
+msgctxt "Feat"
+msgid "Whirlwind Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Scribe Scroll
+msgctxt "Feat"
+msgid "Scribe Scroll"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Stand Still
+msgctxt "Feat"
+msgid "Stand Still"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Command Undead
+msgctxt "Feat"
+msgid "Command Undead"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Critical Focus
+msgctxt "Feat"
+msgid "Critical Focus"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Bleeding Critical
+msgctxt "Feat"
+msgid "Bleeding Critical"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Blinding Critical
+msgctxt "Feat"
+msgid "Blinding Critical"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Critical Mastery
+msgctxt "Feat"
+msgid "Critical Mastery"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Deafening Critical
+msgctxt "Feat"
+msgid "Deafening Critical"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Sickening Critical
+msgctxt "Feat"
+msgid "Sickening Critical"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Staggering Critical
+msgctxt "Feat"
+msgid "Staggering Critical"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Stunning Critical
+msgctxt "Feat"
+msgid "Stunning Critical"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Tiring Critical
+msgctxt "Feat"
+msgid "Tiring Critical"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Exhausting Critical
+msgctxt "Feat"
+msgid "Exhausting Critical"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Deadly Aim
+msgctxt "Feat"
+msgid "Deadly Aim"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Deceitful
+msgctxt "Feat"
+msgid "Deceitful"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Defensive Combat Training
+msgctxt "Feat"
+msgid "Defensive Combat Training"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Deft Hands
+msgctxt "Feat"
+msgid "Deft Hands"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Disruptive
+msgctxt "Feat"
+msgid "Disruptive"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Spellbreaker
+msgctxt "Feat"
+msgid "Spellbreaker"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Dodge
+msgctxt "Feat"
+msgid "Dodge"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Mobility
+msgctxt "Feat"
+msgid "Mobility"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Spring Attack
+msgctxt "Feat"
+msgid "Spring Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Wind Stance
+msgctxt "Feat"
+msgid "Wind Stance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Lightning Stance
+msgctxt "Feat"
+msgid "Lightning Stance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Elemental Channel
+msgctxt "Feat"
+msgid "Elemental Channel"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Exotic Weapon Proficiency
+msgctxt "Feat"
+msgid "Exotic Weapon Proficiency"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Extra Channel
+msgctxt "Feat"
+msgid "Extra Channel"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Extra Ki
+msgctxt "Feat"
+msgid "Extra Ki"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Extra Lay On Hands
+msgctxt "Feat"
+msgid "Extra Lay On Hands"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Extra Mercy
+msgctxt "Feat"
+msgid "Extra Mercy"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Extra Performance
+msgctxt "Feat"
+msgid "Extra Performance"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Extra Rage
+msgctxt "Feat"
+msgid "Extra Rage"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Great Fortitude
+msgctxt "Feat"
+msgid "Improved Great Fortitude"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Channel
+msgctxt "Feat"
+msgid "Improved Channel"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Counterspell
+msgctxt "Feat"
+msgid "Improved Counterspell"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Critical
+msgctxt "Feat"
+msgid "Improved Critical"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Familiar
+msgctxt "Feat"
+msgid "Improved Familiar"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Initiative
+msgctxt "Feat"
+msgid "Improved Initiative"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Unarmed Strike
+msgctxt "Feat"
+msgid "Improved Unarmed Strike"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Deflect Arrows
+msgctxt "Feat"
+msgid "Deflect Arrows"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Snatch Arrows
+msgctxt "Feat"
+msgid "Snatch Arrows"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Grapple
+msgctxt "Feat"
+msgid "Improved Grapple"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Greater Grapple
+msgctxt "Feat"
+msgid "Greater Grapple"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Scorpion Style
+msgctxt "Feat"
+msgid "Scorpion Style"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Gorgon's Fist
+msgctxt "Feat"
+msgid "Gorgon's Fist"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Medusa's Wrath
+msgctxt "Feat"
+msgid "Medusa's Wrath"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Stunning Fist
+msgctxt "Feat"
+msgid "Stunning Fist"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improvised Weapon Mastery
+msgctxt "Feat"
+msgid "Improvised Weapon Mastery"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Intimidating Prowess
+msgctxt "Feat"
+msgid "Intimidating Prowess"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Iron Will
+msgctxt "Feat"
+msgid "Iron Will"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Iron Will
+msgctxt "Feat"
+msgid "Improved Iron Will"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Leadership
+msgctxt "Feat"
+msgid "Leadership"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Lightning Reflexes
+msgctxt "Feat"
+msgid "Improved Lightning Reflexes"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Lunge
+msgctxt "Feat"
+msgid "Lunge"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Magical Aptitude
+msgctxt "Feat"
+msgid "Magical Aptitude"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Martial Weapon Proficiency
+msgctxt "Feat"
+msgid "Martial Weapon Proficiency"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Master Craftsman
+msgctxt "Feat"
+msgid "Master Craftsman"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Mounted Combat
+msgctxt "Feat"
+msgid "Mounted Combat"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Mounter Archery
+msgctxt "Feat"
+msgid "Mounter Archery"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Ride-By Attack
+msgctxt "Feat"
+msgid "Ride-By Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Spirited Charge
+msgctxt "Feat"
+msgid "Spirited Charge"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Trample
+msgctxt "Feat"
+msgid "Trample"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Unseat
+msgctxt "Feat"
+msgid "Unseat"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Natural Spell
+msgctxt "Feat"
+msgid "Natural Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Nimble Moves
+msgctxt "Feat"
+msgid "Nimble Moves"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Acrobatic Steps
+msgctxt "Feat"
+msgid "Acrobatic Steps"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Persuasive
+msgctxt "Feat"
+msgid "Persuasive"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Point-Blank Shot
+msgctxt "Feat"
+msgid "Point-Blank Shot"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Far Shot
+msgctxt "Feat"
+msgid "Far Shot"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Precise Shot
+msgctxt "Feat"
+msgid "Precise Shot"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Precise Shot
+msgctxt "Feat"
+msgid "Improved Precise Shot"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Pinpoint Targeting
+msgctxt "Feat"
+msgid "Pinpoint Targeting"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Shot on the Run
+msgctxt "Feat"
+msgid "Shot on the Run"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Rapid Shot
+msgctxt "Feat"
+msgid "Rapid Shot"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Manyshot
+msgctxt "Feat"
+msgid "Manyshot"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Power Attack
+msgctxt "Feat"
+msgid "Power Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Cleave
+msgctxt "Feat"
+msgid "Cleave"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Great Cleave
+msgctxt "Feat"
+msgid "Great Cleave"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Greater Bull Rush
+msgctxt "Feat"
+msgid "Greater Bull Rush"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Greater Overrun
+msgctxt "Feat"
+msgid "Greater Overrun"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Greater Sunder
+msgctxt "Feat"
+msgid "Greater Sunder"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Quick Draw
+msgctxt "Feat"
+msgid "Quick Draw"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Rapid Reload
+msgctxt "Feat"
+msgid "Rapid Reload"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Run
+msgctxt "Feat"
+msgid "Run"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Selective Channeling
+msgctxt "Feat"
+msgid "Selective Channeling"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Self-Sufficient
+msgctxt "Feat"
+msgid "Self-Sufficient"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Shield Proficiency
+msgctxt "Feat"
+msgid "Shield Proficiency"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Improved Shield Bash
+msgctxt "Feat"
+msgid "Improved Shield Bash"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Shield Slam
+msgctxt "Feat"
+msgid "Shield Slam"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Shield Master
+msgctxt "Feat"
+msgid "Shield Master"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Shield Focus
+msgctxt "Feat"
+msgid "Shield Focus"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Greater Shield Focus
+msgctxt "Feat"
+msgid "Greater Shield Focus"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Tower Shield Proficiency
+msgctxt "Feat"
+msgid "Tower Shield Proficiency"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Simple Weapon Proficiency
+msgctxt "Feat"
+msgid "Simple Weapon Proficiency"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Spell Focus
+msgctxt "Feat"
+msgid "Spell Focus"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Greater Spell Focus
+msgctxt "Feat"
+msgid "Greater Spell Focus"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Spell Mastery
+msgctxt "Feat"
+msgid "Spell Mastery"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Spell Penetration
+msgctxt "Feat"
+msgid "Spell Penetration"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Greater Spell Penetration
+msgctxt "Feat"
+msgid "Greater Spell Penetration"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Step Up
+msgctxt "Feat"
+msgid "Step Up"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Strike Back
+msgctxt "Feat"
+msgid "Strike Back"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Throw Anything
+msgctxt "Feat"
+msgid "Throw Anything"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Turn Undead
+msgctxt "Feat"
+msgid "Turn Undead"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Two-Weapon Fighting
+msgctxt "Feat"
+msgid "Two-Weapon Fighting"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Double Slice
+msgctxt "Feat"
+msgid "Double Slice"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Two-Weapon Defense
+msgctxt "Feat"
+msgid "Two-Weapon Defense"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Vital Strike
+msgctxt "Feat"
+msgid "Vital Strike"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Weapon Finesse
+msgctxt "Feat"
+msgid "Weapon Finesse"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Dazzling Display
+msgctxt "Feat"
+msgid "Dazzling Display"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Shatter Defenses
+msgctxt "Feat"
+msgid "Shatter Defenses"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Deadly Stroke
+msgctxt "Feat"
+msgid "Deadly Stroke"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Penetrating Strike
+msgctxt "Feat"
+msgid "Penetrating Strike"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Weapon Specialization
+msgctxt "Feat"
+msgid "Weapon Specialization"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Brew Potion
+msgctxt "Feat"
+msgid "Brew Potion"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Craft Magic Arms and Armor
+msgctxt "Feat"
+msgid "Craft Magic Arms and Armor"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Craft Rod
+msgctxt "Feat"
+msgid "Craft Rod"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Craft Staff
+msgctxt "Feat"
+msgid "Craft Staff"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Craft Wand
+msgctxt "Feat"
+msgid "Craft Wand"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Craft Wondrous Item
+msgctxt "Feat"
+msgid "Craft Wondrous Item"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Forge Ring
+msgctxt "Feat"
+msgid "Forge Ring"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Empower Spell
+msgctxt "Feat"
+msgid "Empower Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Enlarge Spell
+msgctxt "Feat"
+msgid "Enlarge Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Extend Spell
+msgctxt "Feat"
+msgid "Extend Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Heighten Spell
+msgctxt "Feat"
+msgid "Heighten Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Maximize Spell
+msgctxt "Feat"
+msgid "Maximize Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Quicken Spell
+msgctxt "Feat"
+msgid "Quicken Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Silent Spell
+msgctxt "Feat"
+msgid "Silent Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Still Spell
+msgctxt "Feat"
+msgid "Still Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt Feat
-msgid Widen Spell
+msgctxt "Feat"
+msgid "Widen Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt Arcane school
-msgid Abjuration School
+msgctxt "Arcane school"
+msgid "Abjuration School"
 msgstr ""
 
 # 
 #: 
-msgctxt Arcane school
-msgid Conjuration School
+msgctxt "Arcane school"
+msgid "Conjuration School"
 msgstr ""
 
 # 
 #: 
-msgctxt Arcane school
-msgid Divination School
+msgctxt "Arcane school"
+msgid "Divination School"
 msgstr ""
 
 # 
 #: 
-msgctxt Arcane school
-msgid Enchantment School
+msgctxt "Arcane school"
+msgid "Enchantment School"
 msgstr ""
 
 # 
 #: 
-msgctxt Arcane school
-msgid Evocation School
+msgctxt "Arcane school"
+msgid "Evocation School"
 msgstr ""
 
 # 
 #: 
-msgctxt Arcane school
-msgid Illusion School
+msgctxt "Arcane school"
+msgid "Illusion School"
 msgstr ""
 
 # 
 #: 
-msgctxt Arcane school
-msgid Necromancy School
+msgctxt "Arcane school"
+msgid "Necromancy School"
 msgstr ""
 
 # 
 #: 
-msgctxt Arcane school
-msgid Transmutation School
+msgctxt "Arcane school"
+msgid "Transmutation School"
 msgstr ""
 
 # 
 #: 
-msgctxt Arcane school
-msgid Universalist School
+msgctxt "Arcane school"
+msgid "Universalist School"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Point Blank Shot
+msgctxt "Prestige class feature"
+msgid "Point Blank Shot"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Precise Shot
+msgctxt "Prestige class feature"
+msgid "Precise Shot"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Weapon Focus
+msgctxt "Prestige class feature"
+msgid "Weapon Focus"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Imbue Arrow
+msgctxt "Prestige class feature"
+msgid "Imbue Arrow"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Enhance Arrows
+msgctxt "Prestige class feature"
+msgid "Enhance Arrows"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Seeker Arrow
+msgctxt "Prestige class feature"
+msgid "Seeker Arrow"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Phase Arrow
+msgctxt "Prestige class feature"
+msgid "Phase Arrow"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Hail of Arrows
+msgctxt "Prestige class feature"
+msgid "Hail of Arrows"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Arrow of Death
+msgctxt "Prestige class feature"
+msgid "Arrow of Death"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Skill Ranks
+msgctxt "Prestige class feature"
+msgid "Skill Ranks"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Ranged Legerdemain
+msgctxt "Prestige class feature"
+msgid "Ranged Legerdemain"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Sneak Attack
+msgctxt "Prestige class feature"
+msgid "Sneak Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Impromptu Sneak Attack
+msgctxt "Prestige class feature"
+msgid "Impromptu Sneak Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Tricky Spells
+msgctxt "Prestige class feature"
+msgid "Tricky Spells"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Invisible Thief
+msgctxt "Prestige class feature"
+msgid "Invisible Thief"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Surprise Spells
+msgctxt "Prestige class feature"
+msgid "Surprise Spells"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Death Attack
+msgctxt "Prestige class feature"
+msgid "Death Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid True Death
+msgctxt "Prestige class feature"
+msgid "True Death"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Hidden Weapons
+msgctxt "Prestige class feature"
+msgid "Hidden Weapons"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Quiet Death
+msgctxt "Prestige class feature"
+msgid "Quiet Death"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Hide in Plain Sight
+msgctxt "Prestige class feature"
+msgid "Hide in Plain Sight"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Swift Death
+msgctxt "Prestige class feature"
+msgid "Swift Death"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Angel of Death
+msgctxt "Prestige class feature"
+msgid "Angel of Death"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Uncanny Dodge
+msgctxt "Prestige class feature"
+msgid "Uncanny Dodge"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Improved Uncanny Dodge
+msgctxt "Prestige class feature"
+msgid "Improved Uncanny Dodge"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Blood of Dragons
+msgctxt "Prestige class feature"
+msgid "Blood of Dragons"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Dragon Bite
+msgctxt "Prestige class feature"
+msgid "Dragon Bite"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Breath Weapon
+msgctxt "Prestige class feature"
+msgid "Breath Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Dragon Form
+msgctxt "Prestige class feature"
+msgid "Dragon Form"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Wings
+msgctxt "Prestige class feature"
+msgid "Wings"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Canny Defense
+msgctxt "Prestige class feature"
+msgid "Canny Defense"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Precise Strike
+msgctxt "Prestige class feature"
+msgid "Precise Strike"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Improved Reaction
+msgctxt "Prestige class feature"
+msgid "Improved Reaction"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Parry
+msgctxt "Prestige class feature"
+msgid "Parry"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Enhanced Mobility
+msgctxt "Prestige class feature"
+msgid "Enhanced Mobility"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Grace
+msgctxt "Prestige class feature"
+msgid "Grace"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Combat Reflexes
+msgctxt "Prestige class feature"
+msgid "Combat Reflexes"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Riposte
+msgctxt "Prestige class feature"
+msgid "Riposte"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Acrobatic Charge
+msgctxt "Prestige class feature"
+msgid "Acrobatic Charge"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Elaborate Defense
+msgctxt "Prestige class feature"
+msgid "Elaborate Defense"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Deflect Arrows
+msgctxt "Prestige class feature"
+msgid "Deflect Arrows"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid No Retreat
+msgctxt "Prestige class feature"
+msgid "No Retreat"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Crippling Critical
+msgctxt "Prestige class feature"
+msgid "Crippling Critical"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Diverse Training
+msgctxt "Prestige class feature"
+msgid "Diverse Training"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Spell Critical
+msgctxt "Prestige class feature"
+msgid "Spell Critical"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Secret
+msgctxt "Prestige class feature"
+msgid "Secret"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Lore
+msgctxt "Prestige class feature"
+msgid "Lore"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Greater Lore
+msgctxt "Prestige class feature"
+msgid "Greater Lore"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid True Lore
+msgctxt "Prestige class feature"
+msgid "True Lore"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Instant Mastery
+msgctxt "Prestige class feature"
+msgid "Instant Mastery"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Secret Health
+msgctxt "Prestige class feature"
+msgid "Secret Health"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Secrets of Inner Strength
+msgctxt "Prestige class feature"
+msgid "Secrets of Inner Strength"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid The Lore of True Stamina
+msgctxt "Prestige class feature"
+msgid "The Lore of True Stamina"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Secret Knowledge of Avoidance
+msgctxt "Prestige class feature"
+msgid "Secret Knowledge of Avoidance"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Weapon Trick
+msgctxt "Prestige class feature"
+msgid "Weapon Trick"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Dodge Trick
+msgctxt "Prestige class feature"
+msgid "Dodge Trick"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Applicable Knowledge
+msgctxt "Prestige class feature"
+msgid "Applicable Knowledge"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Newfound Arcana
+msgctxt "Prestige class feature"
+msgid "Newfound Arcana"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid More Newfound Arcana
+msgctxt "Prestige class feature"
+msgid "More Newfound Arcana"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Combined Spells
+msgctxt "Prestige class feature"
+msgid "Combined Spells"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Spell Synthesis
+msgctxt "Prestige class feature"
+msgid "Spell Synthesis"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Bardic Knowledge
+msgctxt "Prestige class feature"
+msgid "Bardic Knowledge"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Deep Pockets
+msgctxt "Prestige class feature"
+msgid "Deep Pockets"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Master Scribe
+msgctxt "Prestige class feature"
+msgid "Master Scribe"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Live to Tell the Tale
+msgctxt "Prestige class feature"
+msgid "Live to Tell the Tale"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Pathfinding
+msgctxt "Prestige class feature"
+msgid "Pathfinding"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Bardic Music
+msgctxt "Prestige class feature"
+msgid "Bardic Music"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Improved Aid
+msgctxt "Prestige class feature"
+msgid "Improved Aid"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Epic Tales
+msgctxt "Prestige class feature"
+msgid "Epic Tales"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Whispering Campaign
+msgctxt "Prestige class feature"
+msgid "Whispering Campaign"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Inspired Action
+msgctxt "Prestige class feature"
+msgid "Inspired Action"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Call Down the Legends
+msgctxt "Prestige class feature"
+msgid "Call Down the Legends"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Greater Epic Tales
+msgctxt "Prestige class feature"
+msgid "Greater Epic Tales"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Lay of the Exalted Dead
+msgctxt "Prestige class feature"
+msgid "Lay of the Exalted Dead"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Evasion
+msgctxt "Prestige class feature"
+msgid "Evasion"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Rogue Talent
+msgctxt "Prestige class feature"
+msgid "Rogue Talent"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Shadow Illusion
+msgctxt "Prestige class feature"
+msgid "Shadow Illusion"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Summon Shadow
+msgctxt "Prestige class feature"
+msgid "Summon Shadow"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Shadow Call
+msgctxt "Prestige class feature"
+msgid "Shadow Call"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Shadow Jump
+msgctxt "Prestige class feature"
+msgid "Shadow Jump"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Defensive Roll
+msgctxt "Prestige class feature"
+msgid "Defensive Roll"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Slippery Mind
+msgctxt "Prestige class feature"
+msgid "Slippery Mind"
 msgstr ""
 
 # 
 #: 
-msgctxt Prestige class feature
-msgid Shadow Master
+msgctxt "Prestige class feature"
+msgid "Shadow Master"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC class feature
-msgid Channeling
+msgctxt "NPC class feature"
+msgid "Channeling"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC class feature
-msgid Finesse Fighter
+msgctxt "NPC class feature"
+msgid "Finesse Fighter"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC class feature
-msgid Unarmed Fighter
+msgctxt "NPC class feature"
+msgid "Unarmed Fighter"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC class feature
-msgid Limited Use Item
+msgctxt "NPC class feature"
+msgid "Limited Use Item"
 msgstr ""
 

@@ -11,92 +11,92 @@ msgstr ""
 
 # Character can use downtime to craft armor, weapons, clothing, potions, poisons or other kinds of gear.
 #: 
-msgctxt Downtime activity
-msgid Crafting
+msgctxt "Downtime activity"
+msgid "Crafting"
 msgstr ""
 
 # Character can draw a map that records the group’s progress and helps the characters get back on course if they get lost.
 #: 
-msgctxt 
-msgid Draw a Map
+msgctxt ""
+msgid "Draw a Map"
 msgstr ""
 
 # Character can keep an eye out for ready sources of food and water.
 #: 
-msgctxt 
-msgid Forage
+msgctxt ""
+msgid "Forage"
 msgstr ""
 
 # Characters walk more than standard 8 hours a day.
 #: 
-msgctxt 
-msgid Forced March
+msgctxt ""
+msgid "Forced March"
 msgstr ""
 
 # Character leaps into the air.
 #: 
-msgctxt 
-msgid High Jump
+msgctxt ""
+msgid "High Jump"
 msgstr ""
 
 # Character jumps forward.
 #: 
-msgctxt 
-msgid Long Jump
+msgctxt ""
+msgid "Long Jump"
 msgstr ""
 
 # A period of extended downtime, during which character sleeps or performs light activity.
 #: 
-msgctxt 
-msgid Long Rest
+msgctxt ""
+msgid "Long Rest"
 msgstr ""
 
 # Character can try to prevent the group from becoming lost, making a Wisdom (Survival) check.
 #: 
-msgctxt 
-msgid Navigate
+msgctxt ""
+msgid "Navigate"
 msgstr ""
 
 # Character can use downtime to work between adventures.
 #: 
-msgctxt Downtime activity
-msgid Practicing a Profession
+msgctxt "Downtime activity"
+msgid "Practicing a Profession"
 msgstr ""
 
 # Character can push, drag, or lift a
 weight in pounds up to twice their carrying capacity.
 #: 
-msgctxt Lifting and carrying
-msgid Push, Drag, or Lift
+msgctxt "Lifting and carrying"
+msgid "Push, Drag, or Lift"
 msgstr ""
 
 # Character can use downtime between adventures to recover from a debilitating injury, disease, or poison.
 #: 
-msgctxt Downtime activity
-msgid Recuperating
+msgctxt "Downtime activity"
+msgid "Recuperating"
 msgstr ""
 
 # Character can use downtime between adventures to perform research, gaining insight into mysteries that have unfurled over the course of the campaign. 
 #: 
-msgctxt Downtime activity
-msgid Researching
+msgctxt "Downtime activity"
+msgid "Researching"
 msgstr ""
 
 # A period of downtime, during which a character does nothing more strenuous than eating, drinking, reading, tending to wounds.
 #: 
-msgctxt 
-msgid Short Rest
+msgctxt ""
+msgid "Short Rest"
 msgstr ""
 
 # Character can follow the tracks of another creature.
 #: 
-msgctxt 
-msgid Track
+msgctxt ""
+msgid "Track"
 msgstr ""
 
 # Character can spend downtime between adventures learning a new language or training with a set of tools. 
 #: 
-msgctxt Downtime activity
-msgid Training
+msgctxt "Downtime activity"
+msgid "Training"
 msgstr ""
 

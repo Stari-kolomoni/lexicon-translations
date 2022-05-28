@@ -11,517 +11,517 @@ msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spell
+msgctxt ""
+msgid "Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cast a Spell
+msgctxt ""
+msgid "Cast a Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Arcane Spell
+msgctxt ""
+msgid "Arcane Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Divine Spell
+msgctxt ""
+msgid "Divine Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spell
+msgctxt ""
+msgid "Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Concentration
+msgctxt ""
+msgid "Concentration"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Vigorous Motion
+msgctxt ""
+msgid "Vigorous Motion"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Violent Motion
+msgctxt ""
+msgid "Violent Motion"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Defensive Casting
+msgctxt ""
+msgid "Defensive Casting"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Counterspell
+msgctxt ""
+msgid "Counterspell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spellcraft
+msgctxt ""
+msgid "Spellcraft"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Metamagic Spell
+msgctxt ""
+msgid "Metamagic Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dispel Magic
+msgctxt ""
+msgid "Dispel Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Caster Level
+msgctxt ""
+msgid "Caster Level"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Negative Level
+msgctxt ""
+msgid "Negative Level"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Stacking
+msgctxt ""
+msgid "Stacking"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spell Effect
+msgctxt ""
+msgid "Spell Effect"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Instantaneous Effect
+msgctxt ""
+msgid "Instantaneous Effect"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid School of Magic
+msgctxt ""
+msgid "School of Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Subschool of Magic
+msgctxt ""
+msgid "Subschool of Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Abjuration
+msgctxt ""
+msgid "Abjuration"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Conjuration
+msgctxt ""
+msgid "Conjuration"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Calling Spell
+msgctxt ""
+msgid "Calling Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Creation Spell
+msgctxt ""
+msgid "Creation Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Healing Spell
+msgctxt ""
+msgid "Healing Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Summoning Spell
+msgctxt ""
+msgid "Summoning Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Teleportation Spell
+msgctxt ""
+msgid "Teleportation Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Divination
+msgctxt ""
+msgid "Divination"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Scrying Spell
+msgctxt ""
+msgid "Scrying Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Enchantment
+msgctxt ""
+msgid "Enchantment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Charm Spell
+msgctxt ""
+msgid "Charm Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Compulsion Spell
+msgctxt ""
+msgid "Compulsion Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Evocation
+msgctxt ""
+msgid "Evocation"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Illusion
+msgctxt ""
+msgid "Illusion"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Figment Spell
+msgctxt ""
+msgid "Figment Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Glamer Spell
+msgctxt ""
+msgid "Glamer Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Pattern Spell
+msgctxt ""
+msgid "Pattern Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Phantasm Spell
+msgctxt ""
+msgid "Phantasm Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shadow Spell
+msgctxt ""
+msgid "Shadow Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Disbelief
+msgctxt ""
+msgid "Disbelief"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Necromancy
+msgctxt ""
+msgid "Necromancy"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Transmutation
+msgctxt ""
+msgid "Transmutation"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Polymorph Spell
+msgctxt ""
+msgid "Polymorph Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spell Level
+msgctxt ""
+msgid "Spell Level"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spell's Component
+msgctxt ""
+msgid "Spell's Component"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Verbal Component
+msgctxt ""
+msgid "Verbal Component"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Somatic Component
+msgctxt ""
+msgid "Somatic Component"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Material Component
+msgctxt ""
+msgid "Material Component"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Focus Component
+msgctxt ""
+msgid "Focus Component"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Divine Focus
+msgctxt ""
+msgid "Divine Focus"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Casting Time
+msgctxt ""
+msgid "Casting Time"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spell's Range
+msgctxt ""
+msgid "Spell's Range"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Personal
+msgctxt ""
+msgid "Personal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Touch
+msgctxt ""
+msgid "Touch"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Close
+msgctxt ""
+msgid "Close"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Medium
+msgctxt ""
+msgid "Medium"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Long
+msgctxt ""
+msgid "Long"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Unlimited
+msgctxt ""
+msgid "Unlimited"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Target
+msgctxt ""
+msgid "Target"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ray Spell
+msgctxt ""
+msgid "Ray Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spread Spell
+msgctxt ""
+msgid "Spread Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Area
+msgctxt ""
+msgid "Area"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Burst Spell
+msgctxt ""
+msgid "Burst Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Emanation Spell
+msgctxt ""
+msgid "Emanation Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shaped Effect
+msgctxt ""
+msgid "Shaped Effect"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Line of Effect
+msgctxt ""
+msgid "Line of Effect"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Permanent Spell
+msgctxt ""
+msgid "Permanent Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Concentration Spell
+msgctxt ""
+msgid "Concentration Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Holding the Charge
+msgctxt ""
+msgid "Holding the Charge"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Discharge
+msgctxt ""
+msgid "Discharge"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dismissible Spell
+msgctxt ""
+msgid "Dismissible Spell"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid (object)
+msgctxt ""
+msgid "(object)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid (harmless)
+msgctxt ""
+msgid "(harmless)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Rest
+msgctxt ""
+msgid "Rest"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Recent Casting Limit
+msgctxt ""
+msgid "Recent Casting Limit"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Rest Interruption
+msgctxt ""
+msgid "Rest Interruption"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Prepare Spells
+msgctxt ""
+msgid "Prepare Spells"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Arcane Magic Writing
+msgctxt ""
+msgid "Arcane Magic Writing"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spellbook
+msgctxt ""
+msgid "Spellbook"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Borrowed Spellbook
+msgctxt ""
+msgid "Borrowed Spellbook"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Scroll
+msgctxt ""
+msgid "Scroll"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spontaneous Casting
+msgctxt ""
+msgid "Spontaneous Casting"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spell-Like Ability
+msgctxt ""
+msgid "Spell-Like Ability"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Supernatural Ability
+msgctxt ""
+msgid "Supernatural Ability"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Extraordinary Ability
+msgctxt ""
+msgid "Extraordinary Ability"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Natural Ability
+msgctxt ""
+msgid "Natural Ability"
 msgstr ""
 

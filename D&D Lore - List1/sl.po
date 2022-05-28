@@ -1,1422 +1,1422 @@
 # 
 #: 
-msgctxt Plane of Existance
-msgid Plane of Existance
+msgctxt "Plane of Existance"
+msgid "Plane of Existance"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Material Plane
+msgctxt "Plane of Existance"
+msgid "The Material Plane"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Material Echoes
+msgctxt "Plane of Existance"
+msgid "Material Echoes"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Feywild
+msgctxt "Plane of Existance"
+msgid "Feywild"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Shadowfell
+msgctxt "Plane of Existance"
+msgid "Shadowfell"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Positive Plane
+msgctxt "Plane of Existance"
+msgid "Positive Plane"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Outer Planes
+msgctxt "Plane of Existance"
+msgid "Outer Planes"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Negative Plane
+msgctxt "Plane of Existance"
+msgid "Negative Plane"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Portal
+msgctxt "Plane of Existance"
+msgid "Portal"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Ethereal Plane
+msgctxt "Plane of Existance"
+msgid "Ethereal Plane"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Astral Plane
+msgctxt "Plane of Existance"
+msgid "Astral Plane"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Elemental Planes
+msgctxt "Plane of Existance"
+msgid "Elemental Planes"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Elemental Chaos
+msgctxt "Plane of Existance"
+msgid "Elemental Chaos"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Upper Planes
+msgctxt "Plane of Existance"
+msgid "Upper Planes"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Lower Planes
+msgctxt "Plane of Existance"
+msgid "Lower Planes"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Seven Heavens of Mount Celestia
+msgctxt "Plane of Existance"
+msgid "The Seven Heavens of Mount Celestia"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Twin Paradises of Bytopia
+msgctxt "Plane of Existance"
+msgid "The Twin Paradises of Bytopia"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Blessed Fields of Elysium
+msgctxt "Plane of Existance"
+msgid "The Blessed Fields of Elysium"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Wilderness of the Beastlands
+msgctxt "Plane of Existance"
+msgid "The Wilderness of the Beastlands"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Olympian Glades of Arborea
+msgctxt "Plane of Existance"
+msgid "The Olympian Glades of Arborea"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Heroic Domains of Ysgard
+msgctxt "Plane of Existance"
+msgid "The Heroic Domains of Ysgard"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Ever-Changing Chaos of Limbo
+msgctxt "Plane of Existance"
+msgid "The Ever-Changing Chaos of Limbo"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Windswept Depths of Pandemonium
+msgctxt "Plane of Existance"
+msgid "The Windswept Depths of Pandemonium"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Infinite Layers of the Abyss
+msgctxt "Plane of Existance"
+msgid "The Infinite Layers of the Abyss"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Tarterian Depths of Carceri
+msgctxt "Plane of Existance"
+msgid "The Tarterian Depths of Carceri"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Grey Waste of Hades
+msgctxt "Plane of Existance"
+msgid "The Grey Waste of Hades"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Bleak Eternity of Gehenna
+msgctxt "Plane of Existance"
+msgid "The Bleak Eternity of Gehenna"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Nine Hells (of Baator)
+msgctxt "Plane of Existance"
+msgid "The Nine Hells (of Baator)"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Infinite Battlefield of Acheron
+msgctxt "Plane of Existance"
+msgid "The Infinite Battlefield of Acheron"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Clockwork Nirvana of Mechanus
+msgctxt "Plane of Existance"
+msgid "The Clockwork Nirvana of Mechanus"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Peaceable Kingdoms of Arcadia
+msgctxt "Plane of Existance"
+msgid "The Peaceable Kingdoms of Arcadia"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Gate-Town
+msgctxt "Plane of Existance"
+msgid "Gate-Town"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid Demiplane
+msgctxt "Plane of Existance"
+msgid "Demiplane"
 msgstr ""
 
 # 
 #: 
-msgctxt Plane of Existance
-msgid The Far Realm
+msgctxt "Plane of Existance"
+msgid "The Far Realm"
 msgstr ""
 
 # 
 #: 
-msgctxt Multiverse
-msgid Multiverse
+msgctxt "Multiverse"
+msgid "Multiverse"
 msgstr ""
 
 # 
 #: 
-msgctxt Multiverse
-msgid The Forgotten Realms
+msgctxt "Multiverse"
+msgid "The Forgotten Realms"
 msgstr ""
 
 # 
 #: 
-msgctxt Multiverse
-msgid Greyhawk
+msgctxt "Multiverse"
+msgid "Greyhawk"
 msgstr ""
 
 # 
 #: 
-msgctxt Multiverse
-msgid Dragonlance
+msgctxt "Multiverse"
+msgid "Dragonlance"
 msgstr ""
 
 # 
 #: 
-msgctxt Multiverse
-msgid Eberron
+msgctxt "Multiverse"
+msgid "Eberron"
 msgstr ""
 
 # 
 #: 
-msgctxt Multiverse
-msgid Pantheon
+msgctxt "Multiverse"
+msgid "Pantheon"
 msgstr ""
 
 # 
 #: 
-msgctxt Multiverse
-msgid Canon
+msgctxt "Multiverse"
+msgid "Canon"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Auril, Goddess of Winter
+msgctxt "Forgotten Realms Deity"
+msgid "Auril, Goddess of Winter"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Azuth, God of Wizards
+msgctxt "Forgotten Realms Deity"
+msgid "Azuth, God of Wizards"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Bane, God of Tyranny
+msgctxt "Forgotten Realms Deity"
+msgid "Bane, God of Tyranny"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Beshaba, Goddess of Misfortune
+msgctxt "Forgotten Realms Deity"
+msgid "Beshaba, Goddess of Misfortune"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Bhaal, God of Murder
+msgctxt "Forgotten Realms Deity"
+msgid "Bhaal, God of Murder"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Chauntea, Goddess of Agriculture
+msgctxt "Forgotten Realms Deity"
+msgid "Chauntea, Goddess of Agriculture"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Cyric, God of Lies
+msgctxt "Forgotten Realms Deity"
+msgid "Cyric, God of Lies"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Deneir, God of Writing
+msgctxt "Forgotten Realms Deity"
+msgid "Deneir, God of Writing"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Eldath, Goddess of Peace
+msgctxt "Forgotten Realms Deity"
+msgid "Eldath, Goddess of Peace"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Gond, God of Craft
+msgctxt "Forgotten Realms Deity"
+msgid "Gond, God of Craft"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Helm, God of Protection
+msgctxt "Forgotten Realms Deity"
+msgid "Helm, God of Protection"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Ilmater, God of Endurance
+msgctxt "Forgotten Realms Deity"
+msgid "Ilmater, God of Endurance"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Kelemvor, God of the Dead
+msgctxt "Forgotten Realms Deity"
+msgid "Kelemvor, God of the Dead"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Lathander, God of Birth and Renewal
+msgctxt "Forgotten Realms Deity"
+msgid "Lathander, God of Birth and Renewal"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Leira, Goddess of Illusion
+msgctxt "Forgotten Realms Deity"
+msgid "Leira, Goddess of Illusion"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Lliira, Goddess of Joy
+msgctxt "Forgotten Realms Deity"
+msgid "Lliira, Goddess of Joy"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Loviatar, Goddess of Pain
+msgctxt "Forgotten Realms Deity"
+msgid "Loviatar, Goddess of Pain"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Malar, God of the Hunt
+msgctxt "Forgotten Realms Deity"
+msgid "Malar, God of the Hunt"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Mask, God of Thieves
+msgctxt "Forgotten Realms Deity"
+msgid "Mask, God of Thieves"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Mielikki, Goddess of Forests
+msgctxt "Forgotten Realms Deity"
+msgid "Mielikki, Goddess of Forests"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Milil, God of Poetry and Song
+msgctxt "Forgotten Realms Deity"
+msgid "Milil, God of Poetry and Song"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Myrkul, God of Death
+msgctxt "Forgotten Realms Deity"
+msgid "Myrkul, God of Death"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Mystra, Goddess of Magic
+msgctxt "Forgotten Realms Deity"
+msgid "Mystra, Goddess of Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Oghma, God of Knowledge
+msgctxt "Forgotten Realms Deity"
+msgid "Oghma, God of Knowledge"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Savras, god of Divination and Fate
+msgctxt "Forgotten Realms Deity"
+msgid "Savras, god of Divination and Fate"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Selûne, Goddess of the Moon
+msgctxt "Forgotten Realms Deity"
+msgid "Selûne, Goddess of the Moon"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Shar, Goddess of Darkness and Loss
+msgctxt "Forgotten Realms Deity"
+msgid "Shar, Goddess of Darkness and Loss"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Silvanus, God of Wild Nature
+msgctxt "Forgotten Realms Deity"
+msgid "Silvanus, God of Wild Nature"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Sune, Goddess of Love and Beauty
+msgctxt "Forgotten Realms Deity"
+msgid "Sune, Goddess of Love and Beauty"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Talona, Goddess of Disease and Poison
+msgctxt "Forgotten Realms Deity"
+msgid "Talona, Goddess of Disease and Poison"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Talos, God of Storms
+msgctxt "Forgotten Realms Deity"
+msgid "Talos, God of Storms"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Tempus, God of War
+msgctxt "Forgotten Realms Deity"
+msgid "Tempus, God of War"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Torm, God of Courage and Self-sacrifice
+msgctxt "Forgotten Realms Deity"
+msgid "Torm, God of Courage and Self-sacrifice"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Tymora, Goddess of Good Fortune
+msgctxt "Forgotten Realms Deity"
+msgid "Tymora, Goddess of Good Fortune"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Tyr, God of Justice
+msgctxt "Forgotten Realms Deity"
+msgid "Tyr, God of Justice"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Umberlee, Goddess of the Sea
+msgctxt "Forgotten Realms Deity"
+msgid "Umberlee, Goddess of the Sea"
 msgstr ""
 
 # 
 #: 
-msgctxt Forgotten Realms Deity
-msgid Waukeen, Goddess of Trade
+msgctxt "Forgotten Realms Deity"
+msgid "Waukeen, Goddess of Trade"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Beory, Goddess of Nature
+msgctxt "Greyhawk Deity"
+msgid "Beory, Goddess of Nature"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Boccob, God of Magic
+msgctxt "Greyhawk Deity"
+msgid "Boccob, God of Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Celestian, God of Stars and Wanderers
+msgctxt "Greyhawk Deity"
+msgid "Celestian, God of Stars and Wanderers"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Ehlonna, Goddess of Woodlands
+msgctxt "Greyhawk Deity"
+msgid "Ehlonna, Goddess of Woodlands"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Erythnul, God of Envy and Slaughter
+msgctxt "Greyhawk Deity"
+msgid "Erythnul, God of Envy and Slaughter"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Fharlanghn, God of Horizons and Travel
+msgctxt "Greyhawk Deity"
+msgid "Fharlanghn, God of Horizons and Travel"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Heironeous, God of Chivalry and Valor
+msgctxt "Greyhawk Deity"
+msgid "Heironeous, God of Chivalry and Valor"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Hextor, God of War and Discord
+msgctxt "Greyhawk Deity"
+msgid "Hextor, God of War and Discord"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Kord, God of Athletics and Sport
+msgctxt "Greyhawk Deity"
+msgid "Kord, God of Athletics and Sport"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Incabulos, God of Plague and Famine
+msgctxt "Greyhawk Deity"
+msgid "Incabulos, God of Plague and Famine"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Istus, Goddess of Fate and Destiny
+msgctxt "Greyhawk Deity"
+msgid "Istus, Goddess of Fate and Destiny"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Iuz, God of Pain and Oppression
+msgctxt "Greyhawk Deity"
+msgid "Iuz, God of Pain and Oppression"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Nerull, God of Death
+msgctxt "Greyhawk Deity"
+msgid "Nerull, God of Death"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Obad-Hai, God of Nature
+msgctxt "Greyhawk Deity"
+msgid "Obad-Hai, God of Nature"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Olidammara, God of Revelry
+msgctxt "Greyhawk Deity"
+msgid "Olidammara, God of Revelry"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Pelor, God of the Sun and Healing
+msgctxt "Greyhawk Deity"
+msgid "Pelor, God of the Sun and Healing"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Pholtus, God of Light and Law
+msgctxt "Greyhawk Deity"
+msgid "Pholtus, God of Light and Law"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Ralishaz, God of Ill Luck and Insanity
+msgctxt "Greyhawk Deity"
+msgid "Ralishaz, God of Ill Luck and Insanity"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Rao, God of Peace and Reason
+msgctxt "Greyhawk Deity"
+msgid "Rao, God of Peace and Reason"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid St. Cuthbert, God of Common Sense and Zeal
+msgctxt "Greyhawk Deity"
+msgid "St. Cuthbert, God of Common Sense and Zeal"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Tharizdun, God of Eternal Darkness
+msgctxt "Greyhawk Deity"
+msgid "Tharizdun, God of Eternal Darkness"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Trithereon, God of Liberty and Retribution
+msgctxt "Greyhawk Deity"
+msgid "Trithereon, God of Liberty and Retribution"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Ulaa, Goddess of Hills and Mountains
+msgctxt "Greyhawk Deity"
+msgid "Ulaa, Goddess of Hills and Mountains"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Vecna, God of Evil Secrets
+msgctxt "Greyhawk Deity"
+msgid "Vecna, God of Evil Secrets"
 msgstr ""
 
 # 
 #: 
-msgctxt Greyhawk Deity
-msgid Wee Jas, Goddess of Magic and Death
+msgctxt "Greyhawk Deity"
+msgid "Wee Jas, Goddess of Magic and Death"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Paladine, God of Rulers and Guardians
+msgctxt "Dragonlance Deity"
+msgid "Paladine, God of Rulers and Guardians"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Branchala, God of Music
+msgctxt "Dragonlance Deity"
+msgid "Branchala, God of Music"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Habbakuk, God of Animal Life and the Sea
+msgctxt "Dragonlance Deity"
+msgid "Habbakuk, God of Animal Life and the Sea"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Kiri-Jolith, God of Honor and War
+msgctxt "Dragonlance Deity"
+msgid "Kiri-Jolith, God of Honor and War"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Majere, God of Meditation and Order
+msgctxt "Dragonlance Deity"
+msgid "Majere, God of Meditation and Order"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Mishakal, Goddess of Healing
+msgctxt "Dragonlance Deity"
+msgid "Mishakal, Goddess of Healing"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Solinari, God of Good Magic
+msgctxt "Dragonlance Deity"
+msgid "Solinari, God of Good Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Gilean, God of Knowledge
+msgctxt "Dragonlance Deity"
+msgid "Gilean, God of Knowledge"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Chislev, Goddess of Nature
+msgctxt "Dragonlance Deity"
+msgid "Chislev, Goddess of Nature"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Reorx, God of Craft
+msgctxt "Dragonlance Deity"
+msgid "Reorx, God of Craft"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Shinare, Goddess of Wealth and Trade
+msgctxt "Dragonlance Deity"
+msgid "Shinare, Goddess of Wealth and Trade"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Sirrion, God of Fire and Change
+msgctxt "Dragonlance Deity"
+msgid "Sirrion, God of Fire and Change"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Zivilyn, God of Wisdom
+msgctxt "Dragonlance Deity"
+msgid "Zivilyn, God of Wisdom"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Lunitari, Goddess of Neutral Magic
+msgctxt "Dragonlance Deity"
+msgid "Lunitari, Goddess of Neutral Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Takhisis, Goddess of Night and Hatred
+msgctxt "Dragonlance Deity"
+msgid "Takhisis, Goddess of Night and Hatred"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Chermosh, God of the Undead
+msgctxt "Dragonlance Deity"
+msgid "Chermosh, God of the Undead"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Hiddukel, God of Lies and Greed
+msgctxt "Dragonlance Deity"
+msgid "Hiddukel, God of Lies and Greed"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Morgion, God of Disease and Secrecy
+msgctxt "Dragonlance Deity"
+msgid "Morgion, God of Disease and Secrecy"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Sargonnas, God of Vengeance and Fire
+msgctxt "Dragonlance Deity"
+msgid "Sargonnas, God of Vengeance and Fire"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Zeboim, Goddess of the Sea and Storms
+msgctxt "Dragonlance Deity"
+msgid "Zeboim, Goddess of the Sea and Storms"
 msgstr ""
 
 # 
 #: 
-msgctxt Dragonlance Deity
-msgid Nuitari, God of Evil Magic
+msgctxt "Dragonlance Deity"
+msgid "Nuitari, God of Evil Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid Arawai, Goddess of Fertility
+msgctxt "Eberron Deity"
+msgid "Arawai, Goddess of Fertility"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid Aureon, God of Law and Knowledge
+msgctxt "Eberron Deity"
+msgid "Aureon, God of Law and Knowledge"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid Balinor, God of Beasts and the Hunt
+msgctxt "Eberron Deity"
+msgid "Balinor, God of Beasts and the Hunt"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid Boldrei, Goddess of Community and Home
+msgctxt "Eberron Deity"
+msgid "Boldrei, Goddess of Community and Home"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid Dol Arrah, Goddess of Sunlight and Honor
+msgctxt "Eberron Deity"
+msgid "Dol Arrah, Goddess of Sunlight and Honor"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid Dol Dorn, God of Strength at Arms
+msgctxt "Eberron Deity"
+msgid "Dol Dorn, God of Strength at Arms"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid Kol Korran, God of Trade and Wealth
+msgctxt "Eberron Deity"
+msgid "Kol Korran, God of Trade and Wealth"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid Olladra, Goddess of Good Fortune
+msgctxt "Eberron Deity"
+msgid "Olladra, Goddess of Good Fortune"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid Onatar, God of Craft
+msgctxt "Eberron Deity"
+msgid "Onatar, God of Craft"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid The Dark Six
+msgctxt "Eberron Deity"
+msgid "The Dark Six"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid The Devourer, God of Nature's Wrath
+msgctxt "Eberron Deity"
+msgid "The Devourer, God of Nature's Wrath"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid The Fury, Goddess of Wrath and Madness
+msgctxt "Eberron Deity"
+msgid "The Fury, Goddess of Wrath and Madness"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid The Keeper, God of Greed and Death
+msgctxt "Eberron Deity"
+msgid "The Keeper, God of Greed and Death"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid The Mockery, God of Violence and Treachery
+msgctxt "Eberron Deity"
+msgid "The Mockery, God of Violence and Treachery"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid The Shadow, God of Dark Magic
+msgctxt "Eberron Deity"
+msgid "The Shadow, God of Dark Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid The Traveler, Deity of Chaos and Change
+msgctxt "Eberron Deity"
+msgid "The Traveler, Deity of Chaos and Change"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid The Silver Flame, Deity of Protection and Good
+msgctxt "Eberron Deity"
+msgid "The Silver Flame, Deity of Protection and Good"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid The Blood of Vol, Philosophy of Immortality and Undead
+msgctxt "Eberron Deity"
+msgid "The Blood of Vol, Philosophy of Immortality and Undead"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid Cults of the Dragon Below, Deities of Madness
+msgctxt "Eberron Deity"
+msgid "Cults of the Dragon Below, Deities of Madness"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid The Path of Light, Philosophy of Light and Self-Improvement
+msgctxt "Eberron Deity"
+msgid "The Path of Light, Philosophy of Light and Self-Improvement"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid The Undying Court, Elven Ancestors
+msgctxt "Eberron Deity"
+msgid "The Undying Court, Elven Ancestors"
 msgstr ""
 
 # 
 #: 
-msgctxt Eberron Deity
-msgid The Spirits of the Past, Elven Ancestors
+msgctxt "Eberron Deity"
+msgid "The Spirits of the Past, Elven Ancestors"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Bahamut, Dragon God of Good
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Bahamut, Dragon God of Good"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Blibdoolpoolp, Kuo-Toa Goddess
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Blibdoolpoolp, Kuo-Toa Goddess"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Corellon Larethian, Elf Deity of Art and Magic
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Corellon Larethian, Elf Deity of Art and Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Deep Sashelas, Elf God of the Sea
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Deep Sashelas, Elf God of the Sea"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Eadro, Merfolk Deity of the Sea
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Eadro, Merfolk Deity of the Sea"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Garl Glittergold, Gnome God of Trickery and Wiles
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Garl Glittergold, Gnome God of Trickery and Wiles"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Grolantor, Hill Giant God of War
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Grolantor, Hill Giant God of War"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Gruumsh, Orc God of Storms and War
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Gruumsh, Orc God of Storms and War"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Hruggek, Bugbear God of Violence
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Hruggek, Bugbear God of Violence"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Kurtulmak, Kobold God of War and Mining
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Kurtulmak, Kobold God of War and Mining"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Laogzed, Troglodyte God of Hunger
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Laogzed, Troglodyte God of Hunger"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Lolth, Drow Goddess of Spiders
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Lolth, Drow Goddess of Spiders"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Maglubiyet, Goblinoid God of War
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Maglubiyet, Goblinoid God of War"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Moradin, Dwarf God of Creation
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Moradin, Dwarf God of Creation"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Rillifane Rallathil, Wood Elf God of Nature
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Rillifane Rallathil, Wood Elf God of Nature"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Sehanine Moonbow, Elf Goddess of the Moon
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Sehanine Moonbow, Elf Goddess of the Moon"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Sekolah, Sahuagin God of the Hunt
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Sekolah, Sahuagin God of the Hunt"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Semuanya, Lizardfolk Deity of Survival
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Semuanya, Lizardfolk Deity of Survival"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Skerrit, Centaur and Satyr God of Nature
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Skerrit, Centaur and Satyr God of Nature"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Skoraeus Stonebones, God of Stone Giants and Art
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Skoraeus Stonebones, God of Stone Giants and Art"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Surtur, God of Fire Giants and Craft
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Surtur, God of Fire Giants and Craft"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Thrym, God of Frost Giants and Strength
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Thrym, God of Frost Giants and Strength"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Tiamat, Dragon Goddess of Evil
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Tiamat, Dragon Goddess of Evil"
 msgstr ""
 
 # 
 #: 
-msgctxt Nonhuman Deity (not worshipped by humans)
-msgid Yondalla, Halfling Goddess of Fertility and Protection
+msgctxt "Nonhuman Deity (not worshipped by humans)"
+msgid "Yondalla, Halfling Goddess of Fertility and Protection"
 msgstr ""
 
 # 
 #: 
-msgctxt Celtic Deity
-msgid The Daghdha, God of Weather and Crops
+msgctxt "Celtic Deity"
+msgid "The Daghdha, God of Weather and Crops"
 msgstr ""
 
 # 
 #: 
-msgctxt Celtic Deity
-msgid Arawn, God of Life and Death
+msgctxt "Celtic Deity"
+msgid "Arawn, God of Life and Death"
 msgstr ""
 
 # 
 #: 
-msgctxt Celtic Deity
-msgid Belenus, God of Sun, Light, and Warmth
+msgctxt "Celtic Deity"
+msgid "Belenus, God of Sun, Light, and Warmth"
 msgstr ""
 
 # 
 #: 
-msgctxt Celtic Deity
-msgid Brigantia, Goddess of Rivers and Livestock
+msgctxt "Celtic Deity"
+msgid "Brigantia, Goddess of Rivers and Livestock"
 msgstr ""
 
 # 
 #: 
-msgctxt Celtic Deity
-msgid Diancecht, God of Medicine and Healing
+msgctxt "Celtic Deity"
+msgid "Diancecht, God of Medicine and Healing"
 msgstr ""
 
 # 
 #: 
-msgctxt Celtic Deity
-msgid Dunatis, God of Mountains and Peaks
+msgctxt "Celtic Deity"
+msgid "Dunatis, God of Mountains and Peaks"
 msgstr ""
 
 # 
 #: 
-msgctxt Celtic Deity
-msgid Goibhniu, God of Smiths and Healing
+msgctxt "Celtic Deity"
+msgid "Goibhniu, God of Smiths and Healing"
 msgstr ""
 
 # 
 #: 
-msgctxt Celtic Deity
-msgid Lugh, God of Arts, Travel, and Commerce
+msgctxt "Celtic Deity"
+msgid "Lugh, God of Arts, Travel, and Commerce"
 msgstr ""
 
 # 
 #: 
-msgctxt Celtic Deity
-msgid Manannan mac Lir, God of Oceans and Sea Creatures
+msgctxt "Celtic Deity"
+msgid "Manannan mac Lir, God of Oceans and Sea Creatures"
 msgstr ""
 
 # 
 #: 
-msgctxt Celtic Deity
-msgid Math Mathonwy, God of Magic
+msgctxt "Celtic Deity"
+msgid "Math Mathonwy, God of Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt Celtic Deity
-msgid Morrigan, Goddess of Battle
+msgctxt "Celtic Deity"
+msgid "Morrigan, Goddess of Battle"
 msgstr ""
 
 # 
 #: 
-msgctxt Celtic Deity
-msgid Nuada, God of War and Warriors
+msgctxt "Celtic Deity"
+msgid "Nuada, God of War and Warriors"
 msgstr ""
 
 # 
 #: 
-msgctxt Celtic Deity
-msgid Oghma, God of Speech and Writing
+msgctxt "Celtic Deity"
+msgid "Oghma, God of Speech and Writing"
 msgstr ""
 
 # 
 #: 
-msgctxt Celtic Deity
-msgid Silvanus, God of Nature and Forests
+msgctxt "Celtic Deity"
+msgid "Silvanus, God of Nature and Forests"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Zeus, God of the Sky, Ruler of the Gods
+msgctxt "Greek Deity"
+msgid "Zeus, God of the Sky, Ruler of the Gods"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Aphrodite, Goddess of Love and Beauty
+msgctxt "Greek Deity"
+msgid "Aphrodite, Goddess of Love and Beauty"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Apollo, God of Light, Music, and Healing
+msgctxt "Greek Deity"
+msgid "Apollo, God of Light, Music, and Healing"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Ares, God of War and Strife
+msgctxt "Greek Deity"
+msgid "Ares, God of War and Strife"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Artemis, Goddess of Hunting and Childbirth
+msgctxt "Greek Deity"
+msgid "Artemis, Goddess of Hunting and Childbirth"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Athena, Goddess of Wisdom and Civilization
+msgctxt "Greek Deity"
+msgid "Athena, Goddess of Wisdom and Civilization"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Demeter, Goddess of Agriculture
+msgctxt "Greek Deity"
+msgid "Demeter, Goddess of Agriculture"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Dionysus, God of Mirth and Wine
+msgctxt "Greek Deity"
+msgid "Dionysus, God of Mirth and Wine"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Hades, God of the Underworld
+msgctxt "Greek Deity"
+msgid "Hades, God of the Underworld"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Hecate, Goddess of Magic and the Moon
+msgctxt "Greek Deity"
+msgid "Hecate, Goddess of Magic and the Moon"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Hephaestus, God of Smithing and Craft
+msgctxt "Greek Deity"
+msgid "Hephaestus, God of Smithing and Craft"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Hera, Goddess of Marriage and Intrigue
+msgctxt "Greek Deity"
+msgid "Hera, Goddess of Marriage and Intrigue"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Hercules, God of Strength and Adventure
+msgctxt "Greek Deity"
+msgid "Hercules, God of Strength and Adventure"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Hermes, God of Travel and Commerce
+msgctxt "Greek Deity"
+msgid "Hermes, God of Travel and Commerce"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Hestia, Goddess of Home and Family
+msgctxt "Greek Deity"
+msgid "Hestia, Goddess of Home and Family"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Nike, Goddess of Victory
+msgctxt "Greek Deity"
+msgid "Nike, Goddess of Victory"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Pan, God of Nature
+msgctxt "Greek Deity"
+msgid "Pan, God of Nature"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Poseidon, God of the Sea and Earthquakes
+msgctxt "Greek Deity"
+msgid "Poseidon, God of the Sea and Earthquakes"
 msgstr ""
 
 # 
 #: 
-msgctxt Greek Deity
-msgid Tyche, Goddess of Good Fortune
+msgctxt "Greek Deity"
+msgid "Tyche, Goddess of Good Fortune"
 msgstr ""
 
 # 
 #: 
-msgctxt Egyptian Deity
-msgid Re-Horakhty, God of the Sun, Ruler of the Gods
+msgctxt "Egyptian Deity"
+msgid "Re-Horakhty, God of the Sun, Ruler of the Gods"
 msgstr ""
 
 # 
 #: 
-msgctxt Egyptian Deity
-msgid Anubis, God of Judgment and Death
+msgctxt "Egyptian Deity"
+msgid "Anubis, God of Judgment and Death"
 msgstr ""
 
 # 
 #: 
-msgctxt Egyptian Deity
-msgid Apep, God of Evil, Fire, and Serpents
+msgctxt "Egyptian Deity"
+msgid "Apep, God of Evil, Fire, and Serpents"
 msgstr ""
 
 # 
 #: 
-msgctxt Egyptian Deity
-msgid Bast, Goddess of Cats and Vengeance
+msgctxt "Egyptian Deity"
+msgid "Bast, Goddess of Cats and Vengeance"
 msgstr ""
 
 # 
 #: 
-msgctxt Egyptian Deity
-msgid Bes, God of Luck and Music
+msgctxt "Egyptian Deity"
+msgid "Bes, God of Luck and Music"
 msgstr ""
 
 # 
 #: 
-msgctxt Egyptian Deity
-msgid Hathor, Goddess of Love, Music, and Motherhood
+msgctxt "Egyptian Deity"
+msgid "Hathor, Goddess of Love, Music, and Motherhood"
 msgstr ""
 
 # 
 #: 
-msgctxt Egyptian Deity
-msgid Imhotep, God of Crafts and Medicine
+msgctxt "Egyptian Deity"
+msgid "Imhotep, God of Crafts and Medicine"
 msgstr ""
 
 # 
 #: 
-msgctxt Egyptian Deity
-msgid Isis, Goddess of Fertility and Magic
+msgctxt "Egyptian Deity"
+msgid "Isis, Goddess of Fertility and Magic"
 msgstr ""
 
 # 
 #: 
-msgctxt Egyptian Deity
-msgid Nephthys, Goddess of Death and Grief
+msgctxt "Egyptian Deity"
+msgid "Nephthys, Goddess of Death and Grief"
 msgstr ""
 
 # 
 #: 
-msgctxt Egyptian Deity
-msgid Osiris, God of Nature and the Underworld
+msgctxt "Egyptian Deity"
+msgid "Osiris, God of Nature and the Underworld"
 msgstr ""
 
 # 
 #: 
-msgctxt Egyptian Deity
-msgid Ptah, God of Crafts, Knowledge, and Secrets
+msgctxt "Egyptian Deity"
+msgid "Ptah, God of Crafts, Knowledge, and Secrets"
 msgstr ""
 
 # 
 #: 
-msgctxt Egyptian Deity
-msgid Set, God of Darkness and Desert Storms
+msgctxt "Egyptian Deity"
+msgid "Set, God of Darkness and Desert Storms"
 msgstr ""
 
 # 
 #: 
-msgctxt Egyptian Deity
-msgid Sobek, God of Water and Crocodiles
+msgctxt "Egyptian Deity"
+msgid "Sobek, God of Water and Crocodiles"
 msgstr ""
 
 # 
 #: 
-msgctxt Egyptian Deity
-msgid Thoth, God of Knowledge and Wisdom
+msgctxt "Egyptian Deity"
+msgid "Thoth, God of Knowledge and Wisdom"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Odin, God of Knowledge and War
+msgctxt "Norse Deity"
+msgid "Odin, God of Knowledge and War"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Aegir, God of the Sea and Storms
+msgctxt "Norse Deity"
+msgid "Aegir, God of the Sea and Storms"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Balder, God of Beauty and Poetry
+msgctxt "Norse Deity"
+msgid "Balder, God of Beauty and Poetry"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Forseti, God of Justice and Law
+msgctxt "Norse Deity"
+msgid "Forseti, God of Justice and Law"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Frey, God of Fertility and the Sun
+msgctxt "Norse Deity"
+msgid "Frey, God of Fertility and the Sun"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Freya, Goddess of Fertility and Love
+msgctxt "Norse Deity"
+msgid "Freya, Goddess of Fertility and Love"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Frigga, Goddess of Birth and Fertility
+msgctxt "Norse Deity"
+msgid "Frigga, Goddess of Birth and Fertility"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Heimdall, God of Watchfulness and Loyalty
+msgctxt "Norse Deity"
+msgid "Heimdall, God of Watchfulness and Loyalty"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Hel, Goddess of the Underworld
+msgctxt "Norse Deity"
+msgid "Hel, Goddess of the Underworld"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Hermod, God of Luck
+msgctxt "Norse Deity"
+msgid "Hermod, God of Luck"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Loki, God of Thieves and Trickery
+msgctxt "Norse Deity"
+msgid "Loki, God of Thieves and Trickery"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Njord, God of Sea and Wind
+msgctxt "Norse Deity"
+msgid "Njord, God of Sea and Wind"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Odur, God of Light and the Sun
+msgctxt "Norse Deity"
+msgid "Odur, God of Light and the Sun"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Sif, Goddess of War
+msgctxt "Norse Deity"
+msgid "Sif, Goddess of War"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Skadi, God of Earth and Mountains
+msgctxt "Norse Deity"
+msgid "Skadi, God of Earth and Mountains"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Surtur, God of Fire Giants and War
+msgctxt "Norse Deity"
+msgid "Surtur, God of Fire Giants and War"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Thor, God of Storms and Thunder
+msgctxt "Norse Deity"
+msgid "Thor, God of Storms and Thunder"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Thrym, God of Fire Giants and Cold
+msgctxt "Norse Deity"
+msgid "Thrym, God of Fire Giants and Cold"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Tyr, God of Courage and Strategy
+msgctxt "Norse Deity"
+msgid "Tyr, God of Courage and Strategy"
 msgstr ""
 
 # 
 #: 
-msgctxt Norse Deity
-msgid Uller, God of Hunting and Winter
+msgctxt "Norse Deity"
+msgid "Uller, God of Hunting and Winter"
 msgstr ""
 

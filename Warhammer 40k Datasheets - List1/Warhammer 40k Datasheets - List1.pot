@@ -11,151 +11,151 @@ msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Unit Name
+msgctxt ""
+msgid "Unit Name"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Battlefield Role
+msgctxt ""
+msgid "Battlefield Role"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Profile
+msgctxt ""
+msgid "Profile"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Composition
+msgctxt ""
+msgid "Composition"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wargear
+msgctxt ""
+msgid "Wargear"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Understrength Unit
+msgctxt ""
+msgid "Understrength Unit"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid No.
+msgctxt ""
+msgid "No."
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Move (M)
+msgctxt ""
+msgid "Move (M)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Weapon Skill (WS)
+msgctxt ""
+msgid "Weapon Skill (WS)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ballistic Skill (BS)
+msgctxt ""
+msgid "Ballistic Skill (BS)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Strength (S)
+msgctxt ""
+msgid "Strength (S)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Toughness (T)
+msgctxt ""
+msgid "Toughness (T)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wounds (W)
+msgctxt ""
+msgid "Wounds (W)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Attacks (A)
+msgctxt ""
+msgid "Attacks (A)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Leadership (Ld)
+msgctxt ""
+msgid "Leadership (Ld)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Save (Sv)
+msgctxt ""
+msgid "Save (Sv)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ability
+msgctxt ""
+msgid "Ability"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Aura Ability
+msgctxt ""
+msgid "Aura Ability"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Effect
+msgctxt ""
+msgid "Effect"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Weapon
+msgctxt ""
+msgid "Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Range
+msgctxt ""
+msgid "Range"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Type
+msgctxt ""
+msgid "Type"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Armour Penetration (AP)
+msgctxt ""
+msgid "Armour Penetration (AP)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Damage (D)
+msgctxt ""
+msgid "Damage (D)"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Characteristic
+msgctxt ""
+msgid "Characteristic"
 msgstr ""
 

@@ -1,1044 +1,1044 @@
 # 
 #: 
-msgctxt Blast Weapon
-msgid Accelerated Photon Grenade
+msgctxt "Blast Weapon"
+msgid "Accelerated Photon Grenade"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Aeladri Missile Launcher
+msgctxt "Blast Weapon"
+msgid "Aeladri Missile Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Airbursting Fragmentation Projector
+msgctxt "Blast Weapon"
+msgid "Airbursting Fragmentation Projector"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Aquila Macro-Cannon
+msgctxt "Blast Weapon"
+msgid "Aquila Macro-Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Archeotech Grenade
+msgctxt "Blast Weapon"
+msgid "Archeotech Grenade"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Artillery Barrage
+msgctxt "Blast Weapon"
+msgid "Artillery Barrage"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Astartes Grenade Launcher
+msgctxt "Blast Weapon"
+msgid "Astartes Grenade Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Balistus Grenade Launcher
+msgctxt "Blast Weapon"
+msgid "Balistus Grenade Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Barbed Strangler
+msgctxt "Blast Weapon"
+msgid "Barbed Strangler"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Balethorn Cannon
+msgctxt "Blast Weapon"
+msgid "Balethorn Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Baneblade Cannon
+msgctxt "Blast Weapon"
+msgid "Baneblade Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Battle Cannon
+msgctxt "Blast Weapon"
+msgid "Battle Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Belleros Energy Cannon
+msgctxt "Blast Weapon"
+msgid "Belleros Energy Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Bellicatus Missila Array
+msgctxt "Blast Weapon"
+msgid "Bellicatus Missila Array"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Bile Spurt
+msgctxt "Blast Weapon"
+msgid "Bile Spurt"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Bio-Plasma
+msgctxt "Blast Weapon"
+msgid "Bio-Plasma"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Bio-Plasmic Scream
+msgctxt "Blast Weapon"
+msgid "Bio-Plasmic Scream"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Blackstar Rocket Launcher
+msgctxt "Blast Weapon"
+msgid "Blackstar Rocket Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Blasting Charge
+msgctxt "Blast Weapon"
+msgid "Blasting Charge"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Blastmaster
+msgctxt "Blast Weapon"
+msgid "Blastmaster"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Blight Grenade
+msgctxt "Blast Weapon"
+msgid "Blight Grenade"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Blind Grenade
+msgctxt "Blast Weapon"
+msgid "Blind Grenade"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Bolt Sniper Rifle
+msgctxt "Blast Weapon"
+msgid "Bolt Sniper Rifle"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Brogg's Buzzbomb
+msgctxt "Blast Weapon"
+msgid "Brogg's Buzzbomb"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Bubblechukka
+msgctxt "Blast Weapon"
+msgid "Bubblechukka"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Burna Bottles
+msgctxt "Blast Weapon"
+msgid "Burna Bottles"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Cache of Demolition Charges
+msgctxt "Blast Weapon"
+msgid "Cache of Demolition Charges"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Cawl's Wrath
+msgctxt "Blast Weapon"
+msgid "Cawl's Wrath"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Centurion Missile Launcher
+msgctxt "Blast Weapon"
+msgid "Centurion Missile Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Cerberus Launcher
+msgctxt "Blast Weapon"
+msgid "Cerberus Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Choking Spores
+msgctxt "Blast Weapon"
+msgid "Choking Spores"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Cluster Rocket System
+msgctxt "Blast Weapon"
+msgid "Cluster Rocket System"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Concussion Grenade
+msgctxt "Blast Weapon"
+msgid "Concussion Grenade"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Cyclone Missile Launcher
+msgctxt "Blast Weapon"
+msgid "Cyclone Missile Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid D-Cannon
+msgctxt "Blast Weapon"
+msgid "D-Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Da Boomer
+msgctxt "Blast Weapon"
+msgid "Da Boomer"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Da Souped-up Shokka
+msgctxt "Blast Weapon"
+msgid "Da Souped-up Shokka"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Dark Scythe
+msgctxt "Blast Weapon"
+msgid "Dark Scythe"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Death Ray
+msgctxt "Blast Weapon"
+msgid "Death Ray"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Deathstrike Missile
+msgctxt "Blast Weapon"
+msgid "Deathstrike Missile"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Deathwatch Frag Cannon
+msgctxt "Blast Weapon"
+msgid "Deathwatch Frag Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Deathwind Launcher
+msgctxt "Blast Weapon"
+msgid "Deathwind Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Deffkannon
+msgctxt "Blast Weapon"
+msgid "Deffkannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Demolisher Cannon
+msgctxt "Blast Weapon"
+msgid "Demolisher Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Demolition Charge
+msgctxt "Blast Weapon"
+msgid "Demolition Charge"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Disruptor Missile Launcher
+msgctxt "Blast Weapon"
+msgid "Disruptor Missile Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Doomsday Cannon
+msgctxt "Blast Weapon"
+msgid "Doomsday Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Doomweaver
+msgctxt "Blast Weapon"
+msgid "Doomweaver"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Earthshaker Cannon
+msgctxt "Blast Weapon"
+msgid "Earthshaker Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Ectoplasma Cannon
+msgctxt "Blast Weapon"
+msgid "Ectoplasma Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Eradication Beamer
+msgctxt "Blast Weapon"
+msgid "Eradication Beamer"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Eradication Ray
+msgctxt "Blast Weapon"
+msgid "Eradication Ray"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Eradicator Nova Cannon
+msgctxt "Blast Weapon"
+msgid "Eradicator Nova Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Executioner Plasma Cannon
+msgctxt "Blast Weapon"
+msgid "Executioner Plasma Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Exorcist Conflagration Rockets
+msgctxt "Blast Weapon"
+msgid "Exorcist Conflagration Rockets"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Exorcist Missile Launcher
+msgctxt "Blast Weapon"
+msgid "Exorcist Missile Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Frag Bomb
+msgctxt "Blast Weapon"
+msgid "Frag Bomb"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Frag Cannon
+msgctxt "Blast Weapon"
+msgid "Frag Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Frag Grenade
+msgctxt "Blast Weapon"
+msgid "Frag Grenade"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Fragstorm Grenade Launcher
+msgctxt "Blast Weapon"
+msgid "Fragstorm Grenade Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Fury of Mars
+msgctxt "Blast Weapon"
+msgid "Fury of Mars"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Fusion Collider
+msgctxt "Blast Weapon"
+msgid "Fusion Collider"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Grenade Harness
+msgctxt "Blast Weapon"
+msgid "Grenade Harness"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Grenade Launcher
+msgctxt "Blast Weapon"
+msgid "Grenade Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Grenadier Gauntlet
+msgctxt "Blast Weapon"
+msgid "Grenadier Gauntlet"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Grotzooka
+msgctxt "Blast Weapon"
+msgid "Grotzooka"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Havoc Launcher
+msgctxt "Blast Weapon"
+msgid "Havoc Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Hammer of Sunderance
+msgctxt "Blast Weapon"
+msgid "Hammer of Sunderance"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Haywire Cannon
+msgctxt "Blast Weapon"
+msgid "Haywire Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Heavy Mining Laser
+msgctxt "Blast Weapon"
+msgid "Heavy Mining Laser"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Heavy Mortar
+msgctxt "Blast Weapon"
+msgid "Heavy Mortar"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Heavy Plasma Cannon
+msgctxt "Blast Weapon"
+msgid "Heavy Plasma Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Heavy Squig Launcha
+msgctxt "Blast Weapon"
+msgid "Heavy Squig Launcha"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Heavy Venom Cannon
+msgctxt "Blast Weapon"
+msgid "Heavy Venom Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Hellbrute Plasma Cannon
+msgctxt "Blast Weapon"
+msgid "Hellbrute Plasma Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Helfrost Cannon
+msgctxt "Blast Weapon"
+msgid "Helfrost Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Helfrost Destructor
+msgctxt "Blast Weapon"
+msgid "Helfrost Destructor"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Hellhammer Cannon
+msgctxt "Blast Weapon"
+msgid "Hellhammer Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid High-Capacitance Railgun
+msgctxt "Blast Weapon"
+msgid "High-Capacitance Railgun"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Hyper Blight Grenade
+msgctxt "Blast Weapon"
+msgid "Hyper Blight Grenade"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Icarus Rocket Pod
+msgctxt "Blast Weapon"
+msgid "Icarus Rocket Pod"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Ichor Cannon
+msgctxt "Blast Weapon"
+msgid "Ichor Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Ion Accelerator
+msgctxt "Blast Weapon"
+msgid "Ion Accelerator"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Ion Cannon
+msgctxt "Blast Weapon"
+msgid "Ion Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Ion Rifle
+msgctxt "Blast Weapon"
+msgid "Ion Rifle"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Ironstorm Missile Pod
+msgctxt "Blast Weapon"
+msgid "Ironstorm Missile Pod"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Kannon
+msgctxt "Blast Weapon"
+msgid "Kannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Killkannon
+msgctxt "Blast Weapon"
+msgid "Killkannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Kustom Mega-Kannon
+msgctxt "Blast Weapon"
+msgid "Kustom Mega-Kannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Kustom Mega-Zappa
+msgctxt "Blast Weapon"
+msgid "Kustom Mega-Zappa"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Laser Destructor
+msgctxt "Blast Weapon"
+msgid "Laser Destructor"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Lobba
+msgctxt "Blast Weapon"
+msgid "Lobba"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Macro Plasma Incinerator
+msgctxt "Blast Weapon"
+msgid "Macro Plasma Incinerator"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Magma Cannon
+msgctxt "Blast Weapon"
+msgid "Magma Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Melta Cannon
+msgctxt "Blast Weapon"
+msgid "Melta Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Missile Launcher
+msgctxt "Blast Weapon"
+msgid "Missile Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Miasma Cannon
+msgctxt "Blast Weapon"
+msgid "Miasma Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Mortar
+msgctxt "Blast Weapon"
+msgid "Mortar"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Multiple Rocket Pod
+msgctxt "Blast Weapon"
+msgid "Multiple Rocket Pod"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Neutron Laser
+msgctxt "Blast Weapon"
+msgid "Neutron Laser"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Phantasm Grenade Launcher
+msgctxt "Blast Weapon"
+msgid "Phantasm Grenade Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Phlegm Bombardment
+msgctxt "Blast Weapon"
+msgid "Phlegm Bombardment"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Phosphex Bombs
+msgctxt "Blast Weapon"
+msgid "Phosphex Bombs"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Photon Grenade
+msgctxt "Blast Weapon"
+msgid "Photon Grenade"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Plagueburst Mortar
+msgctxt "Blast Weapon"
+msgid "Plagueburst Mortar"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Plasma Cannon
+msgctxt "Blast Weapon"
+msgid "Plasma Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Plasma Culverin
+msgctxt "Blast Weapon"
+msgid "Plasma Culverin"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Plasma Decimator
+msgctxt "Blast Weapon"
+msgid "Plasma Decimator"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Plasma Exterminator
+msgctxt "Blast Weapon"
+msgid "Plasma Exterminator"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Plasma Grenade
+msgctxt "Blast Weapon"
+msgid "Plasma Grenade"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Plasma Obliterator
+msgctxt "Blast Weapon"
+msgid "Plasma Obliterator"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Plasma Storm Battery
+msgctxt "Blast Weapon"
+msgid "Plasma Storm Battery"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Prism Cannon
+msgctxt "Blast Weapon"
+msgid "Prism Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Prismatic Cannon
+msgctxt "Blast Weapon"
+msgid "Prismatic Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Psyk-Out Grenade
+msgctxt "Blast Weapon"
+msgid "Psyk-Out Grenade"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Pulse Driver Cannon
+msgctxt "Blast Weapon"
+msgid "Pulse Driver Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Quake Cannon
+msgctxt "Blast Weapon"
+msgid "Quake Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Rapid-Fire Battle Cannon
+msgctxt "Blast Weapon"
+msgid "Rapid-Fire Battle Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Railgun
+msgctxt "Blast Weapon"
+msgid "Railgun"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Ravenwing Grenade Launcher
+msgctxt "Blast Weapon"
+msgid "Ravenwing Grenade Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Razorwing Missiles
+msgctxt "Blast Weapon"
+msgid "Razorwing Missiles"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Redemption Missile Silo
+msgctxt "Blast Weapon"
+msgid "Redemption Missile Silo"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Rift Cannon
+msgctxt "Blast Weapon"
+msgid "Rift Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Rokkit Kannon
+msgctxt "Blast Weapon"
+msgid "Rokkit Kannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Salvo Launcher
+msgctxt "Blast Weapon"
+msgid "Salvo Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Shadow Weaver
+msgctxt "Blast Weapon"
+msgid "Shadow Weaver"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Shokk Attack Gun
+msgctxt "Blast Weapon"
+msgid "Shokk Attack Gun"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Shock Grenade
+msgctxt "Blast Weapon"
+msgid "Shock Grenade"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Shockcannon
+msgctxt "Blast Weapon"
+msgid "Shockcannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Shredder
+msgctxt "Blast Weapon"
+msgid "Shredder"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Skorcha Missiles
+msgctxt "Blast Weapon"
+msgid "Skorcha Missiles"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Skull Cannon
+msgctxt "Blast Weapon"
+msgid "Skull Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Skullhurler
+msgctxt "Blast Weapon"
+msgid "Skullhurler"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Smasha Gun
+msgctxt "Blast Weapon"
+msgid "Smasha Gun"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Solar Atomiser
+msgctxt "Blast Weapon"
+msgid "Solar Atomiser"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Spirit Vortex
+msgctxt "Blast Weapon"
+msgid "Spirit Vortex"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Squig Launcha
+msgctxt "Blast Weapon"
+msgid "Squig Launcha"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Star Bolas
+msgctxt "Blast Weapon"
+msgid "Star Bolas"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Stikkbomb
+msgctxt "Blast Weapon"
+msgid "Stikkbomb"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Stikkbomb Chukka
+msgctxt "Blast Weapon"
+msgid "Stikkbomb Chukka"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Stikkbomb Flinga
+msgctxt "Blast Weapon"
+msgid "Stikkbomb Flinga"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Stikksquig
+msgctxt "Blast Weapon"
+msgid "Stikksquig"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Storm Eagle Rocket
+msgctxt "Blast Weapon"
+msgid "Storm Eagle Rocket"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Stormfrag Auto-Launcher
+msgctxt "Blast Weapon"
+msgid "Stormfrag Auto-Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Stormsword Siege Cannon
+msgctxt "Blast Weapon"
+msgid "Stormsword Siege Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Stranglethorn Cannon
+msgctxt "Blast Weapon"
+msgid "Stranglethorn Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Suncannon
+msgctxt "Blast Weapon"
+msgid "Suncannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Supa-Rokkit
+msgctxt "Blast Weapon"
+msgid "Supa-Rokkit"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Supernova Launcher
+msgctxt "Blast Weapon"
+msgid "Supernova Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Tankbusta Bomb
+msgctxt "Blast Weapon"
+msgid "Tankbusta Bomb"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Taurox Battle Cannon
+msgctxt "Blast Weapon"
+msgid "Taurox Battle Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Taurox Missile Launcher
+msgctxt "Blast Weapon"
+msgid "Taurox Missile Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Tempest Launcher
+msgctxt "Blast Weapon"
+msgid "Tempest Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Thermal Cannon
+msgctxt "Blast Weapon"
+msgid "Thermal Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Thermal Spear
+msgctxt "Blast Weapon"
+msgid "Thermal Spear"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Thunderfire Cannon
+msgctxt "Blast Weapon"
+msgid "Thunderfire Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid The Thunder of Voltaris
+msgctxt "Blast Weapon"
+msgid "The Thunder of Voltaris"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Transdimensional Beamer
+msgctxt "Blast Weapon"
+msgid "Transdimensional Beamer"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Tremor Cannon
+msgctxt "Blast Weapon"
+msgid "Tremor Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Twin Aeldari Missile Launcher
+msgctxt "Blast Weapon"
+msgid "Twin Aeldari Missile Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Twin Heavy Plasma Cannon
+msgctxt "Blast Weapon"
+msgid "Twin Heavy Plasma Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Twin Helfrost Cannon
+msgctxt "Blast Weapon"
+msgid "Twin Helfrost Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Twin Siegebreaker Cannon
+msgctxt "Blast Weapon"
+msgid "Twin Siegebreaker Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Typhoon Missile Launcher
+msgctxt "Blast Weapon"
+msgid "Typhoon Missile Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Venom Cannon
+msgctxt "Blast Weapon"
+msgid "Venom Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Voidraven Missiles
+msgctxt "Blast Weapon"
+msgid "Voidraven Missiles"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Volcano Cannon
+msgctxt "Blast Weapon"
+msgid "Volcano Cannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Volcano Iance
+msgctxt "Blast Weapon"
+msgid "Volcano Iance"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Vortex Missile Battery
+msgctxt "Blast Weapon"
+msgid "Vortex Missile Battery"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Wazbom Mega-Kannon
+msgctxt "Blast Weapon"
+msgid "Wazbom Mega-Kannon"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Whirlwind Castellan Launcher
+msgctxt "Blast Weapon"
+msgid "Whirlwind Castellan Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Whirlwind Vengeance Launcher
+msgctxt "Blast Weapon"
+msgid "Whirlwind Vengeance Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Wrist-Mounted Grenade Launcher
+msgctxt "Blast Weapon"
+msgid "Wrist-Mounted Grenade Launcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Blast Weapon
-msgid Wyvern Quad Stormshard Mortar
+msgctxt "Blast Weapon"
+msgid "Wyvern Quad Stormshard Mortar"
 msgstr ""
 

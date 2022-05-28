@@ -1,2772 +1,2772 @@
 # 
 #: 
-msgctxt 
-msgid  'Bot
+msgctxt ""
+msgid " 'Bot"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Abactor
+msgctxt ""
+msgid "Abactor"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Abbot
+msgctxt ""
+msgid "Abbot"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Albigensian
+msgctxt ""
+msgid "Albigensian"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Alleycat
+msgctxt ""
+msgid "Alleycat"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Allthing
+msgctxt ""
+msgid "Allthing"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Amaranth
+msgctxt ""
+msgid "Amaranth"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Anarch
+msgctxt ""
+msgid "Anarch"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Anarch Revolt
+msgctxt ""
+msgid "Anarch Revolt"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Anarchs
+msgctxt ""
+msgid "Anarchs"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ancients
+msgctxt ""
+msgid "Ancients"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ancilla
+msgctxt ""
+msgid "Ancilla"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ancillae
+msgctxt ""
+msgid "Ancillae"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Angstburger
+msgctxt ""
+msgid "Angstburger"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ankaran Sarcophagus
+msgctxt ""
+msgid "Ankaran Sarcophagus"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Antediluvian
+msgctxt ""
+msgid "Antediluvian"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Antitribu
+msgctxt ""
+msgid "Antitribu"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Antitribu
+msgctxt ""
+msgid "Antitribu"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Apeshit
+msgctxt ""
+msgid "Apeshit"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Arcanum
+msgctxt ""
+msgid "Arcanum"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Archbishop
+msgctxt ""
+msgid "Archbishop"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Archon
+msgctxt ""
+msgid "Archon"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Archon
+msgctxt ""
+msgid "Archon"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ash
+msgctxt ""
+msgid "Ash"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Assamite
+msgctxt ""
+msgid "Assamite"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Assamite Cannibal
+msgctxt ""
+msgid "Assamite Cannibal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Autarkis
+msgctxt ""
+msgid "Autarkis"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Autarkis
+msgctxt ""
+msgid "Autarkis"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Avetrol
+msgctxt ""
+msgid "Avetrol"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ball
+msgctxt ""
+msgid "Ball"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Banker
+msgctxt ""
+msgid "Banker"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Banking
+msgctxt ""
+msgid "Banking"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Baron
+msgctxt ""
+msgid "Baron"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Barony
+msgctxt ""
+msgid "Barony"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Bat
+msgctxt ""
+msgid "Bat"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Beast
+msgctxt ""
+msgid "Beast"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Bishop
+msgctxt ""
+msgid "Bishop"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Bitch
+msgctxt ""
+msgid "Bitch"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Bling
+msgctxt ""
+msgid "Bling"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blister
+msgctxt ""
+msgid "Blister"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Bloat
+msgctxt ""
+msgid "Bloat"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blood
+msgctxt ""
+msgid "Blood"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blood Bond
+msgctxt ""
+msgid "Blood Bond"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blood Cult
+msgctxt ""
+msgid "Blood Cult"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blood Doll
+msgctxt ""
+msgid "Blood Doll"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blood Feast
+msgctxt ""
+msgid "Blood Feast"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blood Hunt
+msgctxt ""
+msgid "Blood Hunt"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blood Kindred
+msgctxt ""
+msgid "Blood Kindred"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blood Oath
+msgctxt ""
+msgid "Blood Oath"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blood Points
+msgctxt ""
+msgid "Blood Points"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blood Pool
+msgctxt ""
+msgid "Blood Pool"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blooded
+msgctxt ""
+msgid "Blooded"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Blooding
+msgctxt ""
+msgid "Blooding"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Bloodline
+msgctxt ""
+msgid "Bloodline"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Boojum
+msgctxt ""
+msgid "Boojum"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Book of Nod
+msgctxt ""
+msgid "Book of Nod"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Boyars
+msgctxt ""
+msgid "Boyars"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Brave
+msgctxt ""
+msgid "Brave"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Breach
+msgctxt ""
+msgid "Breach"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Brightening Sunsets
+msgctxt ""
+msgid "Brightening Sunsets"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Brood
+msgctxt ""
+msgid "Brood"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Brujah
+msgctxt ""
+msgid "Brujah"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Butterfly
+msgctxt ""
+msgid "Butterfly"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cadets
+msgctxt ""
+msgid "Cadets"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Caine
+msgctxt ""
+msgid "Caine"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cainite
+msgctxt ""
+msgid "Cainite"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cainite Mythology
+msgctxt ""
+msgid "Cainite Mythology"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Caitiff
+msgctxt ""
+msgid "Caitiff"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Caliph
+msgctxt ""
+msgid "Caliph"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Camarilla
+msgctxt ""
+msgid "Camarilla"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cannibal
+msgctxt ""
+msgid "Cannibal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cape
+msgctxt ""
+msgid "Cape"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cardinal
+msgctxt ""
+msgid "Cardinal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Carthagos
+msgctxt ""
+msgid "Carthagos"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Casanova
+msgctxt ""
+msgid "Casanova"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Castellan
+msgctxt ""
+msgid "Castellan"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cathar
+msgctxt ""
+msgid "Cathar"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cathayan
+msgctxt ""
+msgid "Cathayan"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cauchemar
+msgctxt ""
+msgid "Cauchemar"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Chameleon
+msgctxt ""
+msgid "Chameleon"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Chantry
+msgctxt ""
+msgid "Chantry"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Charlemagne
+msgctxt ""
+msgid "Charlemagne"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Chica
+msgctxt ""
+msgid "Chica"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Chief
+msgctxt ""
+msgid "Chief"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Childe
+msgctxt ""
+msgid "Childe"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Childer
+msgctxt ""
+msgid "Childer"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Children of Caine
+msgctxt ""
+msgid "Children of Caine"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Children of Haqim
+msgctxt ""
+msgid "Children of Haqim"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid City Gangrel
+msgctxt ""
+msgid "City Gangrel"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Clan
+msgctxt ""
+msgid "Clan"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Clan Curse
+msgctxt ""
+msgid "Clan Curse"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Clanless
+msgctxt ""
+msgid "Clanless"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Clanless Rabble
+msgctxt ""
+msgid "Clanless Rabble"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cleanup
+msgctxt ""
+msgid "Cleanup"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cleaver
+msgctxt ""
+msgid "Cleaver"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cleopatra
+msgctxt ""
+msgid "Cleopatra"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Clockwatcher
+msgctxt ""
+msgid "Clockwatcher"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cockalorum
+msgctxt ""
+msgid "Cockalorum"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Code of Milan
+msgctxt ""
+msgid "Code of Milan"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Collar
+msgctxt ""
+msgid "Collar"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Column
+msgctxt ""
+msgid "Column"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Communal Haven
+msgctxt ""
+msgid "Communal Haven"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Comprador
+msgctxt ""
+msgid "Comprador"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Conclave
+msgctxt ""
+msgid "Conclave"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Consanguineous
+msgctxt ""
+msgid "Consanguineous"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Consistory
+msgctxt ""
+msgid "Consistory"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Convention of Thorns
+msgctxt ""
+msgid "Convention of Thorns"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Convocation
+msgctxt ""
+msgid "Convocation"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Corrupter
+msgctxt ""
+msgid "Corrupter"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Costello
+msgctxt ""
+msgid "Costello"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Coterie
+msgctxt ""
+msgid "Coterie"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Counting Coup
+msgctxt ""
+msgid "Counting Coup"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Country Gangrel
+msgctxt ""
+msgid "Country Gangrel"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Court
+msgctxt ""
+msgid "Court"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Coven
+msgctxt ""
+msgid "Coven"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cration Rites
+msgctxt ""
+msgid "Cration Rites"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Criminal Coterie
+msgctxt ""
+msgid "Criminal Coterie"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Crowley
+msgctxt ""
+msgid "Crowley"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cub Scouts
+msgctxt ""
+msgid "Cub Scouts"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Cunctator
+msgctxt ""
+msgid "Cunctator"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Daughters and Sons of Caine
+msgctxt ""
+msgid "Daughters and Sons of Caine"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Deceiver
+msgctxt ""
+msgid "Deceiver"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dementation
+msgctxt ""
+msgid "Dementation"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dessert
+msgctxt ""
+msgid "Dessert"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Destruction
+msgctxt ""
+msgid "Destruction"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Diablerie
+msgctxt ""
+msgid "Diablerie"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Diablerist Coterie
+msgctxt ""
+msgid "Diablerist Coterie"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Diaspora
+msgctxt ""
+msgid "Diaspora"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Did
+msgctxt ""
+msgid "Did"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Discipline
+msgctxt ""
+msgid "Discipline"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Do Over
+msgctxt ""
+msgid "Do Over"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Doctus
+msgctxt ""
+msgid "Doctus"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dog
+msgctxt ""
+msgid "Dog"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Domain
+msgctxt ""
+msgid "Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dominion
+msgctxt ""
+msgid "Dominion"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Domitor
+msgctxt ""
+msgid "Domitor"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Donor
+msgctxt ""
+msgid "Donor"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Doornail
+msgctxt ""
+msgid "Doornail"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ductus
+msgctxt ""
+msgid "Ductus"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Elder
+msgctxt ""
+msgid "Elder"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Elders
+msgctxt ""
+msgid "Elders"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Elysian Fields
+msgctxt ""
+msgid "Elysian Fields"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Elysium
+msgctxt ""
+msgid "Elysium"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Embrace
+msgctxt ""
+msgid "Embrace"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Emissary
+msgctxt ""
+msgid "Emissary"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid En'esh
+msgctxt ""
+msgid "En'esh"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid End
+msgctxt ""
+msgid "End"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Enigma
+msgctxt ""
+msgid "Enigma"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Entertainment Coterie
+msgctxt ""
+msgid "Entertainment Coterie"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Entrepreneurial Coterie
+msgctxt ""
+msgid "Entrepreneurial Coterie"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Esbat
+msgctxt ""
+msgid "Esbat"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Faction
+msgctxt ""
+msgid "Faction"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Faery
+msgctxt ""
+msgid "Faery"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Faith
+msgctxt ""
+msgid "Faith"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Family Reunion
+msgctxt ""
+msgid "Family Reunion"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Famulus
+msgctxt ""
+msgid "Famulus"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Farmer
+msgctxt ""
+msgid "Farmer"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fealty
+msgctxt ""
+msgid "Fealty"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fief
+msgctxt ""
+msgid "Fief"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Final Death
+msgctxt ""
+msgid "Final Death"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Final Nights
+msgctxt ""
+msgid "Final Nights"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fire Dance
+msgctxt ""
+msgid "Fire Dance"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid First Vampire Caine
+msgctxt ""
+msgid "First Vampire Caine"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Five
+msgctxt ""
+msgid "Five"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fledgling
+msgctxt ""
+msgid "Fledgling"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fleshcrafting
+msgctxt ""
+msgid "Fleshcrafting"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fluke
+msgctxt ""
+msgid "Fluke"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Followers of Set
+msgctxt ""
+msgid "Followers of Set"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Footpad
+msgctxt ""
+msgid "Footpad"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fossil
+msgctxt ""
+msgid "Fossil"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Founded Pack
+msgctxt ""
+msgid "Founded Pack"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Founders
+msgctxt ""
+msgid "Founders"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Frenzy
+msgctxt ""
+msgid "Frenzy"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Friends of the Night
+msgctxt ""
+msgid "Friends of the Night"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Futon
+msgctxt ""
+msgid "Futon"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fuzzy
+msgctxt ""
+msgid "Fuzzy"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Gang
+msgctxt ""
+msgid "Gang"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Gangrel
+msgctxt ""
+msgid "Gangrel"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Gear
+msgctxt ""
+msgid "Gear"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Gehenna
+msgctxt ""
+msgid "Gehenna"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Gehenna Crusade
+msgctxt ""
+msgid "Gehenna Crusade"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Gehenna Cult
+msgctxt ""
+msgid "Gehenna Cult"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Gehenna War
+msgctxt ""
+msgid "Gehenna War"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Generation
+msgctxt ""
+msgid "Generation"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Gentry
+msgctxt ""
+msgid "Gentry"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ghost
+msgctxt ""
+msgid "Ghost"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ghoul
+msgctxt ""
+msgid "Ghoul"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Giovanni
+msgctxt ""
+msgid "Giovanni"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Go Down
+msgctxt ""
+msgid "Go Down"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid God
+msgctxt ""
+msgid "God"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Golconda
+msgctxt ""
+msgid "Golconda"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Good Folk
+msgctxt ""
+msgid "Good Folk"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Grandpa
+msgctxt ""
+msgid "Grandpa"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Half-Breed
+msgctxt ""
+msgid "Half-Breed"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hand
+msgctxt ""
+msgid "Hand"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Happy Meal
+msgctxt ""
+msgid "Happy Meal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Haqim
+msgctxt ""
+msgid "Haqim"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Harmonist
+msgctxt ""
+msgid "Harmonist"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Harpy
+msgctxt ""
+msgid "Harpy"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Haven
+msgctxt ""
+msgid "Haven"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Head
+msgctxt ""
+msgid "Head"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Headache
+msgctxt ""
+msgid "Headache"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Headhunter
+msgctxt ""
+msgid "Headhunter"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Heartblood
+msgctxt ""
+msgid "Heartblood"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Heretic
+msgctxt ""
+msgid "Heretic"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Highway Haven
+msgctxt ""
+msgid "Highway Haven"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hijra
+msgctxt ""
+msgid "Hijra"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Homebody
+msgctxt ""
+msgid "Homebody"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hooded Mandarin
+msgctxt ""
+msgid "Hooded Mandarin"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Horseman
+msgctxt ""
+msgid "Horseman"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hulul
+msgctxt ""
+msgid "Hulul"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Human
+msgctxt ""
+msgid "Human"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Humanitas
+msgctxt ""
+msgid "Humanitas"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Humanity
+msgctxt ""
+msgid "Humanity"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Hunter
+msgctxt ""
+msgid "Hunter"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Idealist
+msgctxt ""
+msgid "Idealist"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ikhwan
+msgctxt ""
+msgid "Ikhwan"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Immortal
+msgctxt ""
+msgid "Immortal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Inceptor
+msgctxt ""
+msgid "Inceptor"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Inconnu
+msgctxt ""
+msgid "Inconnu"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Infidel
+msgctxt ""
+msgid "Infidel"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Injun
+msgctxt ""
+msgid "Injun"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Inky
+msgctxt ""
+msgid "Inky"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Inner Circle
+msgctxt ""
+msgid "Inner Circle"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Inquisitor
+msgctxt ""
+msgid "Inquisitor"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Intelligence Coterie
+msgctxt ""
+msgid "Intelligence Coterie"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Jihad
+msgctxt ""
+msgid "Jihad"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid John Law
+msgctxt ""
+msgid "John Law"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Juice
+msgctxt ""
+msgid "Juice"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Juicebag
+msgctxt ""
+msgid "Juicebag"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Jus Noctis
+msgctxt ""
+msgid "Jus Noctis"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Justicar
+msgctxt ""
+msgid "Justicar"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Jyhad
+msgctxt ""
+msgid "Jyhad"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Kadd
+msgctxt ""
+msgid "Kadd"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Kafir
+msgctxt ""
+msgid "Kafir"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Kamut
+msgctxt ""
+msgid "Kamut"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Keeper of Elysium
+msgctxt ""
+msgid "Keeper of Elysium"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Keg
+msgctxt ""
+msgid "Keg"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Khabar
+msgctxt ""
+msgid "Khabar"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Kindred
+msgctxt ""
+msgid "Kindred"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Kine
+msgctxt ""
+msgid "Kine"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Kiss
+msgctxt ""
+msgid "Kiss"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Kuei-jin
+msgctxt ""
+msgid "Kuei-jin"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Labyrinth
+msgctxt ""
+msgid "Labyrinth"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lacheur
+msgctxt ""
+msgid "Lacheur"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Laid
+msgctxt ""
+msgid "Laid"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lasombra
+msgctxt ""
+msgid "Lasombra"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Leech
+msgctxt ""
+msgid "Leech"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Leftovers
+msgctxt ""
+msgid "Leftovers"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lextalionis
+msgctxt ""
+msgid "Lextalionis"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lick
+msgctxt ""
+msgid "Lick"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lick
+msgctxt ""
+msgid "Lick"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lineage
+msgctxt ""
+msgid "Lineage"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Loyalist
+msgctxt ""
+msgid "Loyalist"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lunch
+msgctxt ""
+msgid "Lunch"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lupine
+msgctxt ""
+msgid "Lupine"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lupine Alley
+msgctxt ""
+msgid "Lupine Alley"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lush
+msgctxt ""
+msgid "Lush"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mage
+msgctxt ""
+msgid "Mage"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Malkavian
+msgctxt ""
+msgid "Malkavian"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Malkavian Madness Network
+msgctxt ""
+msgid "Malkavian Madness Network"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Malkavians
+msgctxt ""
+msgid "Malkavians"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Manse
+msgctxt ""
+msgid "Manse"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Masquerade
+msgctxt ""
+msgid "Masquerade"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Methuselah
+msgctxt ""
+msgid "Methuselah"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Methuselahs
+msgctxt ""
+msgid "Methuselahs"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Monomacy
+msgctxt ""
+msgid "Monomacy"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Monster
+msgctxt ""
+msgid "Monster"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mortal
+msgctxt ""
+msgid "Mortal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Munafiqun
+msgctxt ""
+msgid "Munafiqun"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Munchies
+msgctxt ""
+msgid "Munchies"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Muruwa
+msgctxt ""
+msgid "Muruwa"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Mustajib
+msgctxt ""
+msgid "Mustajib"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Necronomist
+msgctxt ""
+msgid "Necronomist"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Nemesis
+msgctxt ""
+msgid "Nemesis"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Neonate
+msgctxt ""
+msgid "Neonate"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Newcomers
+msgctxt ""
+msgid "Newcomers"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Nibs
+msgctxt ""
+msgid "Nibs"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Noddism
+msgctxt ""
+msgid "Noddism"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Noddist
+msgctxt ""
+msgid "Noddist"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Nomad
+msgctxt ""
+msgid "Nomad"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Nomadic Pack
+msgctxt ""
+msgid "Nomadic Pack"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Nosferatu
+msgctxt ""
+msgid "Nosferatu"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Nosferatu Kingdom
+msgctxt ""
+msgid "Nosferatu Kingdom"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Obtenebration
+msgctxt ""
+msgid "Obtenebration"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Oops
+msgctxt ""
+msgid "Oops"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ordeal
+msgctxt ""
+msgid "Ordeal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Osiris
+msgctxt ""
+msgid "Osiris"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Outlander Gangrel
+msgctxt ""
+msgid "Outlander Gangrel"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Pack
+msgctxt ""
+msgid "Pack"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Paladin
+msgctxt ""
+msgid "Paladin"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Pale Rider
+msgctxt ""
+msgid "Pale Rider"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Pander
+msgctxt ""
+msgid "Pander"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Papillon
+msgctxt ""
+msgid "Papillon"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Path of Blood
+msgctxt ""
+msgid "Path of Blood"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Path of Enlightenment
+msgctxt ""
+msgid "Path of Enlightenment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Patriot
+msgctxt ""
+msgid "Patriot"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Pax
+msgctxt ""
+msgid "Pax"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Perv
+msgctxt ""
+msgid "Perv"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Pioneers
+msgctxt ""
+msgid "Pioneers"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Piper
+msgctxt ""
+msgid "Piper"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Praxis
+msgctxt ""
+msgid "Praxis"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Prefrosh
+msgctxt ""
+msgid "Prefrosh"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Priest
+msgctxt ""
+msgid "Priest"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Primogen
+msgctxt ""
+msgid "Primogen"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Prince
+msgctxt ""
+msgid "Prince"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Princeling
+msgctxt ""
+msgid "Princeling"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Prior
+msgctxt ""
+msgid "Prior"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Priscus
+msgctxt ""
+msgid "Priscus"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Prize
+msgctxt ""
+msgid "Prize"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Progeny
+msgctxt ""
+msgid "Progeny"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Promethean
+msgctxt ""
+msgid "Promethean"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Prometheus
+msgctxt ""
+msgid "Prometheus"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Pueri
+msgctxt ""
+msgid "Pueri"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Pyramid
+msgctxt ""
+msgid "Pyramid"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Questing Coterie
+msgctxt ""
+msgid "Questing Coterie"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Rafiq
+msgctxt ""
+msgid "Rafiq"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Rake
+msgctxt ""
+msgid "Rake"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Rant
+msgctxt ""
+msgid "Rant"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Rastacouere
+msgctxt ""
+msgid "Rastacouere"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ravnos
+msgctxt ""
+msgid "Ravnos"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Reckoning
+msgctxt ""
+msgid "Reckoning"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Recruit
+msgctxt ""
+msgid "Recruit"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Red List
+msgctxt ""
+msgid "Red List"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Reeve
+msgctxt ""
+msgid "Reeve"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Regent
+msgctxt ""
+msgid "Regent"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Regnant
+msgctxt ""
+msgid "Regnant"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Remover
+msgctxt ""
+msgid "Remover"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Renfield
+msgctxt ""
+msgid "Renfield"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Retainers
+msgctxt ""
+msgid "Retainers"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Revenant
+msgctxt ""
+msgid "Revenant"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Rogue
+msgctxt ""
+msgid "Rogue"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Rules of Monomacy
+msgctxt ""
+msgid "Rules of Monomacy"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sabbat
+msgctxt ""
+msgid "Sabbat"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sabbat Pack
+msgctxt ""
+msgid "Sabbat Pack"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sabbot
+msgctxt ""
+msgid "Sabbot"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sand Castle
+msgctxt ""
+msgid "Sand Castle"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sandman
+msgctxt ""
+msgid "Sandman"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Saraph
+msgctxt ""
+msgid "Saraph"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid SchreckNet
+msgctxt ""
+msgid "SchreckNet"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Scourge
+msgctxt ""
+msgid "Scourge"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Scout
+msgctxt ""
+msgid "Scout"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Scoutmaster
+msgctxt ""
+msgid "Scoutmaster"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Scribe
+msgctxt ""
+msgid "Scribe"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Second
+msgctxt ""
+msgid "Second"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sect
+msgctxt ""
+msgid "Sect"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Seer
+msgctxt ""
+msgid "Seer"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Seneschal
+msgctxt ""
+msgid "Seneschal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Setites
+msgctxt ""
+msgid "Setites"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shahid
+msgctxt ""
+msgid "Shahid"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shakar
+msgctxt ""
+msgid "Shakar"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sheriff
+msgctxt ""
+msgid "Sheriff"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Shovelhead
+msgctxt ""
+msgid "Shovelhead"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Siege
+msgctxt ""
+msgid "Siege"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sire
+msgctxt ""
+msgid "Sire"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Siren
+msgctxt ""
+msgid "Siren"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Slave
+msgctxt ""
+msgid "Slave"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Slummer
+msgctxt ""
+msgid "Slummer"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Slumming
+msgctxt ""
+msgid "Slumming"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Snap
+msgctxt ""
+msgid "Snap"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Social Coterie
+msgctxt ""
+msgid "Social Coterie"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Society of Leopold
+msgctxt ""
+msgid "Society of Leopold"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Somnus
+msgctxt ""
+msgid "Somnus"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spawning Pools
+msgctxt ""
+msgid "Spawning Pools"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Stalker
+msgctxt ""
+msgid "Stalker"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Suspire
+msgctxt ""
+msgid "Suspire"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sweeper
+msgctxt ""
+msgid "Sweeper"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Sword of Caine
+msgctxt ""
+msgid "Sword of Caine"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Tease
+msgctxt ""
+msgid "Tease"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Templar
+msgctxt ""
+msgid "Templar"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Tentacle
+msgctxt ""
+msgid "Tentacle"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Anarch Movement
+msgctxt ""
+msgid "The Anarch Movement"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Barrens
+msgctxt ""
+msgid "The Barrens"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Beast
+msgctxt ""
+msgid "The Beast"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Beckoning
+msgctxt ""
+msgid "The Beckoning"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Becoming
+msgctxt ""
+msgid "The Becoming"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Blach Hand
+msgctxt ""
+msgid "The Blach Hand"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Blood Hunt
+msgctxt ""
+msgid "The Blood Hunt"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Blood Oath
+msgctxt ""
+msgid "The Blood Oath"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Camarilla
+msgctxt ""
+msgid "The Camarilla"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Change
+msgctxt ""
+msgid "The Change"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Curse
+msgctxt ""
+msgid "The Curse"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Damned
+msgctxt ""
+msgid "The Damned"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Eagle's Nest
+msgctxt ""
+msgid "The Eagle's Nest"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Embrace
+msgctxt ""
+msgid "The Embrace"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Fall
+msgctxt ""
+msgid "The Fall"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Fifth Tradition: Hospitality
+msgctxt ""
+msgid "The Fifth Tradition: Hospitality"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The First Tradition: The Masquerade
+msgctxt ""
+msgid "The First Tradition: The Masquerade"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Forth Tradition: The Accounting
+msgctxt ""
+msgid "The Forth Tradition: The Accounting"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Great Jyhad
+msgctxt ""
+msgid "The Great Jyhad"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Harpies
+msgctxt ""
+msgid "The Harpies"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Hunger
+msgctxt ""
+msgid "The Hunger"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Inconnu
+msgctxt ""
+msgid "The Inconnu"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Inconquered
+msgctxt ""
+msgid "The Inconquered"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Jyhad
+msgctxt ""
+msgid "The Jyhad"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Keeper of Elysium
+msgctxt ""
+msgid "The Keeper of Elysium"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Kiss
+msgctxt ""
+msgid "The Kiss"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Lextalionis
+msgctxt ""
+msgid "The Lextalionis"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Life
+msgctxt ""
+msgid "The Life"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Man
+msgctxt ""
+msgid "The Man"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Masquerade
+msgctxt ""
+msgid "The Masquerade"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Old Man of the Mountain
+msgctxt ""
+msgid "The Old Man of the Mountain"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The One
+msgctxt ""
+msgid "The One"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Primogen
+msgctxt ""
+msgid "The Primogen"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Promise of 1528
+msgctxt ""
+msgid "The Promise of 1528"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Rack
+msgctxt ""
+msgid "The Rack"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Return
+msgctxt ""
+msgid "The Return"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Riddle
+msgctxt ""
+msgid "The Riddle"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Scourge
+msgctxt ""
+msgid "The Scourge"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Second Tradition: The Domain
+msgctxt ""
+msgid "The Second Tradition: The Domain"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Seneschal
+msgctxt ""
+msgid "The Seneschal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Sixth Tradition: Destruction
+msgctxt ""
+msgid "The Sixth Tradition: Destruction"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Storyteller
+msgctxt ""
+msgid "The Storyteller"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Third Mortal
+msgctxt ""
+msgid "The Third Mortal"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Third Tradition: The Progeny
+msgctxt ""
+msgid "The Third Tradition: The Progeny"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The War of Ages
+msgctxt ""
+msgid "The War of Ages"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid The Whip
+msgctxt ""
+msgid "The Whip"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Thin Bloods
+msgctxt ""
+msgid "Thin Bloods"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Thrall
+msgctxt ""
+msgid "Thrall"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Time of Thin Blood
+msgctxt ""
+msgid "Time of Thin Blood"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Tongue
+msgctxt ""
+msgid "Tongue"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Toreador
+msgctxt ""
+msgid "Toreador"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Torpor
+msgctxt ""
+msgid "Torpor"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Tradition
+msgctxt ""
+msgid "Tradition"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Traditions of Caine
+msgctxt ""
+msgid "Traditions of Caine"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Treaty of Tyre
+msgctxt ""
+msgid "Treaty of Tyre"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Tremere
+msgctxt ""
+msgid "Tremere"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid True Sabbat
+msgctxt ""
+msgid "True Sabbat"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Turf
+msgctxt ""
+msgid "Turf"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Tzimisce
+msgctxt ""
+msgid "Tzimisce"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Umma
+msgctxt ""
+msgid "Umma"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Unbound
+msgctxt ""
+msgid "Unbound"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Unifier
+msgctxt ""
+msgid "Unifier"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Unseen
+msgctxt ""
+msgid "Unseen"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Vampire
+msgctxt ""
+msgid "Vampire"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Vampire's Kiss
+msgctxt ""
+msgid "Vampire's Kiss"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Vaulderie
+msgctxt ""
+msgid "Vaulderie"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Vector
+msgctxt ""
+msgid "Vector"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Vegetary
+msgctxt ""
+msgid "Vegetary"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Ventrue
+msgctxt ""
+msgid "Ventrue"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Vessel
+msgctxt ""
+msgid "Vessel"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Visculum
+msgctxt ""
+msgid "Visculum"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Vitae
+msgctxt ""
+msgid "Vitae"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Vizier
+msgctxt ""
+msgid "Vizier"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Voicissitude
+msgctxt ""
+msgid "Voicissitude"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Voivode
+msgctxt ""
+msgid "Voivode"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid War Party
+msgctxt ""
+msgid "War Party"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wassail
+msgctxt ""
+msgid "Wassail"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Watch
+msgctxt ""
+msgid "Watch"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Watch Commander
+msgctxt ""
+msgid "Watch Commander"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Watchtower
+msgctxt ""
+msgid "Watchtower"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Werewolf
+msgctxt ""
+msgid "Werewolf"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Whelp
+msgctxt ""
+msgid "Whelp"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Whig
+msgctxt ""
+msgid "Whig"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wight
+msgctxt ""
+msgid "Wight"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wild Hunt
+msgctxt ""
+msgid "Wild Hunt"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Winnowing
+msgctxt ""
+msgid "Winnowing"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Witch
+msgctxt ""
+msgid "Witch"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Witch-Hunter
+msgctxt ""
+msgid "Witch-Hunter"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Wolfie
+msgctxt ""
+msgid "Wolfie"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid World of Darkness
+msgctxt ""
+msgid "World of Darkness"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Zulo Form
+msgctxt ""
+msgid "Zulo Form"
 msgstr ""
 

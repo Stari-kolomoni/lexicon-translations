@@ -11,829 +11,829 @@ msgstr ""
 
 # 
 #: 
-msgctxt Damage Type
-msgid Acid Damage
+msgctxt "Damage Type"
+msgid "Acid Damage"
 msgstr ""
 
 # The main thing player does on their turn in combat.
 #: 
-msgctxt Game Mechanic
-msgid Action
+msgctxt "Game Mechanic"
+msgid "Action"
 msgstr ""
 
 # 
 #: 
-msgctxt Item
-msgid Ammunition
+msgctxt "Item"
+msgid "Ammunition"
 msgstr ""
 
 # 
 #: 
-msgctxt Item
-msgid Arrow
+msgctxt "Item"
+msgid "Arrow"
 msgstr ""
 
 # 
 #: 
-msgctxt Action
-msgid Attack
+msgctxt "Action"
+msgid "Attack"
 msgstr ""
 
 # Attack roll determines whether the Attack hits or misses.
 #: 
-msgctxt Game Mechanic
-msgid Attack Roll
+msgctxt "Game Mechanic"
+msgid "Attack Roll"
 msgstr ""
 
 # A blinded creature can't see and automatically fails any ability check that requires sight.
 #: 
-msgctxt Condition
-msgid Blinded
+msgctxt "Condition"
+msgid "Blinded"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Blowgun
+msgctxt "Weapon"
+msgid "Blowgun"
 msgstr ""
 
 # Caused by blunt force impacts or attacks – hammers, falling from a great height, constriction, and so on.
 #: 
-msgctxt Damage Type
-msgid Bludgeoning Damage
+msgctxt "Damage Type"
+msgid "Bludgeoning Damage"
 msgstr ""
 
 # 
 #: 
-msgctxt Item
-msgid Bolt
+msgctxt "Item"
+msgid "Bolt"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Breast Plate
+msgctxt "Armor"
+msgid "Breast Plate"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Chain Mail
+msgctxt "Armor"
+msgid "Chain Mail"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Chain Shirt
+msgctxt "Armor"
+msgid "Chain Shirt"
 msgstr ""
 
 # A charmed creature can't Attack the charmer or target the charmer with harmful Abilities or magical Effects.
 #: 
-msgctxt Condition
-msgid Charmed
+msgctxt "Condition"
+msgid "Charmed"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Club
+msgctxt "Weapon"
+msgid "Club"
 msgstr ""
 
 # Cold damage comes from sources of extremely low temperatures.
 #: 
-msgctxt Damage Type
-msgid Cold Damage
+msgctxt "Damage Type"
+msgid "Cold Damage"
 msgstr ""
 
 # Alters a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect.
 #: 
-msgctxt Game Mechanic
-msgid Condition
+msgctxt "Game Mechanic"
+msgid "Condition"
 msgstr ""
 
 # Opponents roll dice - the participant with the higher result wins.
 #: 
-msgctxt Game Mechanic
-msgid Contest
+msgctxt "Game Mechanic"
+msgid "Contest"
 msgstr ""
 
 # 
 #: 
-msgctxt Game Mechanic
-msgid Crawling
+msgctxt "Game Mechanic"
+msgid "Crawling"
 msgstr ""
 
 # Critical hits in DnD 5e happen when you roll a natural 20 on a d20.
 #: 
-msgctxt Game Mechanic
-msgid Critical Hit
+msgctxt "Game Mechanic"
+msgid "Critical Hit"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Crossbow
+msgctxt "Weapon"
+msgid "Crossbow"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Dagger
+msgctxt "Weapon"
+msgid "Dagger"
 msgstr ""
 
 # Damage is a numeric value which causes harm to a character, creature or object by reducing their hit point total.
 #: 
-msgctxt Game Mechanic
-msgid Damage
+msgctxt "Game Mechanic"
+msgid "Damage"
 msgstr ""
 
 # Resistance to a damage type means that you take half damage when you're hit with damage of that type.
 #: 
-msgctxt Game Mechanic
-msgid Damage Resistance
+msgctxt "Game Mechanic"
+msgid "Damage Resistance"
 msgstr ""
 
 # 
 #: 
-msgctxt Game Mechanic
-msgid Damage Type
+msgctxt "Game Mechanic"
+msgid "Damage Type"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Dart
+msgctxt "Weapon"
+msgid "Dart"
 msgstr ""
 
 # Extra movement for the current turn.
 #: 
-msgctxt Action
-msgid Dash
+msgctxt "Action"
+msgid "Dash"
 msgstr ""
 
 # A deafened creature can't hear and automatically fails any ability check that requires hearing.
 #: 
-msgctxt Condition
-msgid Deafened
+msgctxt "Condition"
+msgid "Deafened"
 msgstr ""
 
 # By taking this action, a creature acts defensively as they move, preventing enemies from delivering any sudden strikes as the defender moves away from their foe.
 #: 
-msgctxt Action
-msgid Disengage
+msgctxt "Action"
+msgid "Disengage"
 msgstr ""
 
 # Player dismounts from a creature during their turn in combat.
 #: 
-msgctxt Action
-msgid Dismounting
+msgctxt "Action"
+msgid "Dismounting"
 msgstr ""
 
 # You focus entirely on avoiding attacks.
 #: 
-msgctxt Action
-msgid Dodge
+msgctxt "Action"
+msgid "Dodge"
 msgstr ""
 
 # Getting out of the armor.
 #: 
-msgctxt Armor
-msgid Doff
+msgctxt "Armor"
+msgid "Doff"
 msgstr ""
 
 # Getting into the armor.
 #: 
-msgctxt Armor
-msgid Don
+msgctxt "Armor"
+msgid "Don"
 msgstr ""
 
 # Caused by special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures.
 #: 
-msgctxt Condition
-msgid Exhausted
+msgctxt "Condition"
+msgid "Exhausted"
 msgstr ""
 
 # Allows you to use your Dexterity modifier instead of Strength to determine the attack and damage bonuses.
 #: 
-msgctxt Weapon
-msgid Finesse
+msgctxt "Weapon"
+msgid "Finesse"
 msgstr ""
 
 # It covers damage done to and by creatures and objects through the use of extreme heat.
 #: 
-msgctxt Damage Type
-msgid Fire Damage
+msgctxt "Damage Type"
+msgid "Fire Damage"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Flail
+msgctxt "Weapon"
+msgid "Flail"
 msgstr ""
 
 # Pure magical energy channeled into a harmful form (mostly reserved for spells).
 #: 
-msgctxt Damage Type
-msgid Force Damage
+msgctxt "Damage Type"
+msgid "Force Damage"
 msgstr ""
 
 # 
 #: 
-msgctxt Condition
-msgid Frightened
+msgctxt "Condition"
+msgid "Frightened"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Glaive
+msgctxt "Weapon"
+msgid "Glaive"
 msgstr ""
 
 # As the result of special melee action - creature is held in place.
 #: 
-msgctxt Condition
-msgid Grappled
+msgctxt "Condition"
+msgid "Grappled"
 msgstr ""
 
 # Action where you want to grab a creature or wrestle with it.
 #: 
-msgctxt Action
-msgid Grappling
+msgctxt "Action"
+msgid "Grappling"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Greatclub
+msgctxt "Weapon"
+msgid "Greatclub"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Halberd
+msgctxt "Weapon"
+msgid "Halberd"
 msgstr ""
 
 # A target has half cover if an obstacle blocks at least half of its body.
 #: 
-msgctxt Game Mechanic
-msgid Half Cover
+msgctxt "Game Mechanic"
+msgid "Half Cover"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Half Plate
+msgctxt "Armor"
+msgid "Half Plate"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Handaxe
+msgctxt "Weapon"
+msgid "Handaxe"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Heavy Weapon
+msgctxt "Weapon"
+msgid "Heavy Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Heavy Armor
+msgctxt "Armor"
+msgid "Heavy Armor"
 msgstr ""
 
 # For aiding allies both in and out of combat.
 #: 
-msgctxt Action
-msgid Help
+msgctxt "Action"
+msgid "Help"
 msgstr ""
 
 # To become unseen by other creatures.
 #: 
-msgctxt Action
-msgid Hide
+msgctxt "Action"
+msgid "Hide"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Hide
+msgctxt "Armor"
+msgid "Hide"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Improvised Weapon
+msgctxt "Weapon"
+msgid "Improvised Weapon"
 msgstr ""
 
 # An incapacitated creature can't take actions or reactions.
 #: 
-msgctxt Condition
-msgid Incapacitated
+msgctxt "Condition"
+msgid "Incapacitated"
 msgstr ""
 
 # An invisible creature is impossible to see without the aid of magic or a special sense.
 #: 
-msgctxt Condition
-msgid Invisible
+msgctxt "Condition"
+msgid "Invisible"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Javelin
+msgctxt "Weapon"
+msgid "Javelin"
 msgstr ""
 
 # 
 #: 
-msgctxt Game Mechanic
-msgid Ki Save DC
+msgctxt "Game Mechanic"
+msgid "Ki Save DC"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Lance
+msgctxt "Weapon"
+msgid "Lance"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Leather Armor
+msgctxt "Armor"
+msgid "Leather Armor"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Light Weapon
+msgctxt "Weapon"
+msgid "Light Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Light Armor
+msgctxt "Armor"
+msgid "Light Armor"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Light Hammer
+msgctxt "Weapon"
+msgid "Light Hammer"
 msgstr ""
 
 # Represents electrical damage caused by dangerous currents of electricity.
 #: 
-msgctxt Damage Type
-msgid Lightning Damage
+msgctxt "Damage Type"
+msgid "Lightning Damage"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Loading Weapon
+msgctxt "Weapon"
+msgid "Loading Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Longbow
+msgctxt "Weapon"
+msgid "Longbow"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Longsword
+msgctxt "Weapon"
+msgid "Longsword"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Mace
+msgctxt "Weapon"
+msgid "Mace"
 msgstr ""
 
 # 
 #: 
-msgctxt Game Mechanic
-msgid Maneuver Save DC
+msgctxt "Game Mechanic"
+msgid "Maneuver Save DC"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Martial Weapon
+msgctxt "Weapon"
+msgid "Martial Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Maul
+msgctxt "Weapon"
+msgid "Maul"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Medium Armor
+msgctxt "Armor"
+msgid "Medium Armor"
 msgstr ""
 
 # Typically uses a handheld weapon such as a sword, a Warhammer, or an axe.
 #: 
-msgctxt Game Mechanic
-msgid Melee Combat
+msgctxt "Game Mechanic"
+msgid "Melee Combat"
 msgstr ""
 
 # A melee weapon is used to Attack a target within 5 feet of you.
 #: 
-msgctxt Weapon
-msgid Melee Weapon
+msgctxt "Weapon"
+msgid "Melee Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Morningstar
+msgctxt "Weapon"
+msgid "Morningstar"
 msgstr ""
 
 # In combat while mounted on creature.
 #: 
-msgctxt Game Mechanic
-msgid Mounted Combat
+msgctxt "Game Mechanic"
+msgid "Mounted Combat"
 msgstr ""
 
 # A type of damage focused on decay and death.
 #: 
-msgctxt Damage Type
-msgid Necrotic Damage
+msgctxt "Damage Type"
+msgid "Necrotic Damage"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Net
+msgctxt "Weapon"
+msgid "Net"
 msgstr ""
 
 # A creature provokes an opportunity attack when they move out of an enemy's reach.
 #: 
-msgctxt Game Mechanic
-msgid Opportunity Attack
+msgctxt "Game Mechanic"
+msgid "Opportunity Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Padded Armor
+msgctxt "Armor"
+msgid "Padded Armor"
 msgstr ""
 
 # A paralyzed creature is incapacitated and can't move or speak.
 #: 
-msgctxt Condition
-msgid Paralyzed
+msgctxt "Condition"
+msgid "Paralyzed"
 msgstr ""
 
 # A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance.
 #: 
-msgctxt Condition
-msgid Petrified
+msgctxt "Condition"
+msgid "Petrified"
 msgstr ""
 
 # Puncturing and impaling attacks, including spears and monsters' bites, deal piercing damage.
 #: 
-msgctxt Damage Type
-msgid Piercing Damage
+msgctxt "Damage Type"
+msgid "Piercing Damage"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Pike
+msgctxt "Weapon"
+msgid "Pike"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Plate
+msgctxt "Armor"
+msgid "Plate"
 msgstr ""
 
 # 
 #: 
-msgctxt Damage Type
-msgid Poison Damage
+msgctxt "Damage Type"
+msgid "Poison Damage"
 msgstr ""
 
 # 
 #: 
-msgctxt Condition
-msgid Poisoned
+msgctxt "Condition"
+msgid "Poisoned"
 msgstr ""
 
 # A prone creature's only Movement option is to crawl, unless it stands up and thereby ends the condition.
 #: 
-msgctxt Condition
-msgid Prone
+msgctxt "Condition"
+msgid "Prone"
 msgstr ""
 
 # 
 #: 
-msgctxt Game Mechanic
-msgid Prone (drop prone)
+msgctxt "Game Mechanic"
+msgid "Prone (drop prone)"
 msgstr ""
 
 # Psychic damage is harnessed mental energy used to harm others.
 #: 
-msgctxt Damage Type
-msgid Psychic Damage
+msgctxt "Damage Type"
+msgid "Psychic Damage"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Quarterstaff
+msgctxt "Weapon"
+msgid "Quarterstaff"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Quiver
+msgctxt "Weapon"
+msgid "Quiver"
 msgstr ""
 
 # Radiant damage typically is damage dealt from a direct burst of light.
 #: 
-msgctxt Damage Type
-msgid Radiant Damage
+msgctxt "Damage Type"
+msgid "Radiant Damage"
 msgstr ""
 
 # Weapon's range.
 #: 
-msgctxt Weapon
-msgid Range
+msgctxt "Weapon"
+msgid "Range"
 msgstr ""
 
 # When you make a ranged Attack, you fire a bow or a crossbow, hurl a Handaxe, or otherwise send projectiles to strike a foe at a distance.
 #: 
-msgctxt Game Mechanic
-msgid Ranged Attack
+msgctxt "Game Mechanic"
+msgid "Ranged Attack"
 msgstr ""
 
 # Wapon for ranged Attack.
 #: 
-msgctxt Weapon
-msgid Ranged Weapon
+msgctxt "Weapon"
+msgid "Ranged Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Rapier
+msgctxt "Weapon"
+msgid "Rapier"
 msgstr ""
 
 # Reach of the weapon.
 #: 
-msgctxt Weapon
-msgid Reach
+msgctxt "Weapon"
+msgid "Reach"
 msgstr ""
 
 # Reaction is an instant response to a trigger of some kind.
 #: 
-msgctxt Action
-msgid Reaction
+msgctxt "Action"
+msgid "Reaction"
 msgstr ""
 
 # Ready Action is a tactical option that lets you take an action as soon as a specified event occurs.
 #: 
-msgctxt Action
-msgid Ready
+msgctxt "Action"
+msgid "Ready"
 msgstr ""
 
 # 
 #: 
-msgctxt Condition
-msgid Restrained
+msgctxt "Condition"
+msgid "Restrained"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Ring Mail
+msgctxt "Armor"
+msgid "Ring Mail"
 msgstr ""
 
 # Combat is divided into rounds. A round consists of each combatant taking one turn.
 #: 
-msgctxt 
-msgid Round
+msgctxt ""
+msgid "Round"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Scale Mail
+msgctxt "Armor"
+msgid "Scale Mail"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Scimitar
+msgctxt "Weapon"
+msgid "Scimitar"
 msgstr ""
 
 # When you take the Search Action, you devote your attention to finding something.
 #: 
-msgctxt Action
-msgid Search
+msgctxt "Action"
+msgid "Search"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Shield
+msgctxt "Armor"
+msgid "Shield"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Shortsword
+msgctxt "Weapon"
+msgid "Shortsword"
 msgstr ""
 
 # Using the Attack Action, you can make a Special melee Attack to shove a creature.
 #: 
-msgctxt Action
-msgid Shoving
+msgctxt "Action"
+msgid "Shoving"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Sickle
+msgctxt "Weapon"
+msgid "Sickle"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Silvered Weapon
+msgctxt "Weapon"
+msgid "Silvered Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Simple Weapon
+msgctxt "Weapon"
+msgid "Simple Weapon"
 msgstr ""
 
 # Slashing Damage happens as the result of a cut with a sharp edge, like a sword, axe, monster's claws, or scythe.
 #: 
-msgctxt Damage Type
-msgid Slashing Damage
+msgctxt "Damage Type"
+msgid "Slashing Damage"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Sling
+msgctxt "Weapon"
+msgid "Sling"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Spear
+msgctxt "Weapon"
+msgid "Spear"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Special Weapon
+msgctxt "Weapon"
+msgid "Special Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Splint
+msgctxt "Armor"
+msgid "Splint"
 msgstr ""
 
 # A character who was dying but who has stopped losing hit points and still has negative hit points is stable.
 #: 
-msgctxt Game Mechanic
-msgid Stable
+msgctxt "Game Mechanic"
+msgid "Stable"
 msgstr ""
 
 # For example, getting up from being prone.
 #: 
-msgctxt Action
-msgid Standing up
+msgctxt "Action"
+msgid "Standing up"
 msgstr ""
 
 # 
 #: 
-msgctxt Armor
-msgid Studded Leather
+msgctxt "Armor"
+msgid "Studded Leather"
 msgstr ""
 
 # A stunned creature is incapacitated, can't move, and can speak only falteringly.
 #: 
-msgctxt Condition
-msgid Stunned
+msgctxt "Condition"
+msgid "Stunned"
 msgstr ""
 
 # Any character or monster that doesn't notice a threat is surprised at the start of the encounter.
 #: 
-msgctxt Game Mechanic
-msgid Surprise
+msgctxt "Game Mechanic"
+msgid "Surprise"
 msgstr ""
 
 # A target has three-quarters cover if about three-quarters of it is covered by an obstacle.
 #: 
-msgctxt Game Mechanic
-msgid Three-Quarters Cover
+msgctxt "Game Mechanic"
+msgid "Three-Quarters Cover"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Thrown Weapon
+msgctxt "Weapon"
+msgid "Thrown Weapon"
 msgstr ""
 
 # Damage that comes from a shockwave (i.e. explosion shock wave).
 #: 
-msgctxt Damage Type
-msgid Thunder Damage
+msgctxt "Damage Type"
+msgid "Thunder Damage"
 msgstr ""
 
 # A target has total cover if it is completely concealed by an obstacle.
 #: 
-msgctxt Game Mechanic
-msgid Total Cover
+msgctxt "Game Mechanic"
+msgid "Total Cover"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Trident
+msgctxt "Weapon"
+msgid "Trident"
 msgstr ""
 
 # During a round, each participant in a battle takes a turn.
 #: 
-msgctxt Game Mechanic
-msgid Turn
+msgctxt "Game Mechanic"
+msgid "Turn"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Two-Handed Weapon
+msgctxt "Weapon"
+msgid "Two-Handed Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Unarmed Strike
+msgctxt "Weapon"
+msgid "Unarmed Strike"
 msgstr ""
 
 # An unconscious creature is incapacitated, can't move or speak, and is unaware of its surroundings.
 #: 
-msgctxt Condition
-msgid Unconscious
+msgctxt "Condition"
+msgid "Unconscious"
 msgstr ""
 
 # When an object requires your action for its use, you take the Use an Object action.
 #: 
-msgctxt Action
-msgid Use an Object
+msgctxt "Action"
+msgid "Use an Object"
 msgstr ""
 
 # This weapon can be used with one or two hands.
 #: 
-msgctxt Weapon
-msgid Versatile Weapon
+msgctxt "Weapon"
+msgid "Versatile Weapon"
 msgstr ""
 
 # If you are vulnerable to a damage type it means you take double damage when hit with it.
 #: 
-msgctxt Game Mechanic
-msgid Vulnerability
+msgctxt "Game Mechanic"
+msgid "Vulnerability"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid War Pick
+msgctxt "Weapon"
+msgid "War Pick"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Warhammer
+msgctxt "Weapon"
+msgid "Warhammer"
 msgstr ""
 
 # 
 #: 
-msgctxt Weapon
-msgid Whip
+msgctxt "Weapon"
+msgid "Whip"
 msgstr ""
 
 # A mystical energy of the body that could be used to fuel various powers by its practitioners.
 #: 
-msgctxt Game Mechanic
-msgid Ki
+msgctxt "Game Mechanic"
+msgid "Ki"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Maneuver
+msgctxt ""
+msgid "Maneuver"
 msgstr ""
 

@@ -11,1435 +11,1435 @@ msgstr ""
 
 # 
 #: 
-msgctxt Currency
-msgid Copper Pieces (CP)
+msgctxt "Currency"
+msgid "Copper Pieces (CP)"
 msgstr ""
 
 # 
 #: 
-msgctxt Currency
-msgid Electrum Pieces (EP)
+msgctxt "Currency"
+msgid "Electrum Pieces (EP)"
 msgstr ""
 
 # 
 #: 
-msgctxt Currency
-msgid Gold Pieces (GP)
+msgctxt "Currency"
+msgid "Gold Pieces (GP)"
 msgstr ""
 
 # 
 #: 
-msgctxt Currency
-msgid Platinum Pieces (PP)
+msgctxt "Currency"
+msgid "Platinum Pieces (PP)"
 msgstr ""
 
 # 
 #: 
-msgctxt Currency
-msgid Silver Pieces (SP)
+msgctxt "Currency"
+msgid "Silver Pieces (SP)"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Arcane Focus
+msgctxt "Equipment"
+msgid "Arcane Focus"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Belaying Pin
+msgctxt "Equipment"
+msgid "Belaying Pin"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Belt Pouch
+msgctxt "Equipment"
+msgid "Belt Pouch"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Bottle of Black Ink
+msgctxt "Equipment"
+msgid "Bottle of Black Ink"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Burglar's Pack
+msgctxt "Equipment"
+msgid "Burglar's Pack"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Component Pouch
+msgctxt "Equipment"
+msgid "Component Pouch"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Crowbar
+msgctxt "Equipment"
+msgid "Crowbar"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Deck of Cards
+msgctxt "Equipment"
+msgid "Deck of Cards"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Deck of Marked Cards
+msgctxt "Equipment"
+msgid "Deck of Marked Cards"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Diplomat's Pack
+msgctxt "Equipment"
+msgid "Diplomat's Pack"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Disguise Kit
+msgctxt "Equipment"
+msgid "Disguise Kit"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Druidic Focus
+msgctxt "Equipment"
+msgid "Druidic Focus"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Dungeoneer's Pack
+msgctxt "Equipment"
+msgid "Dungeoneer's Pack"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Entertainer's Pack
+msgctxt "Equipment"
+msgid "Entertainer's Pack"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Explorer's Pack
+msgctxt "Equipment"
+msgid "Explorer's Pack"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Favor of an Admirer
+msgctxt "Equipment"
+msgid "Favor of an Admirer"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Forgery Kit
+msgctxt "Equipment"
+msgid "Forgery Kit"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Gaming Set
+msgctxt "Equipment"
+msgid "Gaming Set"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Herbalism Kit
+msgctxt "Equipment"
+msgid "Herbalism Kit"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Holy Symbol
+msgctxt "Equipment"
+msgid "Holy Symbol"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Hunting Trap
+msgctxt "Equipment"
+msgid "Hunting Trap"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Incense
+msgctxt "Equipment"
+msgid "Incense"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Insignia of Rank
+msgctxt "Equipment"
+msgid "Insignia of Rank"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Iron Pot
+msgctxt "Equipment"
+msgid "Iron Pot"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Kit (Equipment)
+msgctxt "Equipment"
+msgid "Kit (Equipment)"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Lucky Charm (Rabbit Foot, Trinket)
+msgctxt "Equipment"
+msgid "Lucky Charm (Rabbit Foot, Trinket)"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Lute
+msgctxt "Equipment"
+msgid "Lute"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Navigator's Tools
+msgctxt "Equipment"
+msgid "Navigator's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Prayer Book
+msgctxt "Equipment"
+msgid "Prayer Book"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Prayer Wheel
+msgctxt "Equipment"
+msgid "Prayer Wheel"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Priest's Pack
+msgctxt "Equipment"
+msgid "Priest's Pack"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Quill
+msgctxt "Equipment"
+msgid "Quill"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Scholar's Pack
+msgctxt "Equipment"
+msgid "Scholar's Pack"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Scroll of Pedigree
+msgctxt "Equipment"
+msgid "Scroll of Pedigree"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Set of Bone Dice
+msgctxt "Equipment"
+msgid "Set of Bone Dice"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Set of Common Clothes
+msgctxt "Equipment"
+msgid "Set of Common Clothes"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Set of Traveler's Clothes
+msgctxt "Equipment"
+msgid "Set of Traveler's Clothes"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Set of Weighted Dice
+msgctxt "Equipment"
+msgid "Set of Weighted Dice"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Shovel
+msgctxt "Equipment"
+msgid "Shovel"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Signet Ring
+msgctxt "Equipment"
+msgid "Signet Ring"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Signet Ring of an Imaginary Duke
+msgctxt "Equipment"
+msgid "Signet Ring of an Imaginary Duke"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Silk Rope
+msgctxt "Equipment"
+msgid "Silk Rope"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Small Knife
+msgctxt "Equipment"
+msgid "Small Knife"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Staff
+msgctxt "Equipment"
+msgid "Staff"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Ten Stoppered Bottles
+msgctxt "Equipment"
+msgid "Ten Stoppered Bottles"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Thieves' Tools
+msgctxt "Equipment"
+msgid "Thieves' Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Token
+msgctxt "Equipment"
+msgid "Token"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Tools of the Con
+msgctxt "Equipment"
+msgid "Tools of the Con"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Trophy from an Animal
+msgctxt "Equipment"
+msgid "Trophy from an Animal"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Trophy Taken from a Fallen Enemy
+msgctxt "Equipment"
+msgid "Trophy Taken from a Fallen Enemy"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Vestments
+msgctxt "Equipment"
+msgid "Vestments"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Winter Blanket
+msgctxt "Equipment"
+msgid "Winter Blanket"
 msgstr ""
 
 # 
 #: 
-msgctxt Food, Drink, Lodgings
-msgid Ale
+msgctxt "Food, Drink, Lodgings"
+msgid "Ale"
 msgstr ""
 
 # 
 #: 
-msgctxt Food, Drink, Lodgings
-msgid Banquet
+msgctxt "Food, Drink, Lodgings"
+msgid "Banquet"
 msgstr ""
 
 # 
 #: 
-msgctxt Food, Drink, Lodgings
-msgid Common (pitcher) Wine
+msgctxt "Food, Drink, Lodgings"
+msgid "Common (pitcher) Wine"
 msgstr ""
 
 # 
 #: 
-msgctxt Food, Drink, Lodgings
-msgid Fine (Bottle) Wine
+msgctxt "Food, Drink, Lodgings"
+msgid "Fine (Bottle) Wine"
 msgstr ""
 
 # 
 #: 
-msgctxt Food, Drink, Lodgings
-msgid Gallon
+msgctxt "Food, Drink, Lodgings"
+msgid "Gallon"
 msgstr ""
 
 # 
 #: 
-msgctxt Food, Drink, Lodgings
-msgid Hunk
+msgctxt "Food, Drink, Lodgings"
+msgid "Hunk"
 msgstr ""
 
 # 
 #: 
-msgctxt Food, Drink, Lodgings
-msgid Inn Stay
+msgctxt "Food, Drink, Lodgings"
+msgid "Inn Stay"
 msgstr ""
 
 # 
 #: 
-msgctxt Food, Drink, Lodgings
-msgid Loaf
+msgctxt "Food, Drink, Lodgings"
+msgid "Loaf"
 msgstr ""
 
 # 
 #: 
-msgctxt Food, Drink, Lodgings
-msgid Meals
+msgctxt "Food, Drink, Lodgings"
+msgid "Meals"
 msgstr ""
 
 # 
 #: 
-msgctxt Food, Drink, Lodgings
-msgid Mug
+msgctxt "Food, Drink, Lodgings"
+msgid "Mug"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Abacus
+msgctxt "Gear"
+msgid "Abacus"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Acid
+msgctxt "Gear"
+msgid "Acid"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Aclhemist's fire
+msgctxt "Gear"
+msgid "Aclhemist's fire"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Amulet
+msgctxt "Gear"
+msgid "Amulet"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Antitoxin
+msgctxt "Gear"
+msgid "Antitoxin"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Backpack
+msgctxt "Gear"
+msgid "Backpack"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Ball bearings
+msgctxt "Gear"
+msgid "Ball bearings"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Barrel
+msgctxt "Gear"
+msgid "Barrel"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Basket
+msgctxt "Gear"
+msgid "Basket"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Bedroll
+msgctxt "Gear"
+msgid "Bedroll"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Bell
+msgctxt "Gear"
+msgid "Bell"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Blanket
+msgctxt "Gear"
+msgid "Blanket"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Block and Tackle
+msgctxt "Gear"
+msgid "Block and Tackle"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Blowgun Needles
+msgctxt "Gear"
+msgid "Blowgun Needles"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Book
+msgctxt "Gear"
+msgid "Book"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Bottle, Glass
+msgctxt "Gear"
+msgid "Bottle, Glass"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Bucket
+msgctxt "Gear"
+msgid "Bucket"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Caltrops
+msgctxt "Gear"
+msgid "Caltrops"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Candle
+msgctxt "Gear"
+msgid "Candle"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Case, Crossbow Bolt
+msgctxt "Gear"
+msgid "Case, Crossbow Bolt"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Case, Map or Scroll
+msgctxt "Gear"
+msgid "Case, Map or Scroll"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Chain
+msgctxt "Gear"
+msgid "Chain"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Chalk
+msgctxt "Gear"
+msgid "Chalk"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Chest
+msgctxt "Gear"
+msgid "Chest"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Climber's Kit
+msgctxt "Gear"
+msgid "Climber's Kit"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Clothes, Common
+msgctxt "Gear"
+msgid "Clothes, Common"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Clothes, Costume
+msgctxt "Gear"
+msgid "Clothes, Costume"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Clothes, Fine
+msgctxt "Gear"
+msgid "Clothes, Fine"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Clothes, Traveler's
+msgctxt "Gear"
+msgid "Clothes, Traveler's"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Crystal
+msgctxt "Gear"
+msgid "Crystal"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Emblem
+msgctxt "Gear"
+msgid "Emblem"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Fishing Tackle
+msgctxt "Gear"
+msgid "Fishing Tackle"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Flask or Tankard
+msgctxt "Gear"
+msgid "Flask or Tankard"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Grappling Hook
+msgctxt "Gear"
+msgid "Grappling Hook"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Hammer
+msgctxt "Gear"
+msgid "Hammer"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Hammer, Sledge
+msgctxt "Gear"
+msgid "Hammer, Sledge"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Healer's Kit
+msgctxt "Gear"
+msgid "Healer's Kit"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Holy Water
+msgctxt "Gear"
+msgid "Holy Water"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Hourglass
+msgctxt "Gear"
+msgid "Hourglass"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Hunting Trap
+msgctxt "Gear"
+msgid "Hunting Trap"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Ink
+msgctxt "Gear"
+msgid "Ink"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Ink Pen
+msgctxt "Gear"
+msgid "Ink Pen"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Jug or Pitcher
+msgctxt "Gear"
+msgid "Jug or Pitcher"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Ladder
+msgctxt "Gear"
+msgid "Ladder"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Lamp
+msgctxt "Gear"
+msgid "Lamp"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Lantern, Bullseye
+msgctxt "Gear"
+msgid "Lantern, Bullseye"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Lantern, Hooded
+msgctxt "Gear"
+msgid "Lantern, Hooded"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Lock
+msgctxt "Gear"
+msgid "Lock"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Magnifying Glass
+msgctxt "Gear"
+msgid "Magnifying Glass"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Manacles
+msgctxt "Gear"
+msgid "Manacles"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Mess Kit
+msgctxt "Gear"
+msgid "Mess Kit"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Mirror, Steel
+msgctxt "Gear"
+msgid "Mirror, Steel"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Oil
+msgctxt "Gear"
+msgid "Oil"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Orb
+msgctxt "Gear"
+msgid "Orb"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Paper
+msgctxt "Gear"
+msgid "Paper"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Parchment
+msgctxt "Gear"
+msgid "Parchment"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Parfume
+msgctxt "Gear"
+msgid "Parfume"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Pick, Miner's
+msgctxt "Gear"
+msgid "Pick, Miner's"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Piton
+msgctxt "Gear"
+msgid "Piton"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Poison
+msgctxt "Gear"
+msgid "Poison"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Pole
+msgctxt "Gear"
+msgid "Pole"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Pot, Iron
+msgctxt "Gear"
+msgid "Pot, Iron"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Potion of Healing
+msgctxt "Gear"
+msgid "Potion of Healing"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Pouch
+msgctxt "Gear"
+msgid "Pouch"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Ram, Portable
+msgctxt "Gear"
+msgid "Ram, Portable"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Rations (1 day)
+msgctxt "Gear"
+msgid "Rations (1 day)"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Reliquary
+msgctxt "Gear"
+msgid "Reliquary"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Robes
+msgctxt "Gear"
+msgid "Robes"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Rod
+msgctxt "Gear"
+msgid "Rod"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Rope, Hempen
+msgctxt "Gear"
+msgid "Rope, Hempen"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Rope, Silk
+msgctxt "Gear"
+msgid "Rope, Silk"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Sack
+msgctxt "Gear"
+msgid "Sack"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Scale, Merchant's
+msgctxt "Gear"
+msgid "Scale, Merchant's"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Sealing Wax
+msgctxt "Gear"
+msgid "Sealing Wax"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Shovel
+msgctxt "Gear"
+msgid "Shovel"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Signal Whistle
+msgctxt "Gear"
+msgid "Signal Whistle"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Sling Bullets
+msgctxt "Gear"
+msgid "Sling Bullets"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Soap
+msgctxt "Gear"
+msgid "Soap"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Spikes, Iron
+msgctxt "Gear"
+msgid "Spikes, Iron"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Sprig of Mistletoe
+msgctxt "Gear"
+msgid "Sprig of Mistletoe"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Spyglass
+msgctxt "Gear"
+msgid "Spyglass"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Staff
+msgctxt "Gear"
+msgid "Staff"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Tent, Two-person
+msgctxt "Gear"
+msgid "Tent, Two-person"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Tinderbox
+msgctxt "Gear"
+msgid "Tinderbox"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Torch
+msgctxt "Gear"
+msgid "Torch"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Totem
+msgctxt "Gear"
+msgid "Totem"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Vial
+msgctxt "Gear"
+msgid "Vial"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Wand
+msgctxt "Gear"
+msgid "Wand"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Waterskin
+msgctxt "Gear"
+msgid "Waterskin"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Whetstone
+msgctxt "Gear"
+msgid "Whetstone"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Wooden Staff
+msgctxt "Gear"
+msgid "Wooden Staff"
 msgstr ""
 
 # 
 #: 
-msgctxt Gear
-msgid Yew Wand
+msgctxt "Gear"
+msgid "Yew Wand"
 msgstr ""
 
 # 
 #: 
-msgctxt Lifestyle
-msgid Aristocratic Lifestyle
+msgctxt "Lifestyle"
+msgid "Aristocratic Lifestyle"
 msgstr ""
 
 # 
 #: 
-msgctxt Lifestyle
-msgid Comfortable Lifestyle
+msgctxt "Lifestyle"
+msgid "Comfortable Lifestyle"
 msgstr ""
 
 # 
 #: 
-msgctxt Lifestyle
-msgid Modest Lifestyle
+msgctxt "Lifestyle"
+msgid "Modest Lifestyle"
 msgstr ""
 
 # 
 #: 
-msgctxt Lifestyle
-msgid Poor Lifestyle
+msgctxt "Lifestyle"
+msgid "Poor Lifestyle"
 msgstr ""
 
 # 
 #: 
-msgctxt Lifestyle
-msgid Squalid Lifestyle
+msgctxt "Lifestyle"
+msgid "Squalid Lifestyle"
 msgstr ""
 
 # 
 #: 
-msgctxt Lifestyle
-msgid Wealthy Lifestyle
+msgctxt "Lifestyle"
+msgid "Wealthy Lifestyle"
 msgstr ""
 
 # 
 #: 
-msgctxt Lifestyle
-msgid Wretched Lifestyle
+msgctxt "Lifestyle"
+msgid "Wretched Lifestyle"
 msgstr ""
 
 # Animal armor.
 #: 
-msgctxt Mounts & Vehicles
-msgid Barding
+msgctxt "Mounts & Vehicles"
+msgid "Barding"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Bit and Bridle
+msgctxt "Mounts & Vehicles"
+msgid "Bit and Bridle"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Carriage
+msgctxt "Mounts & Vehicles"
+msgid "Carriage"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Cart
+msgctxt "Mounts & Vehicles"
+msgid "Cart"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Chariot
+msgctxt "Mounts & Vehicles"
+msgid "Chariot"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Exotic Saddle
+msgctxt "Mounts & Vehicles"
+msgid "Exotic Saddle"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Feed
+msgctxt "Mounts & Vehicles"
+msgid "Feed"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Galley
+msgctxt "Mounts & Vehicles"
+msgid "Galley"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Keelboat
+msgctxt "Mounts & Vehicles"
+msgid "Keelboat"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Longship
+msgctxt "Mounts & Vehicles"
+msgid "Longship"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Mastiff
+msgctxt "Mounts & Vehicles"
+msgid "Mastiff"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Military Saddle
+msgctxt "Mounts & Vehicles"
+msgid "Military Saddle"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Pack Saddle
+msgctxt "Mounts & Vehicles"
+msgid "Pack Saddle"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Riding Saddle
+msgctxt "Mounts & Vehicles"
+msgid "Riding Saddle"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Rowboat
+msgctxt "Mounts & Vehicles"
+msgid "Rowboat"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Rowed Vessel
+msgctxt "Mounts & Vehicles"
+msgid "Rowed Vessel"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Saddle
+msgctxt "Mounts & Vehicles"
+msgid "Saddle"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Saddlebags
+msgctxt "Mounts & Vehicles"
+msgid "Saddlebags"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Sailing Ship
+msgctxt "Mounts & Vehicles"
+msgid "Sailing Ship"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Sled
+msgctxt "Mounts & Vehicles"
+msgid "Sled"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Stabling
+msgctxt "Mounts & Vehicles"
+msgid "Stabling"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Wagon
+msgctxt "Mounts & Vehicles"
+msgid "Wagon"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Warhorse
+msgctxt "Mounts & Vehicles"
+msgid "Warhorse"
 msgstr ""
 
 # 
 #: 
-msgctxt Mounts & Vehicles
-msgid Warship
+msgctxt "Mounts & Vehicles"
+msgid "Warship"
 msgstr ""
 
 # 
 #: 
-msgctxt Service
-msgid Coach Cab
+msgctxt "Service"
+msgid "Coach Cab"
 msgstr ""
 
 # 
 #: 
-msgctxt Service
-msgid Gate Toll
+msgctxt "Service"
+msgid "Gate Toll"
 msgstr ""
 
 # 
 #: 
-msgctxt Service
-msgid Hireling
+msgctxt "Service"
+msgid "Hireling"
 msgstr ""
 
 # 
 #: 
-msgctxt Service
-msgid Messenger
+msgctxt "Service"
+msgid "Messenger"
 msgstr ""
 
 # 
 #: 
-msgctxt Service
-msgid Road Toll
+msgctxt "Service"
+msgid "Road Toll"
 msgstr ""
 
 # 
 #: 
-msgctxt Service
-msgid Ship's Passage
+msgctxt "Service"
+msgid "Ship's Passage"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Alchemist's Supplies
+msgctxt "Tools"
+msgid "Alchemist's Supplies"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Artisan's Tools
+msgctxt "Tools"
+msgid "Artisan's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Bagpipes
+msgctxt "Tools"
+msgid "Bagpipes"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Brewer's Supplies
+msgctxt "Tools"
+msgid "Brewer's Supplies"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Calligrapher's Tools
+msgctxt "Tools"
+msgid "Calligrapher's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Carpenter's Tools
+msgctxt "Tools"
+msgid "Carpenter's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Cartographer's Tools
+msgctxt "Tools"
+msgid "Cartographer's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Cobbler's Tools
+msgctxt "Tools"
+msgid "Cobbler's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Cook's Utensils
+msgctxt "Tools"
+msgid "Cook's Utensils"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Dice Set
+msgctxt "Tools"
+msgid "Dice Set"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Disguise Kit
+msgctxt "Tools"
+msgid "Disguise Kit"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Dragonchess Set
+msgctxt "Tools"
+msgid "Dragonchess Set"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Drum
+msgctxt "Tools"
+msgid "Drum"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Dulcimer
+msgctxt "Tools"
+msgid "Dulcimer"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Flute
+msgctxt "Tools"
+msgid "Flute"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Forgery Kit
+msgctxt "Tools"
+msgid "Forgery Kit"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Gaming Set
+msgctxt "Tools"
+msgid "Gaming Set"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Glassblower's Tools
+msgctxt "Tools"
+msgid "Glassblower's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Horn
+msgctxt "Tools"
+msgid "Horn"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Jeweler's Tools
+msgctxt "Tools"
+msgid "Jeweler's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Leatherworker's Tools
+msgctxt "Tools"
+msgid "Leatherworker's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Lute
+msgctxt "Tools"
+msgid "Lute"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Lyre
+msgctxt "Tools"
+msgid "Lyre"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Mason's Tools
+msgctxt "Tools"
+msgid "Mason's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Navigator's Tools
+msgctxt "Tools"
+msgid "Navigator's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Painter's Supplies
+msgctxt "Tools"
+msgid "Painter's Supplies"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Pan Flute
+msgctxt "Tools"
+msgid "Pan Flute"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Playing Card Set
+msgctxt "Tools"
+msgid "Playing Card Set"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Poisoner's Kit
+msgctxt "Tools"
+msgid "Poisoner's Kit"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Potter's Tools
+msgctxt "Tools"
+msgid "Potter's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Shawm
+msgctxt "Tools"
+msgid "Shawm"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Smith's Tools
+msgctxt "Tools"
+msgid "Smith's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Three-Dragon Ante Set
+msgctxt "Tools"
+msgid "Three-Dragon Ante Set"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Tinker's Tools
+msgctxt "Tools"
+msgid "Tinker's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Vehicles (land or water)
+msgctxt "Tools"
+msgid "Vehicles (land or water)"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Viol
+msgctxt "Tools"
+msgid "Viol"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Weaver's Tools
+msgctxt "Tools"
+msgid "Weaver's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Tools
-msgid Woodcarver's Tools
+msgctxt "Tools"
+msgid "Woodcarver's Tools"
 msgstr ""
 
 # 
 #: 
-msgctxt Trade Goods
-msgid Linen
+msgctxt "Trade Goods"
+msgid "Linen"
 msgstr ""
 
 # 
 #: 
-msgctxt Trade Goods
-msgid Ox
+msgctxt "Trade Goods"
+msgid "Ox"
 msgstr ""
 
 # 
 #: 
-msgctxt Trade Goods
-msgid Saffron
+msgctxt "Trade Goods"
+msgid "Saffron"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid (Equipment) Pack
+msgctxt "Equipment"
+msgid "(Equipment) Pack"
 msgstr ""
 
 # 
 #: 
-msgctxt Equipment
-msgid Mounts and Vehicles
+msgctxt "Equipment"
+msgid "Mounts and Vehicles"
 msgstr ""
 

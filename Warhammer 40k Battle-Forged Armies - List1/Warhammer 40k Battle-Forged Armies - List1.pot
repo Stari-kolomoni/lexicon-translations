@@ -11,223 +11,223 @@ msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Unbound Army
+msgctxt ""
+msgid "Unbound Army"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Battle-Forged Army
+msgctxt ""
+msgid "Battle-Forged Army"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Unaligned
+msgctxt ""
+msgid "Unaligned"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Imperium
+msgctxt ""
+msgid "Imperium"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Chaos
+msgctxt ""
+msgid "Chaos"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Detachment
+msgctxt ""
+msgid "Detachment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Command Cost
+msgctxt ""
+msgid "Command Cost"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Codex
+msgctxt ""
+msgid "Codex"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fortification Network Detachment
+msgctxt ""
+msgid "Fortification Network Detachment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Detachment Ability
+msgctxt ""
+msgid "Detachment Ability"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Reinforcement Unit
+msgctxt ""
+msgid "Reinforcement Unit"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Battlefield Role Slot
+msgctxt ""
+msgid "Battlefield Role Slot"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Battlefield Role
+msgctxt ""
+msgid "Battlefield Role"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid HQ
+msgctxt ""
+msgid "HQ"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Troops
+msgctxt ""
+msgid "Troops"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Elites
+msgctxt ""
+msgid "Elites"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fast Attack
+msgctxt ""
+msgid "Fast Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Flyer
+msgctxt ""
+msgid "Flyer"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Heavy Support
+msgctxt ""
+msgid "Heavy Support"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fortification
+msgctxt ""
+msgid "Fortification"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Dedicated Transport
+msgctxt ""
+msgid "Dedicated Transport"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Lord of War
+msgctxt ""
+msgid "Lord of War"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Compulsory Slot
+msgctxt ""
+msgid "Compulsory Slot"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Optional Slot
+msgctxt ""
+msgid "Optional Slot"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Command Benefits
+msgctxt ""
+msgid "Command Benefits"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Patrol Detachment
+msgctxt ""
+msgid "Patrol Detachment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Battalion Detachment
+msgctxt ""
+msgid "Battalion Detachment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Brigade Detachment
+msgctxt ""
+msgid "Brigade Detachment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Vanguard Detachment
+msgctxt ""
+msgid "Vanguard Detachment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Spearhead Detachment
+msgctxt ""
+msgid "Spearhead Detachment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Outrider Detachment
+msgctxt ""
+msgid "Outrider Detachment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Supreme Command Detachment
+msgctxt ""
+msgid "Supreme Command Detachment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Super-Heavy Detachment
+msgctxt ""
+msgid "Super-Heavy Detachment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Super-Heavy Auxiliary Detachment
+msgctxt ""
+msgid "Super-Heavy Auxiliary Detachment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Fortification Network
+msgctxt ""
+msgid "Fortification Network"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Auxiliary Support Detachment
+msgctxt ""
+msgid "Auxiliary Support Detachment"
 msgstr ""
 
 # 
 #: 
-msgctxt 
-msgid Army Roster
+msgctxt ""
+msgid "Army Roster"
 msgstr ""
 

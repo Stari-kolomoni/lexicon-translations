@@ -1,300 +1,300 @@
 # 
 #: 
-msgctxt Command Phase
-msgid Bonus
+msgctxt "Command Phase"
+msgid "Bonus"
 msgstr ""
 
 # 
 #: 
-msgctxt Command Phase
-msgid Battle-Forged
+msgctxt "Command Phase"
+msgid "Battle-Forged"
 msgstr ""
 
 # 
 #: 
-msgctxt Command Phase
-msgid Battle-Forged CP Bonus
+msgctxt "Command Phase"
+msgid "Battle-Forged CP Bonus"
 msgstr ""
 
 # 
 #: 
-msgctxt Command Phase
-msgid Command Points (CP)
+msgctxt "Command Phase"
+msgid "Command Points (CP)"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement Phase
-msgid Normal Move
+msgctxt "Movement Phase"
+msgid "Normal Move"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement Phase
-msgid Advance
+msgctxt "Movement Phase"
+msgid "Advance"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement Phase
-msgid Remain Stationary
+msgctxt "Movement Phase"
+msgid "Remain Stationary"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement Phase
-msgid Fall Back
+msgctxt "Movement Phase"
+msgid "Fall Back"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement Phase
-msgid Reinforcements
+msgctxt "Movement Phase"
+msgid "Reinforcements"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement Phase
-msgid Fly
+msgctxt "Movement Phase"
+msgid "Fly"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement Phase
-msgid Transport
+msgctxt "Movement Phase"
+msgid "Transport"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement Phase
-msgid Transport Capacity
+msgctxt "Movement Phase"
+msgid "Transport Capacity"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement Phase
-msgid Embark
+msgctxt "Movement Phase"
+msgid "Embark"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement Phase
-msgid Disembark
+msgctxt "Movement Phase"
+msgid "Disembark"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement Phase
-msgid Aircraft
+msgctxt "Movement Phase"
+msgid "Aircraft"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement Phase
-msgid Minimum Move
+msgctxt "Movement Phase"
+msgid "Minimum Move"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement Phase
-msgid Maximum Move
+msgctxt "Movement Phase"
+msgid "Maximum Move"
 msgstr ""
 
 # 
 #: 
-msgctxt Psychic Phase
-msgid Smite
+msgctxt "Psychic Phase"
+msgid "Smite"
 msgstr ""
 
 # 
 #: 
-msgctxt Psychic Phase
-msgid Warp Charge
+msgctxt "Psychic Phase"
+msgid "Warp Charge"
 msgstr ""
 
 # 
 #: 
-msgctxt Psychic Phase
-msgid Psyker
+msgctxt "Psychic Phase"
+msgid "Psyker"
 msgstr ""
 
 # 
 #: 
-msgctxt Psychic Phase
-msgid to manifest
+msgctxt "Psychic Phase"
+msgid "to manifest"
 msgstr ""
 
 # 
 #: 
-msgctxt Psychic Phase
-msgid Psychic Power
+msgctxt "Psychic Phase"
+msgid "Psychic Power"
 msgstr ""
 
 # 
 #: 
-msgctxt Psychic Phase
-msgid Deny the Witch Test
+msgctxt "Psychic Phase"
+msgid "Deny the Witch Test"
 msgstr ""
 
 # 
 #: 
-msgctxt Psychic Phase
-msgid Psychic Test
+msgctxt "Psychic Phase"
+msgid "Psychic Test"
 msgstr ""
 
 # 
 #: 
-msgctxt Psychic Phase
-msgid Perils of the Warp
+msgctxt "Psychic Phase"
+msgid "Perils of the Warp"
 msgstr ""
 
 # 
 #: 
-msgctxt Psychic Phase
-msgid Mortal Wounds
+msgctxt "Psychic Phase"
+msgid "Mortal Wounds"
 msgstr ""
 
 # 
 #: 
-msgctxt Shooting Phase
-msgid Ranged Weapon
+msgctxt "Shooting Phase"
+msgid "Ranged Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Shooting Phase
-msgid Assault Weapon
+msgctxt "Shooting Phase"
+msgid "Assault Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Shooting Phase
-msgid Heavy Weapon
+msgctxt "Shooting Phase"
+msgid "Heavy Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Shooting Phase
-msgid Rapid Fire
+msgctxt "Shooting Phase"
+msgid "Rapid Fire"
 msgstr ""
 
 # 
 #: 
-msgctxt Shooting Phase
-msgid Grenade
+msgctxt "Shooting Phase"
+msgid "Grenade"
 msgstr ""
 
 # 
 #: 
-msgctxt Shooting Phase
-msgid Pistol
+msgctxt "Shooting Phase"
+msgid "Pistol"
 msgstr ""
 
 # 
 #: 
-msgctxt Shooting Phase
-msgid Blast Weapon
+msgctxt "Shooting Phase"
+msgid "Blast Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Shooting Phase
-msgid Hit Roll
+msgctxt "Shooting Phase"
+msgid "Hit Roll"
 msgstr ""
 
 # 
 #: 
-msgctxt Shooting Phase
-msgid Wound Roll
+msgctxt "Shooting Phase"
+msgid "Wound Roll"
 msgstr ""
 
 # 
 #: 
-msgctxt Shooting Phase
-msgid Allocate Attack
+msgctxt "Shooting Phase"
+msgid "Allocate Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Shooting Phase
-msgid Saving Throw
+msgctxt "Shooting Phase"
+msgid "Saving Throw"
 msgstr ""
 
 # 
 #: 
-msgctxt Shooting Phase
-msgid Attack
+msgctxt "Shooting Phase"
+msgid "Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Shooting Phase
-msgid Inflict Damage
+msgctxt "Shooting Phase"
+msgid "Inflict Damage"
 msgstr ""
 
 # 
 #: 
-msgctxt Shooting Phase
-msgid Invulnerable Save
+msgctxt "Shooting Phase"
+msgid "Invulnerable Save"
 msgstr ""
 
 # 
 #: 
-msgctxt Charge Phase
-msgid Charge
+msgctxt "Charge Phase"
+msgid "Charge"
 msgstr ""
 
 # 
 #: 
-msgctxt Charge Phase
-msgid Heroic Intervention
+msgctxt "Charge Phase"
+msgid "Heroic Intervention"
 msgstr ""
 
 # 
 #: 
-msgctxt Charge Phase
-msgid Overwatch
+msgctxt "Charge Phase"
+msgid "Overwatch"
 msgstr ""
 
 # 
 #: 
-msgctxt Fight Phase
-msgid Close Combat Attack
+msgctxt "Fight Phase"
+msgid "Close Combat Attack"
 msgstr ""
 
 # 
 #: 
-msgctxt Fight Phase
-msgid Pile In
+msgctxt "Fight Phase"
+msgid "Pile In"
 msgstr ""
 
 # 
 #: 
-msgctxt Fight Phase
-msgid Melee Weapon
+msgctxt "Fight Phase"
+msgid "Melee Weapon"
 msgstr ""
 
 # 
 #: 
-msgctxt Fight Phase
-msgid Consolidation
+msgctxt "Fight Phase"
+msgid "Consolidation"
 msgstr ""
 
 # 
 #: 
-msgctxt Morale Phase
-msgid Morale Test
+msgctxt "Morale Phase"
+msgid "Morale Test"
 msgstr ""
 
 # 
 #: 
-msgctxt Morale Phase
-msgid Combat Attrition Test
+msgctxt "Morale Phase"
+msgid "Combat Attrition Test"
 msgstr ""
 
 # 
 #: 
-msgctxt Morale Phase
-msgid Unit Coherency Check
+msgctxt "Morale Phase"
+msgid "Unit Coherency Check"
 msgstr ""
 

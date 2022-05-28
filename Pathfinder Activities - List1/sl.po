@@ -1,114 +1,114 @@
 # 
 #: 
-msgctxt Movement
-msgid Tatical Movement
+msgctxt "Movement"
+msgid "Tatical Movement"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Local Movement
+msgctxt "Movement"
+msgid "Local Movement"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Overland Movement
+msgctxt "Movement"
+msgid "Overland Movement"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Walk
+msgctxt "Movement"
+msgid "Walk"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Hustle
+msgctxt "Movement"
+msgid "Hustle"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Run
+msgctxt "Movement"
+msgid "Run"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Hampered Movement
+msgctxt "Movement"
+msgid "Hampered Movement"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Forced March
+msgctxt "Movement"
+msgid "Forced March"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Waterborne Movement
+msgctxt "Movement"
+msgid "Waterborne Movement"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Mounts and Vehicles
+msgctxt "Movement"
+msgid "Mounts and Vehicles"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Light Horse
+msgctxt "Movement"
+msgid "Light Horse"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Heavy Horse
+msgctxt "Movement"
+msgid "Heavy Horse"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Pony
+msgctxt "Movement"
+msgid "Pony"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Riding Dog
+msgctxt "Movement"
+msgid "Riding Dog"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Cart
+msgctxt "Movement"
+msgid "Cart"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Wagon
+msgctxt "Movement"
+msgid "Wagon"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Raft
+msgctxt "Movement"
+msgid "Raft"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Poled Barge
+msgctxt "Movement"
+msgid "Poled Barge"
 msgstr ""
 
 # 
 #: 
-msgctxt Movement
-msgid Towed Barge
+msgctxt "Movement"
+msgid "Towed Barge"
 msgstr ""
 

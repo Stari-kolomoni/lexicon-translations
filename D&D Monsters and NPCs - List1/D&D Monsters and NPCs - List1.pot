@@ -11,2017 +11,2017 @@ msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Aarakocra
+msgctxt "Monster"
+msgid "Aarakocra"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Type
-msgid Aberration
+msgctxt "Monster Type"
+msgid "Aberration"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Aboleth
+msgctxt "Monster"
+msgid "Aboleth"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Abominable Yeti
+msgctxt "Monster"
+msgid "Abominable Yeti"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Adult Dragon
+msgctxt "Monster"
+msgid "Adult Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Air Elemental
+msgctxt "Monster"
+msgid "Air Elemental"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Alhoon
+msgctxt "Monster"
+msgid "Alhoon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Allosaurus
+msgctxt "Monster"
+msgid "Allosaurus"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Ancient Dragon
+msgctxt "Monster"
+msgid "Ancient Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Androsphinx
+msgctxt "Monster"
+msgid "Androsphinx"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Angel
+msgctxt "Monster"
+msgid "Angel"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Animated Armor
+msgctxt "Monster"
+msgid "Animated Armor"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Ankheg
+msgctxt "Monster"
+msgid "Ankheg"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Ankylosaurus
+msgctxt "Monster"
+msgid "Ankylosaurus"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Arcanaloth
+msgctxt "Monster"
+msgid "Arcanaloth"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Arcanist
+msgctxt "Monster"
+msgid "Arcanist"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Archdevil
+msgctxt "Monster"
+msgid "Archdevil"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC Archetype
-msgid Archmage
+msgctxt "NPC Archetype"
+msgid "Archmage"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC Archetype
-msgid Assassin
+msgctxt "NPC Archetype"
+msgid "Assassin"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Axe Beak
+msgctxt "Monster"
+msgid "Axe Beak"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Azer
+msgctxt "Monster"
+msgid "Azer"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC Archetype
-msgid Bandit
+msgctxt "NPC Archetype"
+msgid "Bandit"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Banshee
+msgctxt "Monster"
+msgid "Banshee"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Baphomet
+msgctxt "Monster"
+msgid "Baphomet"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Barbed Devil
+msgctxt "Monster"
+msgid "Barbed Devil"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Basilisk
+msgctxt "Monster"
+msgid "Basilisk"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Bearded Devil
+msgctxt "Monster"
+msgid "Bearded Devil"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Type
-msgid Beast
+msgctxt "Monster Type"
+msgid "Beast"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Behir
+msgctxt "Monster"
+msgid "Behir"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Beholder
+msgctxt "Monster"
+msgid "Beholder"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC Archetype
-msgid Berserker
+msgctxt "NPC Archetype"
+msgid "Berserker"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Black Dragon
+msgctxt "Monster"
+msgid "Black Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Black Pudding
+msgctxt "Monster"
+msgid "Black Pudding"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Blink Dog
+msgctxt "Monster"
+msgid "Blink Dog"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Blood Hawk
+msgctxt "Monster"
+msgid "Blood Hawk"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Blue Dragon
+msgctxt "Monster"
+msgid "Blue Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Bone Devil
+msgctxt "Monster"
+msgid "Bone Devil"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Bone Naga
+msgctxt "Monster"
+msgid "Bone Naga"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Brass Dragon
+msgctxt "Monster"
+msgid "Brass Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Bronze Dragon
+msgctxt "Monster"
+msgid "Bronze Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Bugbear
+msgctxt "Monster"
+msgid "Bugbear"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Bugbear Chief
+msgctxt "Monster"
+msgid "Bugbear Chief"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Bulette
+msgctxt "Monster"
+msgid "Bulette"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Bullywug
+msgctxt "Monster"
+msgid "Bullywug"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Speed
-msgid Burrow
+msgctxt "Monster Speed"
+msgid "Burrow"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Cambion
+msgctxt "Monster"
+msgid "Cambion"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Carrion Crawler
+msgctxt "Monster"
+msgid "Carrion Crawler"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Type
-msgid Celestial
+msgctxt "Monster Type"
+msgid "Celestial"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Centaur
+msgctxt "Monster"
+msgid "Centaur"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Chain Devil
+msgctxt "Monster"
+msgid "Chain Devil"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Chasme
+msgctxt "Monster"
+msgid "Chasme"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Chimera
+msgctxt "Monster"
+msgid "Chimera"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Chuul
+msgctxt "Monster"
+msgid "Chuul"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Clay Golem
+msgctxt "Monster"
+msgid "Clay Golem"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Speed
-msgid Climb
+msgctxt "Monster Speed"
+msgid "Climb"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Cloaker
+msgctxt "Monster"
+msgid "Cloaker"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Cockatrice
+msgctxt "Monster"
+msgid "Cockatrice"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC Archetype
-msgid Commoner
+msgctxt "NPC Archetype"
+msgid "Commoner"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Constrictor Snake
+msgctxt "Monster"
+msgid "Constrictor Snake"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Type
-msgid Construct
+msgctxt "Monster Type"
+msgid "Construct"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Copper Dragon
+msgctxt "Monster"
+msgid "Copper Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Couatl
+msgctxt "Monster"
+msgid "Couatl"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Could Giant
+msgctxt "Monster"
+msgid "Could Giant"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Crawling Claw
+msgctxt "Monster"
+msgid "Crawling Claw"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC Archetype
-msgid Cult Fanatic
+msgctxt "NPC Archetype"
+msgid "Cult Fanatic"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC Archetype
-msgid Cultist
+msgctxt "NPC Archetype"
+msgid "Cultist"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Cyclops
+msgctxt "Monster"
+msgid "Cyclops"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Dao
+msgctxt "Monster"
+msgid "Dao"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Darkmantle
+msgctxt "Monster"
+msgid "Darkmantle"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Death Dog
+msgctxt "Monster"
+msgid "Death Dog"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Death Knight
+msgctxt "Monster"
+msgid "Death Knight"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Death Tyrant
+msgctxt "Monster"
+msgid "Death Tyrant"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Deep Gnome
+msgctxt "Monster"
+msgid "Deep Gnome"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Demilich
+msgctxt "Monster"
+msgid "Demilich"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Demogorgon
+msgctxt "Monster"
+msgid "Demogorgon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Demon Lord
+msgctxt "Monster"
+msgid "Demon Lord"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Deva
+msgctxt "Monster"
+msgid "Deva"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Devil Archduke
+msgctxt "Monster"
+msgid "Devil Archduke"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Devil Duke
+msgctxt "Monster"
+msgid "Devil Duke"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Dinosaurs
+msgctxt "Monster"
+msgid "Dinosaurs"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Displacer Beast
+msgctxt "Monster"
+msgid "Displacer Beast"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Djinni
+msgctxt "Monster"
+msgid "Djinni"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Doppleganger
+msgctxt "Monster"
+msgid "Doppleganger"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Dracolich
+msgctxt "Monster"
+msgid "Dracolich"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Draft Horse
+msgctxt "Monster"
+msgid "Draft Horse"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Type
-msgid Dragon
+msgctxt "Monster Type"
+msgid "Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Dragon Turtle
+msgctxt "Monster"
+msgid "Dragon Turtle"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Dretch
+msgctxt "Monster"
+msgid "Dretch"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Drider
+msgctxt "Monster"
+msgid "Drider"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Drow
+msgctxt "Monster"
+msgid "Drow"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Dryad
+msgctxt "Monster"
+msgid "Dryad"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Duergar
+msgctxt "Monster"
+msgid "Duergar"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Duodrone
+msgctxt "Monster"
+msgid "Duodrone"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Dust Mephit
+msgctxt "Monster"
+msgid "Dust Mephit"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Earth Elemental
+msgctxt "Monster"
+msgid "Earth Elemental"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Efreeti
+msgctxt "Monster"
+msgid "Efreeti"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Elder Brain
+msgctxt "Monster"
+msgid "Elder Brain"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Type
-msgid Elemental
+msgctxt "Monster Type"
+msgid "Elemental"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Elk
+msgctxt "Monster"
+msgid "Elk"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Empyrean
+msgctxt "Monster"
+msgid "Empyrean"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Erinye
+msgctxt "Monster"
+msgid "Erinye"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Ettercap
+msgctxt "Monster"
+msgid "Ettercap"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Ettin
+msgctxt "Monster"
+msgid "Ettin"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Faerie Dragon
+msgctxt "Monster"
+msgid "Faerie Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Type
-msgid Fey
+msgctxt "Monster Type"
+msgid "Fey"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Type
-msgid Fiend
+msgctxt "Monster Type"
+msgid "Fiend"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Fire Elemental
+msgctxt "Monster"
+msgid "Fire Elemental"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Fire Giant
+msgctxt "Monster"
+msgid "Fire Giant"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Fire Snake
+msgctxt "Monster"
+msgid "Fire Snake"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Flameskull
+msgctxt "Monster"
+msgid "Flameskull"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Flesh Golem
+msgctxt "Monster"
+msgid "Flesh Golem"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Flumph
+msgctxt "Monster"
+msgid "Flumph"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Speed
-msgid Fly
+msgctxt "Monster Speed"
+msgid "Fly"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Flying Snake
+msgctxt "Monster"
+msgid "Flying Snake"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Flying Sword
+msgctxt "Monster"
+msgid "Flying Sword"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Fomorian
+msgctxt "Monster"
+msgid "Fomorian"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Frost Giant
+msgctxt "Monster"
+msgid "Frost Giant"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Fungi
+msgctxt "Monster"
+msgid "Fungi"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Galeb Duhr
+msgctxt "Monster"
+msgid "Galeb Duhr"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Gargoyle
+msgctxt "Monster"
+msgid "Gargoyle"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Gas Spore
+msgctxt "Monster"
+msgid "Gas Spore"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Gelatinous Cube
+msgctxt "Monster"
+msgid "Gelatinous Cube"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Genie
+msgctxt "Monster"
+msgid "Genie"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Ghast
+msgctxt "Monster"
+msgid "Ghast"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Ghost
+msgctxt "Monster"
+msgid "Ghost"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Ghoul
+msgctxt "Monster"
+msgid "Ghoul"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Type
-msgid Giant
+msgctxt "Monster Type"
+msgid "Giant"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Giant Centipede
+msgctxt "Monster"
+msgid "Giant Centipede"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Giant Fire Beetle
+msgctxt "Monster"
+msgid "Giant Fire Beetle"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Gibbering Mouther
+msgctxt "Monster"
+msgid "Gibbering Mouther"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Gith
+msgctxt "Monster"
+msgid "Gith"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Githyanki
+msgctxt "Monster"
+msgid "Githyanki"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Githzerai
+msgctxt "Monster"
+msgid "Githzerai"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Gnoll
+msgctxt "Monster"
+msgid "Gnoll"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Gnoll Fang
+msgctxt "Monster"
+msgid "Gnoll Fang"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Goblin
+msgctxt "Monster"
+msgid "Goblin"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Gold Dragon
+msgctxt "Monster"
+msgid "Gold Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Gorgon
+msgctxt "Monster"
+msgid "Gorgon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Gray Ooze
+msgctxt "Monster"
+msgid "Gray Ooze"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Graz'zt
+msgctxt "Monster"
+msgid "Graz'zt"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Greater Devil
+msgctxt "Monster"
+msgid "Greater Devil"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Green Dragon
+msgctxt "Monster"
+msgid "Green Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Green Hag
+msgctxt "Monster"
+msgid "Green Hag"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Grell
+msgctxt "Monster"
+msgid "Grell"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Grick
+msgctxt "Monster"
+msgid "Grick"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Grick Alpha
+msgctxt "Monster"
+msgid "Grick Alpha"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Griffon
+msgctxt "Monster"
+msgid "Griffon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Grimlock
+msgctxt "Monster"
+msgid "Grimlock"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Guardian Naga
+msgctxt "Monster"
+msgid "Guardian Naga"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Gynosphinx
+msgctxt "Monster"
+msgid "Gynosphinx"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Half-Dragon
+msgctxt "Monster"
+msgid "Half-Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Half-Ogre
+msgctxt "Monster"
+msgid "Half-Ogre"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Harpy
+msgctxt "Monster"
+msgid "Harpy"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Hell Hound
+msgctxt "Monster"
+msgid "Hell Hound"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Helmed Horror
+msgctxt "Monster"
+msgid "Helmed Horror"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Hill Giant
+msgctxt "Monster"
+msgid "Hill Giant"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Hippogriff
+msgctxt "Monster"
+msgid "Hippogriff"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Hive Mind
+msgctxt "Monster"
+msgid "Hive Mind"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Hobgoblin
+msgctxt "Monster"
+msgid "Hobgoblin"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Homunculus
+msgctxt "Monster"
+msgid "Homunculus"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Hook Horror
+msgctxt "Monster"
+msgid "Hook Horror"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Horned Devil
+msgctxt "Monster"
+msgid "Horned Devil"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Speed
-msgid Hover
+msgctxt "Monster Speed"
+msgid "Hover"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Type
-msgid Humanoid
+msgctxt "Monster Type"
+msgid "Humanoid"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Hydra
+msgctxt "Monster"
+msgid "Hydra"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Ice Devil
+msgctxt "Monster"
+msgid "Ice Devil"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Ice Mephit
+msgctxt "Monster"
+msgid "Ice Mephit"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Illithid
+msgctxt "Monster"
+msgid "Illithid"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Imp
+msgctxt "Monster"
+msgid "Imp"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Incubus
+msgctxt "Monster"
+msgid "Incubus"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Intellect Devourer
+msgctxt "Monster"
+msgid "Intellect Devourer"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Invisible Stalker
+msgctxt "Monster"
+msgid "Invisible Stalker"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Iron Golem
+msgctxt "Monster"
+msgid "Iron Golem"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Jackalwere
+msgctxt "Monster"
+msgid "Jackalwere"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Juiblex
+msgctxt "Monster"
+msgid "Juiblex"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Kenku
+msgctxt "Monster"
+msgid "Kenku"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Kobold
+msgctxt "Monster"
+msgid "Kobold"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Kraken
+msgctxt "Monster"
+msgid "Kraken"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Kuo-Toa
+msgctxt "Monster"
+msgid "Kuo-Toa"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Kuo-Toa
+msgctxt "Monster"
+msgid "Kuo-Toa"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster-related
-msgid Lair
+msgctxt "Monster-related"
+msgid "Lair"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Lamia
+msgctxt "Monster"
+msgid "Lamia"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster-related
-msgid Legendary Creature
+msgctxt "Monster-related"
+msgid "Legendary Creature"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Lemure
+msgctxt "Monster"
+msgid "Lemure"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Lesser Devil
+msgctxt "Monster"
+msgid "Lesser Devil"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Lich
+msgctxt "Monster"
+msgid "Lich"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Lichdom
+msgctxt "Monster"
+msgid "Lichdom"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Lizardfolk
+msgctxt "Monster"
+msgid "Lizardfolk"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Lolth
+msgctxt "Monster"
+msgid "Lolth"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC Archetype
-msgid Mage
+msgctxt "NPC Archetype"
+msgid "Mage"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Magma Mephit
+msgctxt "Monster"
+msgid "Magma Mephit"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Magmin
+msgctxt "Monster"
+msgid "Magmin"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Manticore
+msgctxt "Monster"
+msgid "Manticore"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Marid
+msgctxt "Monster"
+msgid "Marid"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Medusa
+msgctxt "Monster"
+msgid "Medusa"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Merfolk
+msgctxt "Monster"
+msgid "Merfolk"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Merilith
+msgctxt "Monster"
+msgid "Merilith"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Merrow
+msgctxt "Monster"
+msgid "Merrow"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Mezzoloth
+msgctxt "Monster"
+msgid "Mezzoloth"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Mimic
+msgctxt "Monster"
+msgid "Mimic"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Mind Flayer
+msgctxt "Monster"
+msgid "Mind Flayer"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Mind Flayer
+msgctxt "Monster"
+msgid "Mind Flayer"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Minotaur
+msgctxt "Monster"
+msgid "Minotaur"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Minotaur Skeleton
+msgctxt "Monster"
+msgid "Minotaur Skeleton"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Modrone
+msgctxt "Monster"
+msgid "Modrone"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Monodrone
+msgctxt "Monster"
+msgid "Monodrone"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Type
-msgid Monstrosity
+msgctxt "Monster Type"
+msgid "Monstrosity"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Mucus coating
+msgctxt "Monster"
+msgid "Mucus coating"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Mud Mephit
+msgctxt "Monster"
+msgid "Mud Mephit"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Mummy
+msgctxt "Monster"
+msgid "Mummy"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Mummy Lord
+msgctxt "Monster"
+msgid "Mummy Lord"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Myconid
+msgctxt "Monster"
+msgid "Myconid"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Myconid Adult
+msgctxt "Monster"
+msgid "Myconid Adult"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Myconid Sovereign
+msgctxt "Monster"
+msgid "Myconid Sovereign"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Myconid Sprout
+msgctxt "Monster"
+msgid "Myconid Sprout"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Needle Blight
+msgctxt "Monster"
+msgid "Needle Blight"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Night Hag
+msgctxt "Monster"
+msgid "Night Hag"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Nightmare
+msgctxt "Monster"
+msgid "Nightmare"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC Archetype
-msgid Noble
+msgctxt "NPC Archetype"
+msgid "Noble"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Nothic
+msgctxt "Monster"
+msgid "Nothic"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Nycaloth
+msgctxt "Monster"
+msgid "Nycaloth"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Ochre Jelly
+msgctxt "Monster"
+msgid "Ochre Jelly"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Ogre
+msgctxt "Monster"
+msgid "Ogre"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Oni
+msgctxt "Monster"
+msgid "Oni"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Type
-msgid Ooze
+msgctxt "Monster Type"
+msgid "Ooze"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Orcus
+msgctxt "Monster"
+msgid "Orcus"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Orog
+msgctxt "Monster"
+msgid "Orog"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Otyugh
+msgctxt "Monster"
+msgid "Otyugh"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Owlbear
+msgctxt "Monster"
+msgid "Owlbear"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Patron
+msgctxt "Monster"
+msgid "Patron"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Pegasus
+msgctxt "Monster"
+msgid "Pegasus"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Pentadrone
+msgctxt "Monster"
+msgid "Pentadrone"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Peryton
+msgctxt "Monster"
+msgid "Peryton"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Phase Spider
+msgctxt "Monster"
+msgid "Phase Spider"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Piercer
+msgctxt "Monster"
+msgid "Piercer"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Pit Fiend
+msgctxt "Monster"
+msgid "Pit Fiend"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Pixie
+msgctxt "Monster"
+msgid "Pixie"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Planetar
+msgctxt "Monster"
+msgid "Planetar"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Type
-msgid Plant
+msgctxt "Monster Type"
+msgid "Plant"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Plesiosaurus
+msgctxt "Monster"
+msgid "Plesiosaurus"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Pseudodragon
+msgctxt "Monster"
+msgid "Pseudodragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Psionics
+msgctxt "Monster"
+msgid "Psionics"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Pteranodon
+msgctxt "Monster"
+msgid "Pteranodon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Purple Worm
+msgctxt "Monster"
+msgid "Purple Worm"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Quadrone
+msgctxt "Monster"
+msgid "Quadrone"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Quaggoth
+msgctxt "Monster"
+msgid "Quaggoth"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Quaggoth Spore Servant
+msgctxt "Monster"
+msgid "Quaggoth Spore Servant"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Qualith
+msgctxt "Monster"
+msgid "Qualith"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Quipper
+msgctxt "Monster"
+msgid "Quipper"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Rakshasa
+msgctxt "Monster"
+msgid "Rakshasa"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Red Dragon
+msgctxt "Monster"
+msgid "Red Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Effect
-msgid Regional Effect
+msgctxt "Monster Effect"
+msgid "Regional Effect"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Remorhaz
+msgctxt "Monster"
+msgid "Remorhaz"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Revenant
+msgctxt "Monster"
+msgid "Revenant"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Roc
+msgctxt "Monster"
+msgid "Roc"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Roper
+msgctxt "Monster"
+msgid "Roper"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Rug of Smothering
+msgctxt "Monster"
+msgid "Rug of Smothering"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Rust Monster
+msgctxt "Monster"
+msgid "Rust Monster"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Sahuagin
+msgctxt "Monster"
+msgid "Sahuagin"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Salamander
+msgctxt "Monster"
+msgid "Salamander"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Satyr
+msgctxt "Monster"
+msgid "Satyr"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Scarecrow
+msgctxt "Monster"
+msgid "Scarecrow"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC Archetype
-msgid Scout
+msgctxt "NPC Archetype"
+msgid "Scout"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Sea Hag
+msgctxt "Monster"
+msgid "Sea Hag"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Sentient creature
+msgctxt "Monster"
+msgid "Sentient creature"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Shadow
+msgctxt "Monster"
+msgid "Shadow"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Shadow Demon
+msgctxt "Monster"
+msgid "Shadow Demon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Shadow Dragon
+msgctxt "Monster"
+msgid "Shadow Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Shambling Mound
+msgctxt "Monster"
+msgid "Shambling Mound"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Shield Guardian
+msgctxt "Monster"
+msgid "Shield Guardian"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Shrieker
+msgctxt "Monster"
+msgid "Shrieker"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Silver Dragon
+msgctxt "Monster"
+msgid "Silver Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Skeleton
+msgctxt "Monster"
+msgid "Skeleton"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Slaad
+msgctxt "Monster"
+msgid "Slaad"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Smoke Mephit
+msgctxt "Monster"
+msgid "Smoke Mephit"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Solar
+msgctxt "Monster"
+msgid "Solar"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Spectator
+msgctxt "Monster"
+msgid "Spectator"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Specter
+msgctxt "Monster"
+msgid "Specter"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Sphinx
+msgctxt "Monster"
+msgid "Sphinx"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Spined Devil
+msgctxt "Monster"
+msgid "Spined Devil"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Spirit Naga
+msgctxt "Monster"
+msgid "Spirit Naga"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Sprite
+msgctxt "Monster"
+msgid "Sprite"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC Archetype
-msgid Spy
+msgctxt "NPC Archetype"
+msgid "Spy"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Steam Mephit
+msgctxt "Monster"
+msgid "Steam Mephit"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Stirge
+msgctxt "Monster"
+msgid "Stirge"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Stone Giant
+msgctxt "Monster"
+msgid "Stone Giant"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Stone Golem
+msgctxt "Monster"
+msgid "Stone Golem"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Storm Giant
+msgctxt "Monster"
+msgid "Storm Giant"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Succubus
+msgctxt "Monster"
+msgid "Succubus"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Speed
-msgid Swim
+msgctxt "Monster Speed"
+msgid "Swim"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Tarrasque
+msgctxt "Monster"
+msgid "Tarrasque"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Thri-Kreen
+msgctxt "Monster"
+msgid "Thri-Kreen"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC Archetype
-msgid Thug
+msgctxt "NPC Archetype"
+msgid "Thug"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Treant
+msgctxt "Monster"
+msgid "Treant"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC Archetype
-msgid Tribal Warrior
+msgctxt "NPC Archetype"
+msgid "Tribal Warrior"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Triceratops
+msgctxt "Monster"
+msgid "Triceratops"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Tridrone
+msgctxt "Monster"
+msgid "Tridrone"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Troglodyte
+msgctxt "Monster"
+msgid "Troglodyte"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Troll
+msgctxt "Monster"
+msgid "Troll"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Twig Blight
+msgctxt "Monster"
+msgid "Twig Blight"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Tyrannosaurus Rex
+msgctxt "Monster"
+msgid "Tyrannosaurus Rex"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Ultroloth
+msgctxt "Monster"
+msgid "Ultroloth"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Umber Hulk
+msgctxt "Monster"
+msgid "Umber Hulk"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster Type
-msgid Undead
+msgctxt "Monster Type"
+msgid "Undead"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Unicorn
+msgctxt "Monster"
+msgid "Unicorn"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Vampire
+msgctxt "Monster"
+msgid "Vampire"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Vampire Spawn
+msgctxt "Monster"
+msgid "Vampire Spawn"
 msgstr ""
 
 # 
 #: 
-msgctxt NPC Archetype
-msgid Veteran
+msgctxt "NPC Archetype"
+msgid "Veteran"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Vine Blight
+msgctxt "Monster"
+msgid "Vine Blight"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Violet Fungus
+msgctxt "Monster"
+msgid "Violet Fungus"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Vrock
+msgctxt "Monster"
+msgid "Vrock"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Warhorse
+msgctxt "Monster"
+msgid "Warhorse"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Warhorse Skeleton
+msgctxt "Monster"
+msgid "Warhorse Skeleton"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Water Elemental
+msgctxt "Monster"
+msgid "Water Elemental"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Water Weird
+msgctxt "Monster"
+msgid "Water Weird"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Werebear
+msgctxt "Monster"
+msgid "Werebear"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Wereboar
+msgctxt "Monster"
+msgid "Wereboar"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Wererat
+msgctxt "Monster"
+msgid "Wererat"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Weretiger
+msgctxt "Monster"
+msgid "Weretiger"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Werewolf
+msgctxt "Monster"
+msgid "Werewolf"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid White Dragon
+msgctxt "Monster"
+msgid "White Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Wight
+msgctxt "Monster"
+msgid "Wight"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Will-O'-Wisp
+msgctxt "Monster"
+msgid "Will-O'-Wisp"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Worg
+msgctxt "Monster"
+msgid "Worg"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Wraith
+msgctxt "Monster"
+msgid "Wraith"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Wyrmling
+msgctxt "Monster"
+msgid "Wyrmling"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Wyvern
+msgctxt "Monster"
+msgid "Wyvern"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Xorn
+msgctxt "Monster"
+msgid "Xorn"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Yeenoghu
+msgctxt "Monster"
+msgid "Yeenoghu"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Yeti
+msgctxt "Monster"
+msgid "Yeti"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Young Dragon
+msgctxt "Monster"
+msgid "Young Dragon"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Yuan-Ti
+msgctxt "Monster"
+msgid "Yuan-Ti"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Yuan-Ti Malison
+msgctxt "Monster"
+msgid "Yuan-Ti Malison"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Yuan-Ti Pureblood
+msgctxt "Monster"
+msgid "Yuan-Ti Pureblood"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Yugoloth
+msgctxt "Monster"
+msgid "Yugoloth"
 msgstr ""
 
 # 
 #: 
-msgctxt Monster
-msgid Zombie
+msgctxt "Monster"
+msgid "Zombie"
 msgstr ""
 
