@@ -1,13 +1,9 @@
 msgid ""
 msgstr ""
-"Language: English
-"
-"MIME-Version: 1.0
-"
-"Content-Type: text/plain; charset=UTF-8
-"
-"Content-Transfer-Encoding: 8bit
-"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 # Character can use downtime to craft armor, weapons, clothing, potions, poisons or other kinds of gear.
 #: 
