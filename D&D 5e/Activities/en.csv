@@ -1,19 +1,19 @@
-source,target,context,developer_comments,translator_comments
-Crafting,,Downtime activity,,"Character can use downtime to craft armor, weapons, clothing, potions, poisons or other kinds of gear."
-Draw a Map,,,,"Character can draw a map
+Term,Translation,Context,Reference,Comment
+Crafting,Crafting,Downtime activity,,"Character can use downtime to craft armor, weapons, clothing, potions, poisons or other kinds of gear."
+Draw a Map,Draw a Map,,,"Character can draw a map
 that records the group’s progress and helps the
 characters get back on course if they get lost."
-Forage,,,,Character can keep an eye out for ready sources of food and water.
-Forced March,,,,Characters walk more than standard 8 hours a day.
-High Jump,,,,Character leaps into the air.
-Long Jump,,,,Character jumps forward.
-Long Rest,,,,"A period of extended downtime, during which character sleeps or performs light activity."
-Navigate,,,,"Character can try to prevent the group from becoming lost, making a Wisdom (Survival) check."
-Practicing a Profession,,Downtime activity,,Character can use downtime to work between adventures.
-"Push, Drag, or Lift",,Lifting and carrying,,"Character can push, drag, or lift a
+Forage,Forage,,,Character can keep an eye out for ready sources of food and water.
+Forced March,Forced March,,,Characters walk more than standard 8 hours a day.
+High Jump,High Jump,,,Character leaps into the air.
+Long Jump,Long Jump,,,Character jumps forward.
+Long Rest,Long Rest,,,"A period of extended downtime, during which character sleeps or performs light activity."
+Navigate,Navigate,,,"Character can try to prevent the group from becoming lost, making a Wisdom (Survival) check."
+Practicing a Profession,Practicing a Profession,Downtime activity,,Character can use downtime to work between adventures.
+"Push, Drag, or Lift","Push, Drag, or Lift",Lifting and carrying,,"Character can push, drag, or lift a
 weight in pounds up to twice their carrying capacity."
-Recuperating,,Downtime activity,,"Character can use downtime between adventures to recover from a debilitating injury, disease, or poison."
-Researching,,Downtime activity,,"Character can use downtime between adventures to perform research, gaining insight into mysteries that have unfurled over the course of the campaign. "
-Short Rest,,,,"A period of downtime, during which a character does nothing more strenuous than eating, drinking, reading, tending to wounds."
-Track,,,,Character can follow the tracks of another creature.
-Training,,Downtime activity,,Character can spend downtime between adventures learning a new language or training with a set of tools. 
+Recuperating,Recuperating,Downtime activity,,"Character can use downtime between adventures to recover from a debilitating injury, disease, or poison."
+Researching,Researching,Downtime activity,,"Character can use downtime between adventures to perform research, gaining insight into mysteries that have unfurled over the course of the campaign. "
+Short Rest,Short Rest,,,"A period of downtime, during which a character does nothing more strenuous than eating, drinking, reading, tending to wounds."
+Track,Track,,,Character can follow the tracks of another creature.
+Training,Training,Downtime activity,,Character can spend downtime between adventures learning a new language or training with a set of tools. 
