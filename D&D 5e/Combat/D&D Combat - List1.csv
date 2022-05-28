@@ -1,0 +1,139 @@
+Term,Translation,Context,Reference,Comment
+Acid Damage,,Damage Type,,
+Action,,Game Mechanic,,The main thing player does on their turn in combat.
+Ammunition,,Item,,
+Arrow,,Item,,
+Attack,,Action,,
+Attack Roll,,Game Mechanic,,Attack roll determines whether the Attack hits or misses.
+Blinded,,Condition,,A blinded creature can't see and automatically fails any ability check that requires sight.
+Blowgun,,Weapon,,
+Bludgeoning Damage,,Damage Type,,"Caused by blunt force impacts or attacks – hammers, falling from a great height, constriction, and so on."
+Bolt,,Item,,
+Breast Plate,,Armor,,
+Chain Mail,,Armor,,
+Chain Shirt,,Armor,,
+Charmed,,Condition,,A charmed creature can't Attack the charmer or target the charmer with harmful Abilities or magical Effects.
+Club,,Weapon,,
+Cold Damage,,Damage Type,,Cold damage comes from sources of extremely low temperatures.
+Condition,,Game Mechanic,,"Alters a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect."
+Contest,,Game Mechanic,,Opponents roll dice - the participant with the higher result wins.
+Crawling,,Game Mechanic,,
+Critical Hit,,Game Mechanic,,Critical hits in DnD 5e happen when you roll a natural 20 on a d20.
+Crossbow,,Weapon,,
+Dagger,,Weapon,,
+Damage,,Game Mechanic,,"Damage is a numeric value which causes harm to a character, creature or object by reducing their hit point total."
+Damage Resistance,,Game Mechanic,,Resistance to a damage type means that you take half damage when you're hit with damage of that type.
+Damage Type,,Game Mechanic,,
+Dart,,Weapon,,
+Dash,,Action,,Extra movement for the current turn.
+Deafened,,Condition,,A deafened creature can't hear and automatically fails any ability check that requires hearing.
+Disengage,,Action,,"By taking this action, a creature acts defensively as they move, preventing enemies from delivering any sudden strikes as the defender moves away from their foe."
+Dismounting,,Action,,Player dismounts from a creature during their turn in combat.
+Dodge,,Action,,You focus entirely on avoiding attacks.
+Doff,,Armor,,Getting out of the armor.
+Don,,Armor,,Getting into the armor.
+Exhausted,,Condition,,"Caused by special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures."
+Finesse,,Weapon,,Allows you to use your Dexterity modifier instead of Strength to determine the attack and damage bonuses.
+Fire Damage,,Damage Type,,It covers damage done to and by creatures and objects through the use of extreme heat.
+Flail,,Weapon,,
+Force Damage,,Damage Type,,Pure magical energy channeled into a harmful form (mostly reserved for spells).
+Frightened,,Condition,,
+Glaive,,Weapon,,
+Grappled,,Condition,,As the result of special melee action - creature is held in place.
+Grappling,,Action,,Action where you want to grab a creature or wrestle with it.
+Greatclub,,Weapon,,
+Halberd,,Weapon,,
+Half Cover,,Game Mechanic,,A target has half cover if an obstacle blocks at least half of its body.
+Half Plate,,Armor,,
+Handaxe,,Weapon,,
+Heavy Weapon,,Weapon,,
+Heavy Armor,,Armor,,
+Help,,Action,,For aiding allies both in and out of combat.
+Hide,,Action,,To become unseen by other creatures.
+Hide,,Armor,,
+Improvised Weapon,,Weapon,,
+Incapacitated,,Condition,,An incapacitated creature can't take actions or reactions.
+Invisible,,Condition,,An invisible creature is impossible to see without the aid of magic or a special sense.
+Javelin,,Weapon,,
+Ki Save DC,,Game Mechanic,,
+Lance,,Weapon,,
+Leather Armor,,Armor,,
+Light Weapon,,Weapon,,
+Light Armor,,Armor,,
+Light Hammer,,Weapon,,
+Lightning Damage,,Damage Type,,Represents electrical damage caused by dangerous currents of electricity.
+Loading Weapon,,Weapon,,
+Longbow,,Weapon,,
+Longsword,,Weapon,,
+Mace,,Weapon,,
+Maneuver Save DC,,Game Mechanic,,
+Martial Weapon,,Weapon,,
+Maul,,Weapon,,
+Medium Armor,,Armor,,
+Melee Combat,,Game Mechanic,,"Typically uses a handheld weapon such as a sword, a Warhammer, or an axe."
+Melee Weapon,,Weapon,,A melee weapon is used to Attack a target within 5 feet of you.
+Morningstar,,Weapon,,
+Mounted Combat,,Game Mechanic,,In combat while mounted on creature.
+Necrotic Damage,,Damage Type,,A type of damage focused on decay and death.
+Net,,Weapon,,
+Opportunity Attack,,Game Mechanic,,A creature provokes an opportunity attack when they move out of an enemy's reach.
+Padded Armor,,Armor,,
+Paralyzed,,Condition,,A paralyzed creature is incapacitated and can't move or speak.
+Petrified,,Condition,,"A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance."
+Piercing Damage,,Damage Type,,"Puncturing and impaling attacks, including spears and monsters' bites, deal piercing damage."
+Pike,,Weapon,,
+Plate,,Armor,,
+Poison Damage,,Damage Type,,
+Poisoned,,Condition,,
+Prone,,Condition,,"A prone creature's only Movement option is to crawl, unless it stands up and thereby ends the condition."
+Prone (drop prone),,Game Mechanic,,
+Psychic Damage,,Damage Type,,Psychic damage is harnessed mental energy used to harm others.
+Quarterstaff,,Weapon,,
+Quiver,,Weapon,,
+Radiant Damage,,Damage Type,,Radiant damage typically is damage dealt from a direct burst of light.
+Range,,Weapon,,Weapon's range.
+Ranged Attack,,Game Mechanic,,"When you make a ranged Attack, you fire a bow or a crossbow, hurl a Handaxe, or otherwise send projectiles to strike a foe at a distance."
+Ranged Weapon,,Weapon,,Wapon for ranged Attack.
+Rapier,,Weapon,,
+Reach,,Weapon,,Reach of the weapon.
+Reaction,,Action,,Reaction is an instant response to a trigger of some kind.
+Ready,,Action,,Ready Action is a tactical option that lets you take an action as soon as a specified event occurs.
+Restrained,,Condition,,
+Ring Mail,,Armor,,
+Round,,,,Combat is divided into rounds. A round consists of each combatant taking one turn.
+Scale Mail,,Armor,,
+Scimitar,,Weapon,,
+Search,,Action,,"When you take the Search Action, you devote your attention to finding something."
+Shield,,Armor,,
+Shortsword,,Weapon,,
+Shoving,,Action,,"Using the Attack Action, you can make a Special melee Attack to shove a creature."
+Sickle,,Weapon,,
+Silvered Weapon,,Weapon,,
+Simple Weapon,,Weapon,,
+Slashing Damage,,Damage Type,,"Slashing Damage happens as the result of a cut with a sharp edge, like a sword, axe, monster's claws, or scythe."
+Sling,,Weapon,,
+Spear,,Weapon,,
+Special Weapon,,Weapon,,
+Splint,,Armor,,
+Stable,,Game Mechanic,,A character who was dying but who has stopped losing hit points and still has negative hit points is stable.
+Standing up,,Action,,"For example, getting up from being prone."
+Studded Leather,,Armor,,
+Stunned,,Condition,,"A stunned creature is incapacitated, can't move, and can speak only falteringly."
+Surprise,,Game Mechanic,,Any character or monster that doesn't notice a threat is surprised at the start of the encounter.
+Three-Quarters Cover,,Game Mechanic,,A target has three-quarters cover if about three-quarters of it is covered by an obstacle.
+Thrown Weapon,,Weapon,,
+Thunder Damage,,Damage Type,,Damage that comes from a shockwave (i.e. explosion shock wave).
+Total Cover,,Game Mechanic,,A target has total cover if it is completely concealed by an obstacle.
+Trident,,Weapon,,
+Turn,,Game Mechanic,,"During a round, each participant in a battle takes a turn."
+Two-Handed Weapon,,Weapon,,
+Unarmed Strike,,Weapon,,
+Unconscious,,Condition,,"An unconscious creature is incapacitated, can't move or speak, and is unaware of its surroundings."
+Use an Object,,Action,,"When an object requires your action for its use, you take the Use an Object action."
+Versatile Weapon,,Weapon,,This weapon can be used with one or two hands.
+Vulnerability,,Game Mechanic,,If you are vulnerable to a damage type it means you take double damage when hit with it.
+War Pick,,Weapon,,
+Warhammer,,Weapon,,
+Whip,,Weapon,,
+Ki,,Game Mechanic,,A mystical energy of the body that could be used to fuel various powers by its practitioners.
+Maneuver,,,,

@@ -1,0 +1,8 @@
+Term,Translation,Context,Reference,Comment
+Chaotic,,Alignment,"Chaotic Good, Chaotic Evil, Chaotic Neutral","Implies freedom, adaptability, and flexibility; recklessness, resentment toward legitimate authority, arbitrary actions, and irresponsibility."
+Evil,,Alignment,"Lawful Evil, Neutral Evil, Chaotic Evil","Implies harming, oppressing, and killing others."
+Good,,Alignment,"Lawful Good, Neutral Good, Chaotic Good","Implies altruism, respect for life, and a concern for the dignity of sentient beings."
+Lawful,,Alignment,"Lawful Good, Lawful Neutral, Lawful Evil","Implies honor, trustworthiness, obedience to authority, and reliability; closed-mindedness, reactionary adherence to tradition, judgmentalness, and a lack of adaptability."
+Neutral,,Alignment,"Lawful Neutral, Chaotic Neutral",
+True Neutral,,Alignment,,"Character tends not to feel strongly towards any alignment, or actively seeks their balance."
+Unaligned,,Alignment,,"For creatures that are not sapient enough to make decisions based on moral choices, but operating purely on instinct."
