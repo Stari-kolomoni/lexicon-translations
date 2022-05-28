@@ -52,8 +52,7 @@ msgctxt "Downtime activity"
 msgid "Practicing a Profession"
 msgstr ""
 
-# Character can push, drag, or lift a
-weight in pounds up to twice their carrying capacity.
+# Character can push, drag, or lift a weight in pounds up to twice their carrying capacity.
 #: 
 msgctxt "Lifting and carrying"
 msgid "Push, Drag, or Lift"
