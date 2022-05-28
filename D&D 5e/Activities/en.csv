@@ -1,4 +1,4 @@
-Term,Translation,Context,Reference,Comment
+source,target,context,developer_comments,translator_comments
 Crafting,,Downtime activity,,"Character can use downtime to craft armor, weapons, clothing, potions, poisons or other kinds of gear."
 Draw a Map,,,,"Character can draw a map
 that records the group’s progress and helps the
