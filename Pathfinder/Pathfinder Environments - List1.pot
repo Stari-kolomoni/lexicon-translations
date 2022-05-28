@@ -1,0 +1,635 @@
+msgid ""
+msgstr ""
+"Language: English
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+
+# 
+#: 
+msgctxt 
+msgid Dungeon
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Ruined Structure
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Occupied Structure
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Safe Storage
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Natural Cavern Complex
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Walls
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Masonry Walls
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Superior Masonry Walls
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Reinforced Masonry Walls
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Hewn Stone Walls
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Unworked Stone Walls
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Iron Walls
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Paper Walls
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Wooden Walls
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Magically Treated Walls
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Walls with Arrow Slits
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Flagstone Floors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Uneven Flagstone Floors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Hewn Stone Floors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Light Rubble Floors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Dense Rubble Floors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Smooth Stone Floors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Natural Stone Floors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Slippery Floors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Grate
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Ledge
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Transparent Floors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Sliding Floors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Trap Floors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Simple Wooden Doors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Good Wooden Doors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Strong Wooden Doors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Stone Doors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Iron Doors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Wooden Portcullis
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Iron Portcullis
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Lock
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Hinge
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Stuck Doors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Barred Doors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Magic Seals
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Standard Hinges
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Nested Hinges
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Pivots
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Secret Doors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Magic Doors
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Brown Mold
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Green Slime
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Phosphorescent Fungus
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Shrieker
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Yellow Mold
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Mechanical Trap
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Magic Trap
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Sound Trigger
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Visual Trigger
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Touch Trigger
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Timed Trigger
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Spell Trigger
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Lock Bypass
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Hidden Switch
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Hidden Lock
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Ranged Attack Trap
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Melee Attack Trap
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Spell Trap
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Magic Device Trap
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Gas Trap
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Onset Delay
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Pit Spikes
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Touch Attack
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Difficult Terrain
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Poor Visibility
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Forest Canopy
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Berm
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Watchtower
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Siege Engine
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Heavy Catapult
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Light Catapult
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Ballista
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Ram
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Siege Tower
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Planes
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Material Plane
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Transitive Planes
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Astral Plane
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Ethereal Plane
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Shadow Plane
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Inner Planes
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Elemental Planes
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Plane of Air
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Plane of Earth
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Plane of Fire
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Plane of Water
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Energy Planes
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Positive Energy Plane
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Negative Energy Plane
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Outer Planes
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Heaven
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Abyss
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Hell
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Elysium
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Demiplanes
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Plane Layers
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Coterminous Planes
+msgstr 
+
+# 
+#: 
+msgctxt 
+msgid Coexistent Planes
+msgstr 
+

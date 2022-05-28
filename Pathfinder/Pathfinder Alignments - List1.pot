@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Language: English
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+
+# 
+#: 
+msgctxt Alignment
+msgid Good
+msgstr 
+
+# 
+#: 
+msgctxt Alignment
+msgid Neutral
+msgstr 
+
+# 
+#: 
+msgctxt Alignment
+msgid Evil
+msgstr 
+
+# 
+#: 
+msgctxt Alignment
+msgid Lawful
+msgstr 
+
+# 
+#: 
+msgctxt Alignment
+msgid Neutral
+msgstr 
+
+# 
+#: 
+msgctxt Alignment
+msgid Chaotic
+msgstr 
+
