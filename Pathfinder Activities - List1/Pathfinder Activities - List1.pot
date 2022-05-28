@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Language: English
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+
+# 
+#: 
+msgctxt Movement
+msgid Tatical Movement
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Local Movement
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Overland Movement
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Walk
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Hustle
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Run
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Hampered Movement
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Forced March
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Waterborne Movement
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Mounts and Vehicles
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Light Horse
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Heavy Horse
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Pony
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Riding Dog
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Cart
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Wagon
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Raft
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Poled Barge
+msgstr ""
+
+# 
+#: 
+msgctxt Movement
+msgid Towed Barge
+msgstr ""
+

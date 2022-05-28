@@ -1,0 +1,2772 @@
+# 
+#: 
+msgctxt 
+msgid  'Bot
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Abactor
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Abbot
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Albigensian
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Alleycat
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Allthing
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Amaranth
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Anarch
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Anarch Revolt
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Anarchs
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ancients
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ancilla
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ancillae
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Angstburger
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ankaran Sarcophagus
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Antediluvian
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Antitribu
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Antitribu
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Apeshit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Arcanum
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Archbishop
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Archon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Archon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ash
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Assamite
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Assamite Cannibal
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Autarkis
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Autarkis
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Avetrol
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ball
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Banker
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Banking
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Baron
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Barony
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Bat
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Beast
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Bishop
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Bitch
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Bling
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blister
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Bloat
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blood
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blood Bond
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blood Cult
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blood Doll
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blood Feast
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blood Hunt
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blood Kindred
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blood Oath
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blood Points
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blood Pool
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blooded
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blooding
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Bloodline
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Boojum
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Book of Nod
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Boyars
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Brave
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Breach
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Brightening Sunsets
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Brood
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Brujah
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Butterfly
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cadets
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Caine
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cainite
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cainite Mythology
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Caitiff
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Caliph
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Camarilla
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cannibal
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cape
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cardinal
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Carthagos
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Casanova
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Castellan
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cathar
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cathayan
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cauchemar
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Chameleon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Chantry
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Charlemagne
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Chica
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Chief
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Childe
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Childer
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Children of Caine
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Children of Haqim
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid City Gangrel
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Clan
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Clan Curse
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Clanless
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Clanless Rabble
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cleanup
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cleaver
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cleopatra
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Clockwatcher
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cockalorum
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Code of Milan
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Collar
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Column
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Communal Haven
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Comprador
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Conclave
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Consanguineous
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Consistory
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Convention of Thorns
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Convocation
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Corrupter
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Costello
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Coterie
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Counting Coup
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Country Gangrel
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Court
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Coven
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cration Rites
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Criminal Coterie
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Crowley
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cub Scouts
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cunctator
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Daughters and Sons of Caine
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Deceiver
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Dementation
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Dessert
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Destruction
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Diablerie
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Diablerist Coterie
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Diaspora
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Did
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Discipline
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Do Over
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Doctus
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Dog
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Domain
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Dominion
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Domitor
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Donor
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Doornail
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ductus
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Elder
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Elders
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Elysian Fields
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Elysium
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Embrace
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Emissary
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid En'esh
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid End
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Enigma
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Entertainment Coterie
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Entrepreneurial Coterie
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Esbat
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Faction
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Faery
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Faith
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Family Reunion
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Famulus
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Farmer
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fealty
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fief
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Final Death
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Final Nights
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fire Dance
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid First Vampire Caine
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Five
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fledgling
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fleshcrafting
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fluke
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Followers of Set
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Footpad
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fossil
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Founded Pack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Founders
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Frenzy
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Friends of the Night
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Futon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fuzzy
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Gang
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Gangrel
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Gear
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Gehenna
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Gehenna Crusade
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Gehenna Cult
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Gehenna War
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Generation
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Gentry
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ghost
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ghoul
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Giovanni
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Go Down
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid God
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Golconda
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Good Folk
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Grandpa
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Half-Breed
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Hand
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Happy Meal
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Haqim
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Harmonist
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Harpy
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Haven
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Head
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Headache
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Headhunter
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Heartblood
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Heretic
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Highway Haven
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Hijra
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Homebody
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Hooded Mandarin
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Horseman
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Hulul
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Human
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Humanitas
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Humanity
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Hunter
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Idealist
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ikhwan
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Immortal
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Inceptor
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Inconnu
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Infidel
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Injun
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Inky
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Inner Circle
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Inquisitor
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Intelligence Coterie
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Jihad
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid John Law
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Juice
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Juicebag
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Jus Noctis
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Justicar
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Jyhad
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Kadd
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Kafir
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Kamut
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Keeper of Elysium
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Keg
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Khabar
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Kindred
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Kine
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Kiss
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Kuei-jin
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Labyrinth
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Lacheur
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Laid
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Lasombra
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Leech
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Leftovers
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Lextalionis
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Lick
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Lick
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Lineage
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Loyalist
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Lunch
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Lupine
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Lupine Alley
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Lush
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mage
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Malkavian
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Malkavian Madness Network
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Malkavians
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Manse
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Masquerade
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Methuselah
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Methuselahs
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Monomacy
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Monster
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mortal
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Munafiqun
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Munchies
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Muruwa
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mustajib
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Necronomist
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Nemesis
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Neonate
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Newcomers
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Nibs
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Noddism
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Noddist
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Nomad
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Nomadic Pack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Nosferatu
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Nosferatu Kingdom
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Obtenebration
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Oops
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ordeal
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Osiris
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Outlander Gangrel
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Pack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Paladin
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Pale Rider
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Pander
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Papillon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Path of Blood
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Path of Enlightenment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Patriot
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Pax
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Perv
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Pioneers
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Piper
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Praxis
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Prefrosh
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Priest
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Primogen
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Prince
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Princeling
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Prior
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Priscus
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Prize
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Progeny
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Promethean
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Prometheus
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Pueri
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Pyramid
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Questing Coterie
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Rafiq
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Rake
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Rant
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Rastacouere
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ravnos
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Reckoning
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Recruit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Red List
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Reeve
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Regent
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Regnant
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Remover
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Renfield
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Retainers
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Revenant
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Rogue
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Rules of Monomacy
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Sabbat
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Sabbat Pack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Sabbot
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Sand Castle
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Sandman
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Saraph
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid SchreckNet
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Scourge
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Scout
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Scoutmaster
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Scribe
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Second
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Sect
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Seer
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Seneschal
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Setites
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Shahid
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Shakar
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Sheriff
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Shovelhead
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Siege
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Sire
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Siren
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Slave
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Slummer
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Slumming
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Snap
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Social Coterie
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Society of Leopold
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Somnus
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Spawning Pools
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Stalker
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Suspire
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Sweeper
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Sword of Caine
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Tease
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Templar
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Tentacle
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Anarch Movement
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Barrens
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Beast
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Beckoning
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Becoming
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Blach Hand
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Blood Hunt
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Blood Oath
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Camarilla
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Change
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Curse
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Damned
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Eagle's Nest
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Embrace
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Fall
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Fifth Tradition: Hospitality
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The First Tradition: The Masquerade
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Forth Tradition: The Accounting
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Great Jyhad
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Harpies
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Hunger
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Inconnu
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Inconquered
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Jyhad
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Keeper of Elysium
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Kiss
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Lextalionis
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Life
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Man
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Masquerade
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Old Man of the Mountain
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The One
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Primogen
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Promise of 1528
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Rack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Return
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Riddle
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Scourge
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Second Tradition: The Domain
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Seneschal
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Sixth Tradition: Destruction
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Storyteller
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Third Mortal
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Third Tradition: The Progeny
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The War of Ages
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Whip
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Thin Bloods
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Thrall
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Time of Thin Blood
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Tongue
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Toreador
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Torpor
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Tradition
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Traditions of Caine
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Treaty of Tyre
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Tremere
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid True Sabbat
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Turf
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Tzimisce
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Umma
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Unbound
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Unifier
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Unseen
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Vampire
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Vampire's Kiss
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Vaulderie
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Vector
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Vegetary
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ventrue
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Vessel
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Visculum
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Vitae
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Vizier
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Voicissitude
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Voivode
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid War Party
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Wassail
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Watch
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Watch Commander
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Watchtower
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Werewolf
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Whelp
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Whig
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Wight
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Wild Hunt
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Winnowing
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Witch
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Witch-Hunter
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Wolfie
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid World of Darkness
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Zulo Form
+msgstr ""
+

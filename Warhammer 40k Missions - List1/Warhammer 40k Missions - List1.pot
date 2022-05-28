@@ -1,0 +1,635 @@
+msgid ""
+msgstr ""
+"Language: English
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+
+# 
+#: 
+msgctxt 
+msgid Forces
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mission Briefing
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Pre-Battle Rules
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Objective Marker
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fortification
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Objective Secured
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Only War
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Combat Patrol
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Incursion
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Strike Force
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Onslaught
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Warlord
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Character
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Inspiring Leader
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Trait
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Capture and Control
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Deployment Zone
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Battlefield Edge
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Centre of Battlefield
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Points Limits
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Points Values
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Unit Champion
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Reinforcement Points
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Supplies From Above
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Narrow the Search
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Cut Off the Head
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Retrieval
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Raze and Ruin
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Ambush
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Firestorm
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Grand Assault
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Field of Glory
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Priority Target
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Titan Hunter
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid King Slayer
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Cull the Hordes
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Reaper
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Sentinel
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Breakthrough
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Survivor
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Secure the Area
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Serch for Archeotech
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Deploy Vox-Relays
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Recover Mission Archives
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Witch Hunt
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Lord of the Warp
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Scry Battle Plans
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Centre Ground
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Victor Bonus
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Supplies Incoming
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Secure Landing Sites
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Target Sighted
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Restoratives
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Target Wounded
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Target Eliminated
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid No Meek Prey
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Bloody but Unbowed
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Warlord Deployment Zone
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Centre of Deployment Zone
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Carry Relic
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Relic Secured
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Relic Recovered
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid First Turn
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Sabotage
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Supplies Destroyed
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Supplies Protected
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid No Prisoners
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Strategic Reserves
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Recon Sweep
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Take and Hold
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Reconnoitre
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid The Ritual
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Recon Patrol
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Supply Cache
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Supply Drop
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid The Ritual Site
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Perform Rites
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Warp Rites
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Seize Ground
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Behind Enemy Lines
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Scrambler Fields
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Cover of Darkness
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Exfiltration
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Line Breaker
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Hold Them Back
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Drifting on the Wind
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Capture and Control
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Null Field
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Zeroing In
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Intel Points
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Transmit Intel
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Intel Transmitted
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Intel Lost
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Crucial Intel
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Area Searched
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Courier Secured
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Raze
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Demolitions
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Hunter, Prey
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid On Our Own
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Unquestioning Superiority
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Plant Banner
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Sustained Assault
+msgstr ""
+
+# 
+#: 
+msgctxt Crussade Mission Pack
+msgid Hold at All Costs
+msgstr ""
+

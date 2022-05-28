@@ -1,0 +1,210 @@
+# 
+#: 
+msgctxt Race
+msgid Dwarf
+msgstr ""
+
+# 
+#: 
+msgctxt Race
+msgid Elf
+msgstr ""
+
+# 
+#: 
+msgctxt Race
+msgid Gnome
+msgstr ""
+
+# 
+#: 
+msgctxt Race
+msgid Half-elf
+msgstr ""
+
+# 
+#: 
+msgctxt Race
+msgid Half-orc
+msgstr ""
+
+# 
+#: 
+msgctxt Race
+msgid Halfling
+msgstr ""
+
+# 
+#: 
+msgctxt Race
+msgid Human
+msgstr ""
+
+# 
+#: 
+msgctxt Class
+msgid Barbarian
+msgstr ""
+
+# 
+#: 
+msgctxt Class
+msgid Bard
+msgstr ""
+
+# 
+#: 
+msgctxt Class
+msgid Cleric
+msgstr ""
+
+# 
+#: 
+msgctxt Class
+msgid Druid
+msgstr ""
+
+# 
+#: 
+msgctxt Class
+msgid Fighter
+msgstr ""
+
+# 
+#: 
+msgctxt Class
+msgid Monk
+msgstr ""
+
+# 
+#: 
+msgctxt Class
+msgid Paladin
+msgstr ""
+
+# 
+#: 
+msgctxt Class
+msgid Ranger
+msgstr ""
+
+# 
+#: 
+msgctxt Class
+msgid Rogue
+msgstr ""
+
+# 
+#: 
+msgctxt Class
+msgid Sorcerer
+msgstr ""
+
+# 
+#: 
+msgctxt Class
+msgid Wizard
+msgstr ""
+
+# 
+#: 
+msgctxt Prestige class
+msgid Arcane Archer
+msgstr ""
+
+# 
+#: 
+msgctxt Prestige class
+msgid Arcane Trickster
+msgstr ""
+
+# 
+#: 
+msgctxt Prestige class
+msgid Assassin
+msgstr ""
+
+# 
+#: 
+msgctxt Prestige class
+msgid Dragon Disciple
+msgstr ""
+
+# 
+#: 
+msgctxt Prestige class
+msgid Duelist
+msgstr ""
+
+# 
+#: 
+msgctxt Prestige class
+msgid Eldritch Knight
+msgstr ""
+
+# 
+#: 
+msgctxt Prestige class
+msgid Loremaster
+msgstr ""
+
+# 
+#: 
+msgctxt Prestige class
+msgid Mystic Theurge
+msgstr ""
+
+# 
+#: 
+msgctxt Prestige class
+msgid Pathfinder Chronicler
+msgstr ""
+
+# 
+#: 
+msgctxt Prestige class
+msgid Shadowdancer
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Prestige Class
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Core Class
+msgstr ""
+
+# 
+#: 
+msgctxt NPC class
+msgid Adept
+msgstr ""
+
+# 
+#: 
+msgctxt NPC class
+msgid Aristocrat
+msgstr ""
+
+# 
+#: 
+msgctxt NPC class
+msgid Commoner
+msgstr ""
+
+# 
+#: 
+msgctxt NPC class
+msgid Expert
+msgstr ""
+
+# 
+#: 
+msgctxt NPC class
+msgid Warrior
+msgstr ""
+

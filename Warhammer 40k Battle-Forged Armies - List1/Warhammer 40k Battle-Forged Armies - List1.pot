@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Language: English
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+
+# 
+#: 
+msgctxt 
+msgid Unbound Army
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Battle-Forged Army
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Unaligned
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Imperium
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Chaos
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Detachment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Command Cost
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Codex
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fortification Network Detachment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Detachment Ability
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Reinforcement Unit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Battlefield Role Slot
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Battlefield Role
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid HQ
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Troops
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Elites
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fast Attack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Flyer
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Heavy Support
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fortification
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Dedicated Transport
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Lord of War
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Compulsory Slot
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Optional Slot
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Command Benefits
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Patrol Detachment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Battalion Detachment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Brigade Detachment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Vanguard Detachment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Spearhead Detachment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Outrider Detachment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Supreme Command Detachment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Super-Heavy Detachment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Super-Heavy Auxiliary Detachment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fortification Network
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Auxiliary Support Detachment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Army Roster
+msgstr ""
+

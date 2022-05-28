@@ -1,0 +1,2868 @@
+# 
+#: 
+msgctxt 
+msgid Abhuman
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ability
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Act of Faith
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Active Player
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Advance
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Age of Sigmar
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Aircraft Model
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Allocate Attack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ally
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Alpha Legion
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ancestral Guardian
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Armor Piercing
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Armour Penetration (AP)
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Armour Saving Throw
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Army
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Army Faction
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Assassin
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Assault
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Assault Weapon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Attacks (A)
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Aura Ability
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Autocannon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Automatically Hit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Automatically Pass
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Automatically Succeed
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Automatically Wound
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Auxiliary Detachment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Avengers
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ballistic Skill (BS)
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Banshee
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Barkbarkstar
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Base
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Base
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Bastiladon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Battle Round
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Battle Sisters
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Battle Standard Bearer
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Battle Tank
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Battle-Forged Command Phase Bonus
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Battlefield
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Battlefield Role
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Battleshock
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Bearer
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Beast of Nurgle
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Beasts of Chaos
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Below Half-Strength
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Black Templar
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blast Weapon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blaster
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blessing of the Blood God
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blood Angel
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Bloodcrusher
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Bloodthirster
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Blowpipe
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Bonus
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Border Princes
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Brimstone Horror
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Building
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Burst Cannon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Carnifex
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Carnosaur
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Caste
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Casualties
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cavalry
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Chameleon Skink
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Champion
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Chaos Dwarf
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Chaos God
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Chaos Space Marines
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Chaos Spawn
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Chaos Terminator
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Character
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Characteristic
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Charge Phase
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Chief
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Chimera-chassis
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Citadel
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cloak of Feathers
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Close Combat Weapon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Codex
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cohort
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cold One
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Combat Attrition Test
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Combat Patrol
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Combat Resolution
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Combi-Weapon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Comet of Cassandora
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Command Phase
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Command Points (CP)
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Composition
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Conscript
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Consolidation
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Consolidation Move
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Construct
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Controller
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Counter Attack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Craftworld
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cube of Darkness
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Cycle Charge
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Daemon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Damage (D)
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Damage Roll
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Damage Table
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Dark Angel
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Dark Elf
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Dark Lance
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Datasheet
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Deamon Prince
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Declaring a Charge
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Deep Strike
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Deny the Witch Test
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Destroyed Model
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Destroyed Unit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Detachment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Detachment Ability
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Detachment Rule
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Devourer
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Dire Avenger
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Disembark
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Dispel Dice
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Dispel Scroll
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Divine Guidance
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Doomstack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Double Roll
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Dragon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Draigostar
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Dreadnought
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Eldar Jetbike
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Eligible Target
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Embark
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Emperor's Peace
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Empire Steam Tank
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid End of the Phase
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Enemy
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Enemy Model
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Enemy Unit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Engagement Range
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Engine of the Gods
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Equipment
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Estalia
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Faction
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Failed Attack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Falcon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Falcon Grav Tank
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fall Back
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fallen Back
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fast Cavalry
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fight Phase
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fire Dragon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Flamer
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Flesh Hound
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Flock of Doom
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fly Model
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Flying Monstrous Creature
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Fortification
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Friendly Model
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Friendly Unit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Full Wounds Remaining
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Goblin
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Great Unclean One
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Greater Daemon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Grenade
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Grenade Louncher
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Grey Hunters
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Grey Knight
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Guard Equivalent
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Guardian
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Half-Strength
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Half-Strength
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Hammerhead
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Hand Weapon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Harlequin
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Heavens Skink
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Heavy Armour
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Heavy Flamer
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Heavy Weapon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Herald of Khorne
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Herald of Nurgle
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Herald of Slaanesh
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Herald of Tzeentch
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Heresy
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Heretic
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Heroic Intervention
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid High Elf
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Hit and Run
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Hit Roll
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Hive Guard
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Horde
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Hull
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Icon of Khorne
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Icon of Nurgle
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Icon of Slaanesh
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Icon of Tzeentch
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ignoring Wounds
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Immortal
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Imperial Creed
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Imperial Cult
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Imperial Guard
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Imperials
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid In Terrain
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Incursion
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Independent Character
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Infantry
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Inflict Damage
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Initiative
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Inspiring Leader
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Invulnerable Save
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Irresistible Force
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Javelin
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Keeper of Secrets
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Keyword
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Keyword
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Kroxigor
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Land Raider
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Land Raider Crusader
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Land Raider Redeemer
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Laspistol
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Leadership (Ld)
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Legion
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Legion of Chaos
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Leman Russ
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Leman Russ Demolisher
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Leman Russ Vanquisher
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Light Armour
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Lightning Claws
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Lizardmen
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Lord of Change
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Loyalist
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Manifest Psychic Power
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Manufacturum
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Marine Equivalent
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mark of Chaos
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mark of Khorne
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mark of Nurgle
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mark of Slaanesh
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mark of Tzeentch
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mazdamundi
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Melta Range
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Meltagun
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Min-max
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Miniature
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Minimum Move
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Miscast
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Missile Launcher
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mission
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Model
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Model Wholly Within
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Model Within
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Modifier
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Monster
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Monstrous Cavalry
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Monstrous Creature
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Morale Phase
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Morghast
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mortal Wound
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mortal Wounds
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Move (M)
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Movement Phase
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Multi-Melta
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Musician
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mutation
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Night Goblin
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid No Retreat
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Nob Biker
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Normal Move
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Noxious Touch
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Objective Marker
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Objective Secured
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Obliterator
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Obscured
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ogre Kingdoms
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Oldblood
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Onslaught
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ork
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Out of Bounds
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Out of Coherency
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Overwatch
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Overwatch Attack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Palanquin
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Pariah
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Pariah Gene
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Perils of the Warp
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Phase
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Pict
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Pile In
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Pistol
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Plaguebearer
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Plasma Cannon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Power Armoured Grey Knight
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Power Dice
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Power Klaw
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Power Level
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Power Rating
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Power Weapon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Powerfist
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Predatory Fighter
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Primary Objective
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Profiles
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Proton Torpedo
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Psybolt Ammo
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Psychic Phase
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Psychic Test
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Psyker
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Raider
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Railhead
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Range
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ranged Attack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ranged Weapon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Rapid Fire Weapon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Razorback
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Razordon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Re-roll
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Re-Roll
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Regaining Wounds
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Reinforcement Unit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Reinforcements
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Remain Stationary
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Remained Stationary
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Requisition Point
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Reserve
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Resolve Attack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Rino
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Ripperdactyl
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Riptide Wing
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Roll
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Roll-Off
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Salamander
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Saurus Scar Veteran
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Save (Sv)
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Saved Attack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Saving Throw
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Scorpion
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Screamerstar
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Serpent
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Shield of Civilization
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Shooting Phase
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Single Entity Monster
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Skink
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Skirmisher
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Slann
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Slave
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Smite
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Solar Engine
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Soul Grinder
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Space Marines
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Space Wolves
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Special Character
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Spell
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Spirit of the Martyr
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Splinter Cannon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Stack
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Starting Strength
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Static Combat Resolution
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Stratagem
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Strategic Reserves
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Strength (S)
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Strike Force
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Suffered Casualities
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Swarmlord
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Talisman of Protection
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Tank Eldar
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Tank Shock
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Target
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Temple Guard
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Termagant
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Terminator Equivalent
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Terrain
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Terrorgheist
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid The Changling
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Tie
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Tilea
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Tomb King
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Toughness (T)
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Traitor
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Transport
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Transport Capacity
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Transport Capacity
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Transport Model
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Treachery
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Triumph
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Troop Choice
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Trueborn
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Turn
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Type
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Tyranid
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Understrength Unit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Unit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Unit Coherency
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Unit Coherency Check
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Unit Wholly Within
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Unit Within
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Unmodified Dice
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Vampire Count
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Vassal
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Vehicle
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Venom
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Veteran
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Veteran Sister Superior
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Victor
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Victory Point
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Vindicator
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Visible
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Wargear
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Warlord
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Warp Charge
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Warp Spider
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Warrior of Chaos
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Wave Serpent
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Weapon
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Weapon Skill (WS)
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid wholly within
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Winds of Magic
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Witch Hunters
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid within
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Wizard
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Wolfstar
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Wound Roll
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Wounds (W)
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mission
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Army
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Power Level
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Model
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Miniature
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Citadel
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Battlefield
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Power Rating
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Unit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Datasheet
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Keyword
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Faction
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Legion
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Mark of Chaos
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Friendly Model
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Enemy Model
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Friendly Unit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Enemy Unit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Unit Coherency
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Engagement Range
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Terrain
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Base
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid within
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid wholly within
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Modifier
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Roll
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Re-Roll
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Unmodified Dice
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Roll-Off
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Starting Strength
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Half-Strength
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Destroyed Unit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Destroyed Model
+msgstr ""
+
+# 
+#: 
+msgctxt Battle Round
+msgid Round
+msgstr ""
+
+# 
+#: 
+msgctxt Battle Round
+msgid Turn
+msgstr ""
+
+# 
+#: 
+msgctxt Battle Round
+msgid Command Phase
+msgstr ""
+
+# 
+#: 
+msgctxt Battle Round
+msgid Movement Phase
+msgstr ""
+
+# 
+#: 
+msgctxt Battle Round
+msgid Psychic Phase
+msgstr ""
+
+# 
+#: 
+msgctxt Battle Round
+msgid Shooting Phase
+msgstr ""
+
+# 
+#: 
+msgctxt Battle Round
+msgid Charge Phase
+msgstr ""
+
+# 
+#: 
+msgctxt Battle Round
+msgid Fight Phase
+msgstr ""
+
+# 
+#: 
+msgctxt Battle Round
+msgid Morale Phase
+msgstr ""
+
+# 
+#: 
+msgctxt Battle Round
+msgid Out of Phase
+msgstr ""
+
+# 
+#: 
+msgctxt Stratagems
+msgid Core Stratagem
+msgstr ""
+
+# 
+#: 
+msgctxt Stratagems
+msgid Command Re-Roll
+msgstr ""
+
+# 
+#: 
+msgctxt Stratagems
+msgid Cut Them Down
+msgstr ""
+
+# 
+#: 
+msgctxt Stratagems
+msgid Desperate Breakout
+msgstr ""
+
+# 
+#: 
+msgctxt Stratagems
+msgid Emergency Disembarkation
+msgstr ""
+
+# 
+#: 
+msgctxt Stratagems
+msgid Fire Overwatch
+msgstr ""
+
+# 
+#: 
+msgctxt Stratagems
+msgid Counter-Offensive
+msgstr ""
+
+# 
+#: 
+msgctxt Stratagems
+msgid Insane Bravery
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Strategic Resources
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Strategic Reserve Unit
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Action
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Psychic Action
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Light Cover
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Heavy Cover
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Dense Cover
+msgstr ""
+
+# 
+#: 
+msgctxt 
+msgid Benefits of Cover
+msgstr ""
+
+# 
+#: 
+msgctxt Rare Rule
+msgid Explodes
+msgstr ""
+

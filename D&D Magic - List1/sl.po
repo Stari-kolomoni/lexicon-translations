@@ -1,0 +1,252 @@
+# 
+#: 
+msgctxt Spell Component
+msgid Verbal
+msgstr ""
+
+# 
+#: 
+msgctxt Spell Component
+msgid Somatic
+msgstr ""
+
+# 
+#: 
+msgctxt Spell Component
+msgid Material
+msgstr ""
+
+# 
+#: 
+msgctxt Spell Duration
+msgid Instantaneous
+msgstr ""
+
+# 
+#: 
+msgctxt Spell Duration
+msgid Concentration
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Arcane Magic
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Cantrip
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Magic
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Spell Attack Bonus
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Spell Level
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Spell Save DC
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Spell Slot
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Spellbook
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Spellcasting
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Spellcasting Ability
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Spellcasting Class
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Ritual Casting
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Spellcasting Focus
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Domain
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Domain Spell
+msgstr ""
+
+# 
+#: 
+msgctxt Druid Subclass Feature
+msgid Beast Spell
+msgstr ""
+
+# 
+#: 
+msgctxt Druid Subclass Feature
+msgid Circle Spell
+msgstr ""
+
+# 
+#: 
+msgctxt Wizard Subclass Feature
+msgid War Magic
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Charge (spell-related)
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Arcane Charge
+msgstr ""
+
+# 
+#: 
+msgctxt Fighter Subclass Feature
+msgid Improved War Magic
+msgstr ""
+
+# 
+#: 
+msgctxt Metamagic
+msgid Elemental Spell
+msgstr ""
+
+# 
+#: 
+msgctxt Subclass Feature
+msgid Oath Spell
+msgstr ""
+
+# 
+#: 
+msgctxt Metamagic
+msgid Careful Spell
+msgstr ""
+
+# 
+#: 
+msgctxt Metamagic
+msgid Distant Spell
+msgstr ""
+
+# 
+#: 
+msgctxt Metamagic
+msgid Empowered Spell
+msgstr ""
+
+# 
+#: 
+msgctxt Metamagic
+msgid Extended Spell
+msgstr ""
+
+# 
+#: 
+msgctxt Metamagic
+msgid Heightened Spell
+msgstr ""
+
+# 
+#: 
+msgctxt Metamagic
+msgid Quickened Spell
+msgstr ""
+
+# 
+#: 
+msgctxt Metamagic
+msgid Subtle Spell
+msgstr ""
+
+# 
+#: 
+msgctxt Metamagic
+msgid Twinned Spell
+msgstr ""
+
+# 
+#: 
+msgctxt Warlock Feature
+msgid Pact Magic
+msgstr ""
+
+# 
+#: 
+msgctxt Wizard Subclass Feature
+msgid Sculpt Spell
+msgstr ""
+
+# 
+#: 
+msgctxt Wizard Subclass Feature
+msgid Potent Cantrip
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Spell Duration
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Spell Component
+msgstr ""
+
+# 
+#: 
+msgctxt Spellcasting
+msgid Cast a Spell
+msgstr ""
+
